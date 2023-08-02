@@ -35,6 +35,3 @@ df.to_csv("C:/Users/yashp/Downloads/healthcare_dataset.csv", index=False)
 
 print("Dummy dataset saved to 'healthcare_dataset.csv'")
 
-# Display the dummy dataset
-print(df.columns)
-
