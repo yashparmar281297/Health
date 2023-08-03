@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import random
 
-#list of diseses
+#list of diseases
 diseases = [
     "Influenza", "Eczema", "Influenza", "Diabetes", "Hyperthyroidism", "Migraine",
     "Liver Cancer", "Rheumatoid Arthritis", "Stroke", "Dengue Fever", "Asthma", "Bronchitis",
