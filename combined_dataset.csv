@@ -1,0 +1,1201 @@
+Diseases,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Systolic Blood Pressure,Diastolic Blood Pressure,Cholesterol Level
+Rheumatoid Arthritis,103.0,0.0,0.0,,26.0,,97.0,81.0,234.0
+Liver Cancer,99.0,,1.0,,39.0,,116.0,74.0,158.0
+Diabetes,103.0,1.0,0.0,0.0,53.0,Male,114.0,94.0,120.0
+Eczema,104.0,0.0,0.0,0.0,34.0,Female,141.0,94.0,199.0
+Eczema,105.0,0.0,,,50.0,Female,101.0,74.0,186.0
+Psoriasis,100.0,1.0,0.0,1.0,50.0,Male,92.0,83.0,136.0
+Diabetes,103.0,,1.0,,45.0,,116.0,73.0,194.0
+"Eating Disorders (Anorexia, Bulimia)",104.0,,0.0,,35.0,Female,104.0,95.0,173.0
+Psoriasis,102.0,,,,37.0,Female,98.0,95.0,126.0
+Hypertensive Heart Disease,100.0,1.0,0.0,,30.0,,,88.0,162.0
+Eczema,104.0,0.0,1.0,0.0,75.0,Male,124.0,61.0,178.0
+Gastroenteritis,101.0,,1.0,1.0,33.0,,109.0,89.0,179.0
+Eczema,102.0,,0.0,,25.0,Female,140.0,94.0,239.0
+Urinary Tract Infection,103.0,0.0,,0.0,18.0,,153.0,100.0,192.0
+Tuberculosis,95.0,,,0.0,23.0,,147.0,93.0,217.0
+Gastroenteritis,95.0,,1.0,,67.0,Male,146.0,86.0,231.0
+Asthma,98.0,,,,56.0,Female,100.0,83.0,218.0
+Psoriasis,103.0,,0.0,0.0,74.0,,129.0,76.0,128.0
+Rheumatoid Arthritis,101.0,1.0,,0.0,22.0,Female,150.0,99.0,215.0
+Eczema,105.0,1.0,0.0,1.0,69.0,,105.0,66.0,167.0
+"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,1.0,0.0,63.0,Male,160.0,89.0,237.0
+"Eating Disorders (Anorexia, Bulimia)",102.0,0.0,1.0,1.0,45.0,Female,126.0,74.0,195.0
+Urinary Tract Infection,102.0,0.0,0.0,1.0,52.0,Male,149.0,91.0,142.0
+Diabetes,97.0,0.0,,1.0,57.0,Male,144.0,90.0,238.0
+Urinary Tract Infection,97.0,,0.0,,39.0,Female,119.0,93.0,234.0
+Psoriasis,102.0,1.0,,0.0,29.0,,97.0,67.0,123.0
+Influenza,,,1.0,1.0,51.0,Male,,90.0,133.0
+Hyperthyroidism,95.0,0.0,,1.0,48.0,Male,117.0,68.0,226.0
+Rheumatoid Arthritis,,,0.0,1.0,68.0,Female,139.0,72.0,232.0
+Chickenpox,105.0,,1.0,1.0,35.0,Male,139.0,81.0,171.0
+Dengue Fever,109.0,,,,27.0,Male,141.0,79.0,172.0
+Hyperthyroidism,107.0,,,0.0,36.0,Female,110.0,67.0,134.0
+Psoriasis,100.0,0.0,1.0,,69.0,Male,138.0,80.0,122.0
+Cerebral Palsy,100.0,0.0,0.0,,70.0,Female,146.0,74.0,188.0
+Urinary Tract Infection,102.0,0.0,1.0,0.0,39.0,Male,123.0,65.0,135.0
+Hyperthyroidism,,0.0,1.0,0.0,34.0,Female,149.0,89.0,170.0
+Urinary Tract Infection,104.0,1.0,,0.0,74.0,Female,158.0,64.0,120.0
+Gastroenteritis,100.0,0.0,0.0,0.0,55.0,Male,94.0,78.0,131.0
+Rheumatoid Arthritis,97.0,1.0,1.0,1.0,20.0,Female,142.0,80.0,228.0
+Gastroenteritis,,,,1.0,52.0,Female,108.0,62.0,189.0
+Urinary Tract Infection,,0.0,1.0,0.0,54.0,,142.0,73.0,159.0
+"Eating Disorders (Anorexia, Bulimia)",95.0,0.0,,0.0,36.0,Female,129.0,81.0,184.0
+Influenza,98.0,,0.0,,48.0,Male,112.0,78.0,179.0
+Influenza,98.0,,,,56.0,Female,105.0,66.0,202.0
+Tuberculosis,96.0,0.0,,0.0,,Female,144.0,78.0,129.0
+Dengue Fever,100.0,0.0,0.0,1.0,62.0,Male,109.0,70.0,214.0
+Chickenpox,,0.0,0.0,1.0,35.0,Female,152.0,81.0,223.0
+Gastroenteritis,,1.0,0.0,,49.0,,,79.0,176.0
+Hypertensive Heart Disease,106.0,0.0,1.0,0.0,63.0,,149.0,87.0,194.0
+Urinary Tract Infection,101.0,0.0,,0.0,53.0,Male,127.0,82.0,130.0
+Influenza,106.0,0.0,0.0,1.0,,Female,97.0,93.0,171.0
+Cerebral Palsy,101.0,1.0,1.0,0.0,77.0,Male,104.0,65.0,226.0
+Hypertensive Heart Disease,97.0,0.0,1.0,,39.0,Male,109.0,75.0,194.0
+Diabetes,99.0,,0.0,1.0,34.0,Male,91.0,67.0,187.0
+Chickenpox,104.0,0.0,0.0,0.0,23.0,Male,139.0,61.0,186.0
+Gastroenteritis,102.0,1.0,0.0,1.0,36.0,,96.0,75.0,235.0
+Psoriasis,,0.0,,0.0,40.0,Male,152.0,68.0,183.0
+Dengue Fever,100.0,0.0,,,60.0,Male,101.0,80.0,228.0
+Influenza,96.0,1.0,0.0,1.0,22.0,Male,111.0,64.0,140.0
+Stroke,97.0,0.0,1.0,0.0,21.0,Male,160.0,69.0,133.0
+Chickenpox,103.0,,,,19.0,,152.0,65.0,166.0
+Influenza,105.0,,,1.0,73.0,Male,107.0,94.0,182.0
+Dengue Fever,106.0,0.0,1.0,,68.0,,156.0,99.0,124.0
+Tuberculosis,95.0,,0.0,1.0,51.0,,159.0,66.0,154.0
+Autism Spectrum Disorder (ASD),109.0,1.0,1.0,,41.0,Male,154.0,60.0,185.0
+Urinary Tract Infection,108.0,0.0,,,54.0,Female,108.0,66.0,134.0
+Influenza,96.0,0.0,0.0,1.0,20.0,Male,125.0,87.0,130.0
+Stroke,,,0.0,1.0,28.0,,147.0,70.0,135.0
+Gastroenteritis,106.0,,,1.0,52.0,Male,151.0,75.0,141.0
+Autism Spectrum Disorder (ASD),,0.0,1.0,,80.0,Female,93.0,82.0,186.0
+Influenza,107.0,0.0,0.0,0.0,59.0,Female,114.0,86.0,170.0
+Stroke,108.0,1.0,,1.0,41.0,Female,110.0,91.0,147.0
+Urinary Tract Infection,108.0,1.0,1.0,0.0,23.0,,116.0,67.0,178.0
+Chickenpox,101.0,0.0,0.0,1.0,21.0,Male,100.0,88.0,148.0
+Eczema,95.0,,,1.0,20.0,Male,131.0,91.0,187.0
+Eczema,109.0,0.0,1.0,,40.0,,149.0,79.0,194.0
+Cerebral Palsy,98.0,,0.0,0.0,19.0,,127.0,69.0,152.0
+Tuberculosis,97.0,,1.0,1.0,46.0,,107.0,67.0,133.0
+"Eating Disorders (Anorexia, Bulimia)",95.0,1.0,,,66.0,,136.0,99.0,142.0
+Influenza,102.0,1.0,,,63.0,Female,129.0,69.0,128.0
+Stroke,108.0,1.0,,,62.0,Female,133.0,89.0,171.0
+Stroke,99.0,1.0,,1.0,33.0,,149.0,93.0,125.0
+Hyperthyroidism,104.0,0.0,0.0,1.0,68.0,,142.0,80.0,152.0
+Asthma,95.0,1.0,0.0,,46.0,Female,90.0,76.0,212.0
+Gastroenteritis,103.0,1.0,1.0,,35.0,Male,134.0,98.0,150.0
+Psoriasis,,1.0,0.0,0.0,78.0,Male,113.0,,132.0
+Urinary Tract Infection,98.0,1.0,0.0,1.0,42.0,Male,94.0,94.0,150.0
+Liver Cancer,95.0,,,0.0,53.0,Male,133.0,68.0,
+Hyperthyroidism,,0.0,0.0,0.0,66.0,,119.0,77.0,182.0
+Gastroenteritis,101.0,,1.0,1.0,18.0,Male,122.0,82.0,126.0
+Influenza,102.0,,,,54.0,Female,138.0,62.0,158.0
+Dengue Fever,109.0,0.0,0.0,,57.0,Female,103.0,89.0,137.0
+Hypertensive Heart Disease,102.0,,0.0,0.0,24.0,Female,150.0,91.0,145.0
+Stroke,,0.0,0.0,0.0,,Female,131.0,72.0,120.0
+Psoriasis,103.0,1.0,1.0,0.0,31.0,Male,138.0,97.0,134.0
+Liver Cancer,106.0,1.0,1.0,,41.0,Female,139.0,77.0,140.0
+Influenza,104.0,,0.0,1.0,37.0,Male,154.0,75.0,233.0
+Stroke,,0.0,0.0,0.0,55.0,Female,129.0,85.0,151.0
+Diabetes,105.0,,,0.0,72.0,,139.0,92.0,235.0
+Bronchitis,106.0,1.0,,,79.0,,111.0,93.0,162.0
+Hypertensive Heart Disease,101.0,0.0,0.0,1.0,51.0,,144.0,69.0,148.0
+Migraine,108.0,1.0,,,64.0,Female,159.0,84.0,190.0
+Rheumatoid Arthritis,99.0,,1.0,,27.0,Female,104.0,75.0,125.0
+Influenza,102.0,0.0,1.0,0.0,50.0,Male,100.0,94.0,138.0
+Tuberculosis,101.0,,1.0,1.0,34.0,,125.0,88.0,207.0
+Influenza,105.0,1.0,,0.0,52.0,,97.0,83.0,168.0
+Liver Cancer,98.0,0.0,0.0,,69.0,,132.0,67.0,177.0
+Migraine,101.0,1.0,1.0,,73.0,,123.0,75.0,191.0
+Migraine,98.0,0.0,1.0,,49.0,Male,93.0,70.0,204.0
+Migraine,106.0,,1.0,,38.0,Female,123.0,63.0,237.0
+Asthma,101.0,,1.0,1.0,44.0,Female,150.0,65.0,206.0
+"Eating Disorders (Anorexia, Bulimia)",100.0,1.0,,1.0,66.0,Female,141.0,98.0,206.0
+Psoriasis,106.0,0.0,,1.0,30.0,Male,154.0,70.0,235.0
+Stroke,97.0,,,0.0,29.0,,97.0,96.0,152.0
+Psoriasis,97.0,0.0,1.0,1.0,55.0,Male,154.0,63.0,229.0
+Stroke,100.0,1.0,0.0,0.0,64.0,Male,125.0,81.0,134.0
+Cerebral Palsy,99.0,,,1.0,76.0,Female,157.0,86.0,215.0
+Migraine,101.0,0.0,1.0,1.0,21.0,,,62.0,147.0
+"Eating Disorders (Anorexia, Bulimia)",96.0,1.0,0.0,1.0,19.0,,115.0,68.0,188.0
+Hyperthyroidism,104.0,1.0,0.0,1.0,67.0,Male,156.0,84.0,128.0
+Autism Spectrum Disorder (ASD),102.0,1.0,,0.0,47.0,Male,100.0,90.0,182.0
+Influenza,98.0,,1.0,0.0,19.0,Female,124.0,63.0,207.0
+Cerebral Palsy,107.0,1.0,,1.0,48.0,Male,148.0,66.0,214.0
+Chickenpox,104.0,0.0,1.0,0.0,29.0,Female,112.0,89.0,200.0
+Influenza,105.0,1.0,0.0,0.0,44.0,Male,142.0,75.0,181.0
+Diabetes,105.0,0.0,0.0,1.0,78.0,,103.0,60.0,140.0
+Urinary Tract Infection,100.0,0.0,,,52.0,Female,132.0,79.0,201.0
+Gastroenteritis,95.0,0.0,0.0,,54.0,,151.0,65.0,231.0
+Chickenpox,105.0,1.0,,,42.0,Male,93.0,96.0,183.0
+Influenza,99.0,,,0.0,42.0,Female,144.0,97.0,182.0
+Diabetes,103.0,,1.0,0.0,56.0,,112.0,93.0,214.0
+Liver Cancer,103.0,1.0,0.0,0.0,59.0,,153.0,77.0,223.0
+Asthma,100.0,1.0,0.0,,52.0,,147.0,63.0,160.0
+Diabetes,104.0,,,1.0,78.0,Female,104.0,76.0,139.0
+Cerebral Palsy,109.0,0.0,1.0,0.0,19.0,Male,94.0,77.0,238.0
+Dengue Fever,101.0,0.0,0.0,0.0,37.0,Female,157.0,89.0,168.0
+Asthma,106.0,,0.0,,71.0,,98.0,88.0,220.0
+Gastroenteritis,98.0,,1.0,,58.0,,150.0,73.0,155.0
+Influenza,99.0,,1.0,0.0,58.0,,127.0,87.0,231.0
+Hypertensive Heart Disease,,1.0,0.0,0.0,24.0,,109.0,74.0,171.0
+Influenza,109.0,,,1.0,65.0,,107.0,90.0,131.0
+Liver Cancer,106.0,0.0,0.0,,41.0,,94.0,98.0,138.0
+Stroke,104.0,0.0,,1.0,66.0,Male,141.0,67.0,225.0
+Stroke,105.0,1.0,1.0,0.0,37.0,Female,156.0,82.0,135.0
+Asthma,100.0,0.0,,,61.0,Male,105.0,69.0,237.0
+Dengue Fever,101.0,,,,64.0,Male,116.0,63.0,168.0
+Eczema,97.0,1.0,1.0,1.0,34.0,,111.0,93.0,231.0
+Asthma,103.0,1.0,1.0,0.0,53.0,,103.0,67.0,174.0
+Tuberculosis,95.0,0.0,,0.0,41.0,Female,142.0,77.0,208.0
+Liver Cancer,95.0,0.0,,1.0,70.0,Female,109.0,77.0,143.0
+Migraine,103.0,0.0,1.0,1.0,29.0,Female,118.0,72.0,147.0
+Hypertensive Heart Disease,105.0,0.0,1.0,1.0,30.0,Female,118.0,88.0,136.0
+Liver Cancer,102.0,0.0,1.0,1.0,58.0,Male,108.0,75.0,173.0
+Rheumatoid Arthritis,104.0,1.0,1.0,0.0,60.0,Male,96.0,91.0,141.0
+Hypertensive Heart Disease,108.0,0.0,1.0,1.0,71.0,,143.0,61.0,130.0
+Stroke,95.0,0.0,1.0,0.0,52.0,,112.0,64.0,166.0
+Hypertensive Heart Disease,106.0,1.0,,1.0,21.0,,144.0,67.0,233.0
+"Eating Disorders (Anorexia, Bulimia)",105.0,1.0,,,50.0,Female,105.0,98.0,206.0
+Stroke,102.0,1.0,1.0,0.0,58.0,,91.0,100.0,208.0
+Asthma,100.0,0.0,0.0,0.0,44.0,Male,119.0,60.0,240.0
+Gastroenteritis,,0.0,0.0,0.0,33.0,Female,113.0,69.0,146.0
+Eczema,103.0,0.0,,0.0,19.0,,107.0,,147.0
+Eczema,96.0,,1.0,1.0,79.0,,144.0,79.0,134.0
+Eczema,,,,1.0,69.0,Female,102.0,96.0,134.0
+Cerebral Palsy,104.0,,0.0,,59.0,,,60.0,207.0
+Migraine,97.0,1.0,1.0,0.0,20.0,,159.0,63.0,230.0
+Asthma,101.0,,0.0,,63.0,Female,150.0,96.0,138.0
+Psoriasis,105.0,,,0.0,73.0,Female,114.0,68.0,200.0
+Hyperthyroidism,104.0,0.0,1.0,,23.0,Male,103.0,92.0,176.0
+Tuberculosis,107.0,,,1.0,53.0,Female,120.0,72.0,218.0
+Urinary Tract Infection,107.0,0.0,,,53.0,,103.0,82.0,240.0
+Stroke,103.0,1.0,,0.0,23.0,Female,132.0,70.0,152.0
+Influenza,95.0,1.0,,1.0,50.0,Male,90.0,77.0,202.0
+Bronchitis,105.0,0.0,0.0,0.0,68.0,,150.0,74.0,167.0
+Stroke,103.0,,0.0,0.0,57.0,Male,155.0,77.0,178.0
+Gastroenteritis,,1.0,1.0,1.0,73.0,Male,121.0,71.0,151.0
+Asthma,99.0,1.0,0.0,1.0,45.0,,160.0,88.0,127.0
+Migraine,109.0,1.0,1.0,,66.0,Male,155.0,72.0,183.0
+Rheumatoid Arthritis,98.0,0.0,1.0,0.0,60.0,Male,133.0,94.0,200.0
+Cerebral Palsy,103.0,,,,19.0,Male,137.0,90.0,156.0
+Gastroenteritis,98.0,1.0,,,62.0,Female,120.0,74.0,162.0
+Urinary Tract Infection,106.0,,,1.0,77.0,,104.0,82.0,218.0
+Cerebral Palsy,97.0,,0.0,0.0,57.0,Male,121.0,61.0,184.0
+Rheumatoid Arthritis,102.0,,,1.0,19.0,,95.0,82.0,207.0
+Diabetes,98.0,,0.0,,18.0,Female,101.0,,240.0
+Influenza,106.0,0.0,1.0,,59.0,Female,132.0,90.0,149.0
+Liver Cancer,95.0,1.0,0.0,1.0,27.0,,129.0,65.0,239.0
+Rheumatoid Arthritis,108.0,1.0,0.0,,56.0,Male,98.0,93.0,207.0
+Hyperthyroidism,96.0,0.0,0.0,1.0,74.0,Male,158.0,98.0,234.0
+Liver Cancer,105.0,1.0,1.0,0.0,74.0,Female,115.0,73.0,178.0
+Hypertensive Heart Disease,107.0,0.0,1.0,0.0,55.0,Female,130.0,65.0,137.0
+Autism Spectrum Disorder (ASD),,1.0,1.0,0.0,80.0,Male,107.0,95.0,198.0
+Liver Cancer,103.0,,1.0,0.0,42.0,Female,98.0,95.0,165.0
+Dengue Fever,100.0,1.0,,1.0,74.0,Male,146.0,64.0,178.0
+Urinary Tract Infection,96.0,,1.0,,31.0,Male,97.0,81.0,158.0
+Autism Spectrum Disorder (ASD),100.0,0.0,1.0,0.0,80.0,,157.0,75.0,168.0
+Diabetes,101.0,,1.0,1.0,67.0,,155.0,,136.0
+Migraine,109.0,1.0,1.0,0.0,72.0,,107.0,73.0,132.0
+Gastroenteritis,96.0,,,1.0,74.0,Female,138.0,93.0,209.0
+Psoriasis,102.0,,0.0,0.0,59.0,Female,135.0,68.0,227.0
+Bronchitis,105.0,1.0,1.0,,,Male,132.0,85.0,143.0
+Influenza,104.0,1.0,,1.0,77.0,,90.0,86.0,201.0
+Liver Cancer,102.0,,0.0,0.0,57.0,Female,151.0,84.0,210.0
+Liver Cancer,104.0,0.0,,1.0,23.0,,98.0,70.0,221.0
+Liver Cancer,100.0,0.0,0.0,0.0,18.0,Male,143.0,91.0,235.0
+Urinary Tract Infection,104.0,1.0,,0.0,54.0,Female,154.0,79.0,206.0
+Psoriasis,,,1.0,,77.0,,159.0,84.0,193.0
+Hyperthyroidism,104.0,0.0,0.0,0.0,63.0,Male,135.0,98.0,144.0
+Eczema,109.0,0.0,1.0,1.0,32.0,,111.0,73.0,153.0
+Dengue Fever,97.0,1.0,1.0,,58.0,Female,132.0,74.0,196.0
+Migraine,102.0,1.0,0.0,,48.0,,121.0,87.0,124.0
+Autism Spectrum Disorder (ASD),107.0,1.0,1.0,1.0,52.0,,139.0,78.0,182.0
+Eczema,96.0,,1.0,,55.0,,156.0,89.0,202.0
+Chickenpox,95.0,1.0,1.0,1.0,61.0,,138.0,78.0,179.0
+Asthma,105.0,0.0,,1.0,19.0,,145.0,95.0,169.0
+Autism Spectrum Disorder (ASD),104.0,,,1.0,28.0,Female,121.0,100.0,190.0
+Asthma,107.0,0.0,1.0,0.0,75.0,Male,141.0,91.0,154.0
+Tuberculosis,95.0,,,,51.0,Female,134.0,84.0,199.0
+Stroke,100.0,1.0,,0.0,44.0,,133.0,74.0,238.0
+Cerebral Palsy,98.0,,0.0,1.0,57.0,Male,155.0,98.0,188.0
+Psoriasis,103.0,1.0,0.0,0.0,67.0,,134.0,66.0,158.0
+Stroke,103.0,,1.0,1.0,40.0,Female,108.0,91.0,170.0
+Diabetes,106.0,0.0,0.0,,49.0,,115.0,80.0,205.0
+Hyperthyroidism,97.0,,0.0,,,Male,92.0,85.0,162.0
+Autism Spectrum Disorder (ASD),99.0,,,0.0,54.0,Female,95.0,,185.0
+Dengue Fever,102.0,1.0,1.0,1.0,67.0,Female,109.0,,166.0
+Psoriasis,,0.0,0.0,0.0,74.0,Female,138.0,65.0,175.0
+Autism Spectrum Disorder (ASD),108.0,0.0,,1.0,,Female,160.0,80.0,212.0
+Liver Cancer,96.0,1.0,,0.0,67.0,Female,150.0,67.0,158.0
+Diabetes,106.0,1.0,0.0,1.0,42.0,Female,101.0,69.0,229.0
+Eczema,98.0,0.0,1.0,1.0,58.0,,137.0,,134.0
+Asthma,100.0,0.0,0.0,1.0,20.0,Female,103.0,81.0,137.0
+Migraine,108.0,,,0.0,35.0,Female,106.0,63.0,222.0
+Urinary Tract Infection,,,,0.0,74.0,Female,100.0,82.0,204.0
+Urinary Tract Infection,101.0,0.0,,,35.0,Male,134.0,66.0,188.0
+Urinary Tract Infection,108.0,,,1.0,76.0,,103.0,76.0,139.0
+Psoriasis,108.0,0.0,,,59.0,Female,106.0,84.0,121.0
+Influenza,95.0,0.0,1.0,1.0,22.0,Male,102.0,61.0,178.0
+Autism Spectrum Disorder (ASD),98.0,1.0,1.0,,78.0,Female,144.0,66.0,177.0
+Influenza,98.0,,1.0,1.0,25.0,Male,92.0,64.0,139.0
+Stroke,109.0,,0.0,1.0,75.0,Male,145.0,88.0,159.0
+Eczema,96.0,,,,80.0,Male,116.0,64.0,191.0
+"Eating Disorders (Anorexia, Bulimia)",100.0,0.0,0.0,0.0,21.0,,99.0,,161.0
+Hypertensive Heart Disease,95.0,0.0,1.0,0.0,65.0,Female,90.0,67.0,162.0
+Rheumatoid Arthritis,,1.0,0.0,1.0,42.0,Female,109.0,60.0,218.0
+Chickenpox,108.0,1.0,,,42.0,,107.0,92.0,225.0
+Stroke,99.0,,,1.0,,Female,109.0,65.0,226.0
+Cerebral Palsy,109.0,0.0,0.0,1.0,23.0,Male,126.0,71.0,155.0
+Chickenpox,99.0,,,1.0,23.0,,110.0,99.0,152.0
+Liver Cancer,105.0,,1.0,,42.0,Male,126.0,80.0,218.0
+Psoriasis,99.0,,,0.0,33.0,,138.0,65.0,209.0
+Chickenpox,106.0,,,1.0,61.0,Female,138.0,65.0,
+Influenza,102.0,1.0,0.0,0.0,23.0,Female,137.0,66.0,125.0
+Bronchitis,99.0,0.0,0.0,1.0,78.0,Female,141.0,99.0,168.0
+Gastroenteritis,107.0,0.0,0.0,0.0,51.0,,157.0,77.0,167.0
+Tuberculosis,101.0,,1.0,,51.0,Male,130.0,64.0,131.0
+Liver Cancer,,1.0,1.0,1.0,24.0,Male,139.0,90.0,157.0
+Liver Cancer,108.0,0.0,,1.0,38.0,Female,128.0,68.0,194.0
+Liver Cancer,108.0,1.0,0.0,,69.0,,127.0,62.0,194.0
+Influenza,98.0,0.0,1.0,1.0,71.0,Male,98.0,96.0,197.0
+Dengue Fever,97.0,,,1.0,53.0,,146.0,60.0,216.0
+Bronchitis,105.0,,,1.0,40.0,Female,122.0,,143.0
+Rheumatoid Arthritis,96.0,1.0,,,39.0,Female,102.0,70.0,127.0
+Migraine,105.0,1.0,0.0,1.0,74.0,Female,157.0,81.0,129.0
+Diabetes,106.0,1.0,1.0,1.0,45.0,,94.0,83.0,182.0
+Stroke,109.0,1.0,0.0,,59.0,Male,123.0,69.0,190.0
+Asthma,108.0,,1.0,,63.0,,142.0,86.0,207.0
+Migraine,103.0,,0.0,1.0,37.0,Female,125.0,84.0,165.0
+Asthma,104.0,,1.0,0.0,28.0,Female,116.0,71.0,159.0
+Bronchitis,,1.0,0.0,1.0,,,140.0,88.0,179.0
+Influenza,101.0,1.0,,,29.0,Male,138.0,68.0,140.0
+Cerebral Palsy,107.0,,,,70.0,Female,136.0,68.0,137.0
+Influenza,100.0,0.0,0.0,1.0,41.0,Male,127.0,63.0,182.0
+Stroke,96.0,1.0,,0.0,24.0,,156.0,68.0,217.0
+Hyperthyroidism,98.0,,0.0,0.0,68.0,Female,102.0,82.0,173.0
+Cerebral Palsy,100.0,0.0,,1.0,27.0,Male,150.0,88.0,165.0
+Autism Spectrum Disorder (ASD),96.0,0.0,1.0,1.0,49.0,Male,94.0,62.0,161.0
+Migraine,97.0,0.0,0.0,,43.0,Male,118.0,84.0,188.0
+Asthma,97.0,,0.0,,57.0,,153.0,83.0,138.0
+Rheumatoid Arthritis,108.0,,,0.0,63.0,Male,154.0,86.0,165.0
+Asthma,99.0,0.0,1.0,1.0,57.0,,96.0,95.0,174.0
+Tuberculosis,96.0,1.0,0.0,0.0,66.0,Female,135.0,84.0,192.0
+Liver Cancer,104.0,1.0,0.0,1.0,31.0,,107.0,62.0,224.0
+Cerebral Palsy,98.0,,1.0,,30.0,Female,122.0,62.0,205.0
+Diabetes,,1.0,0.0,,30.0,Male,133.0,64.0,127.0
+Hypertensive Heart Disease,109.0,,1.0,1.0,54.0,Male,97.0,63.0,224.0
+"Eating Disorders (Anorexia, Bulimia)",106.0,,1.0,1.0,69.0,Female,127.0,75.0,172.0
+"Eating Disorders (Anorexia, Bulimia)",101.0,1.0,0.0,1.0,36.0,,,94.0,134.0
+Diabetes,101.0,0.0,1.0,,38.0,Female,152.0,90.0,189.0
+Stroke,97.0,0.0,,0.0,69.0,Male,151.0,81.0,220.0
+Migraine,95.0,1.0,,1.0,43.0,Female,126.0,90.0,231.0
+Urinary Tract Infection,98.0,0.0,,1.0,31.0,,151.0,79.0,221.0
+Psoriasis,104.0,,1.0,,21.0,Male,90.0,63.0,157.0
+Eczema,98.0,1.0,0.0,1.0,65.0,Male,126.0,73.0,192.0
+Urinary Tract Infection,98.0,1.0,0.0,1.0,61.0,,137.0,87.0,145.0
+Tuberculosis,104.0,1.0,0.0,0.0,73.0,Male,153.0,83.0,165.0
+Cerebral Palsy,105.0,,,1.0,19.0,,157.0,60.0,129.0
+Tuberculosis,96.0,1.0,1.0,,37.0,Male,120.0,67.0,163.0
+Influenza,109.0,1.0,,1.0,38.0,Female,120.0,88.0,175.0
+Gastroenteritis,105.0,0.0,1.0,0.0,26.0,Male,103.0,90.0,238.0
+Autism Spectrum Disorder (ASD),102.0,,1.0,0.0,50.0,Female,147.0,76.0,174.0
+Asthma,96.0,,0.0,0.0,78.0,,129.0,86.0,126.0
+Psoriasis,102.0,0.0,0.0,0.0,76.0,,129.0,86.0,154.0
+Cerebral Palsy,101.0,0.0,,,73.0,,156.0,68.0,162.0
+Cerebral Palsy,95.0,1.0,,1.0,42.0,Female,90.0,71.0,182.0
+Hypertensive Heart Disease,109.0,1.0,1.0,1.0,74.0,,132.0,67.0,208.0
+Bronchitis,106.0,0.0,,1.0,53.0,,100.0,86.0,151.0
+Diabetes,103.0,1.0,1.0,1.0,60.0,Male,110.0,71.0,135.0
+Diabetes,96.0,,1.0,,61.0,,132.0,65.0,146.0
+Influenza,98.0,1.0,1.0,1.0,32.0,Female,132.0,64.0,165.0
+Hyperthyroidism,106.0,0.0,1.0,1.0,76.0,Female,136.0,69.0,189.0
+Tuberculosis,95.0,1.0,1.0,0.0,48.0,Female,159.0,71.0,155.0
+Liver Cancer,99.0,1.0,,0.0,53.0,Female,105.0,92.0,184.0
+Asthma,106.0,,1.0,0.0,40.0,Male,102.0,66.0,155.0
+Tuberculosis,95.0,,1.0,,36.0,,153.0,84.0,208.0
+Asthma,104.0,,,1.0,65.0,,119.0,100.0,189.0
+Psoriasis,105.0,0.0,0.0,,23.0,Male,135.0,82.0,182.0
+Psoriasis,100.0,0.0,1.0,0.0,74.0,Female,155.0,93.0,155.0
+Diabetes,95.0,,1.0,0.0,75.0,Female,105.0,87.0,129.0
+Gastroenteritis,101.0,1.0,,0.0,63.0,,107.0,86.0,182.0
+Hyperthyroidism,108.0,,0.0,,26.0,Male,105.0,93.0,201.0
+Bronchitis,101.0,,0.0,0.0,69.0,,126.0,81.0,124.0
+Hyperthyroidism,101.0,,0.0,1.0,30.0,Female,110.0,67.0,182.0
+Diabetes,102.0,1.0,,1.0,25.0,Male,103.0,97.0,120.0
+Influenza,109.0,0.0,0.0,,77.0,Male,125.0,78.0,225.0
+Hyperthyroidism,105.0,0.0,,1.0,21.0,Female,114.0,96.0,233.0
+Rheumatoid Arthritis,107.0,1.0,0.0,1.0,26.0,Female,,79.0,208.0
+Chickenpox,103.0,1.0,0.0,1.0,55.0,Male,135.0,83.0,139.0
+"Eating Disorders (Anorexia, Bulimia)",,0.0,,1.0,76.0,Male,134.0,77.0,204.0
+Rheumatoid Arthritis,101.0,,,,33.0,Male,137.0,100.0,144.0
+Psoriasis,,0.0,,,26.0,Male,94.0,97.0,145.0
+Tuberculosis,107.0,,1.0,0.0,62.0,,,95.0,200.0
+Dengue Fever,109.0,0.0,0.0,0.0,78.0,,93.0,98.0,233.0
+Cerebral Palsy,100.0,1.0,1.0,,28.0,Female,98.0,65.0,187.0
+Gastroenteritis,97.0,0.0,,0.0,63.0,Female,112.0,74.0,213.0
+Stroke,97.0,1.0,,,31.0,,121.0,66.0,240.0
+Chickenpox,100.0,1.0,,0.0,51.0,Female,131.0,61.0,174.0
+Urinary Tract Infection,103.0,0.0,0.0,0.0,23.0,Female,90.0,80.0,175.0
+Eczema,106.0,0.0,1.0,1.0,58.0,,144.0,81.0,222.0
+Liver Cancer,104.0,,,,77.0,Male,160.0,86.0,139.0
+Influenza,101.0,0.0,1.0,,40.0,Female,144.0,63.0,136.0
+Hypertensive Heart Disease,97.0,0.0,0.0,1.0,33.0,,105.0,63.0,177.0
+Bronchitis,,0.0,1.0,1.0,20.0,Male,144.0,88.0,131.0
+Migraine,101.0,,1.0,,79.0,Male,152.0,95.0,188.0
+Psoriasis,106.0,,1.0,,64.0,,151.0,93.0,201.0
+Urinary Tract Infection,105.0,0.0,1.0,,45.0,Female,110.0,90.0,207.0
+Urinary Tract Infection,101.0,,0.0,1.0,35.0,Female,160.0,81.0,128.0
+Gastroenteritis,96.0,1.0,,,46.0,Female,143.0,88.0,187.0
+Chickenpox,106.0,0.0,,,75.0,,101.0,61.0,149.0
+Influenza,98.0,,0.0,1.0,57.0,Male,114.0,64.0,204.0
+Chickenpox,98.0,,1.0,,45.0,Male,150.0,85.0,190.0
+Stroke,101.0,,0.0,1.0,64.0,Male,138.0,70.0,131.0
+Influenza,104.0,,1.0,,53.0,Female,95.0,96.0,178.0
+Chickenpox,,0.0,0.0,1.0,37.0,,131.0,75.0,124.0
+Gastroenteritis,96.0,0.0,,1.0,63.0,Male,156.0,92.0,151.0
+Hypertensive Heart Disease,98.0,1.0,1.0,1.0,22.0,,96.0,72.0,219.0
+Rheumatoid Arthritis,101.0,0.0,0.0,,47.0,,109.0,80.0,182.0
+Diabetes,104.0,,,,30.0,Male,94.0,90.0,120.0
+Influenza,101.0,0.0,,0.0,64.0,,123.0,61.0,123.0
+Migraine,106.0,,1.0,0.0,50.0,Female,150.0,86.0,207.0
+Tuberculosis,95.0,1.0,1.0,0.0,37.0,Male,125.0,90.0,211.0
+Hyperthyroidism,95.0,1.0,1.0,0.0,43.0,,157.0,78.0,137.0
+Bronchitis,100.0,0.0,,,33.0,Female,91.0,67.0,185.0
+Autism Spectrum Disorder (ASD),,0.0,,1.0,25.0,,151.0,73.0,152.0
+Bronchitis,96.0,0.0,,0.0,54.0,Female,125.0,90.0,222.0
+Stroke,106.0,1.0,0.0,1.0,50.0,Female,100.0,86.0,184.0
+Psoriasis,103.0,1.0,0.0,0.0,24.0,Female,130.0,61.0,130.0
+Influenza,109.0,0.0,,,34.0,Female,105.0,98.0,202.0
+Asthma,98.0,0.0,,1.0,28.0,Male,120.0,87.0,181.0
+Gastroenteritis,107.0,,1.0,,58.0,Male,95.0,96.0,162.0
+Stroke,95.0,0.0,0.0,1.0,24.0,Female,114.0,99.0,122.0
+Autism Spectrum Disorder (ASD),99.0,,0.0,,37.0,Male,115.0,89.0,169.0
+Stroke,102.0,,0.0,,44.0,,146.0,61.0,169.0
+Stroke,108.0,,0.0,,33.0,Female,107.0,98.0,166.0
+Stroke,102.0,1.0,1.0,0.0,76.0,Male,136.0,79.0,183.0
+Influenza,105.0,,0.0,,75.0,,131.0,81.0,206.0
+Eczema,,0.0,1.0,,49.0,,107.0,65.0,128.0
+Influenza,98.0,,,0.0,55.0,Female,117.0,92.0,219.0
+Stroke,101.0,1.0,0.0,,42.0,Female,150.0,87.0,158.0
+Hypertensive Heart Disease,95.0,1.0,,,36.0,Male,143.0,87.0,183.0
+Dengue Fever,104.0,,0.0,0.0,50.0,Female,148.0,86.0,240.0
+Hyperthyroidism,98.0,,0.0,1.0,23.0,Male,131.0,98.0,127.0
+Rheumatoid Arthritis,105.0,,,,25.0,Male,99.0,98.0,169.0
+Influenza,99.0,1.0,0.0,0.0,33.0,Female,103.0,61.0,237.0
+Influenza,99.0,,0.0,1.0,25.0,Male,145.0,89.0,128.0
+Influenza,104.0,,1.0,0.0,64.0,Female,139.0,96.0,237.0
+Chickenpox,95.0,,0.0,0.0,76.0,Female,121.0,87.0,127.0
+Cerebral Palsy,96.0,1.0,1.0,1.0,54.0,Male,117.0,91.0,142.0
+Migraine,104.0,1.0,1.0,0.0,56.0,,121.0,91.0,182.0
+Tuberculosis,98.0,0.0,1.0,,50.0,,122.0,100.0,141.0
+Urinary Tract Infection,105.0,1.0,,1.0,45.0,Male,138.0,92.0,237.0
+Hyperthyroidism,,,1.0,0.0,74.0,Male,119.0,60.0,193.0
+Cerebral Palsy,104.0,0.0,,0.0,63.0,Male,106.0,97.0,153.0
+Hypertensive Heart Disease,106.0,1.0,0.0,,29.0,Male,137.0,96.0,159.0
+Influenza,104.0,1.0,1.0,0.0,23.0,Male,98.0,78.0,222.0
+Hypertensive Heart Disease,104.0,,1.0,,38.0,Male,119.0,77.0,148.0
+Eczema,104.0,,,0.0,42.0,,104.0,65.0,152.0
+Stroke,100.0,1.0,,1.0,29.0,,147.0,76.0,228.0
+Gastroenteritis,108.0,1.0,,0.0,35.0,Male,127.0,78.0,137.0
+Stroke,99.0,0.0,,0.0,33.0,,138.0,69.0,143.0
+Autism Spectrum Disorder (ASD),96.0,,0.0,1.0,59.0,Male,137.0,73.0,210.0
+Dengue Fever,105.0,0.0,,1.0,74.0,Male,128.0,68.0,138.0
+Migraine,97.0,1.0,1.0,1.0,42.0,Female,145.0,89.0,189.0
+Influenza,97.0,0.0,1.0,,18.0,,132.0,77.0,145.0
+Chickenpox,,,,,57.0,Male,117.0,73.0,131.0
+Eczema,98.0,0.0,1.0,,68.0,,117.0,84.0,
+Urinary Tract Infection,103.0,,0.0,1.0,42.0,Male,125.0,82.0,131.0
+"Eating Disorders (Anorexia, Bulimia)",105.0,,,0.0,65.0,Female,122.0,99.0,235.0
+Hypertensive Heart Disease,97.0,0.0,1.0,1.0,40.0,Male,131.0,63.0,148.0
+Influenza,98.0,,,1.0,18.0,Female,148.0,82.0,165.0
+Migraine,95.0,1.0,0.0,1.0,63.0,,127.0,89.0,217.0
+Tuberculosis,96.0,0.0,,,36.0,Female,155.0,94.0,121.0
+Stroke,107.0,1.0,0.0,1.0,70.0,Male,111.0,78.0,121.0
+Chickenpox,98.0,1.0,,1.0,70.0,Male,121.0,61.0,179.0
+Tuberculosis,102.0,,,,61.0,Male,116.0,90.0,177.0
+Influenza,,0.0,0.0,0.0,23.0,Male,134.0,90.0,124.0
+Diabetes,108.0,1.0,0.0,1.0,43.0,Male,147.0,66.0,237.0
+Hyperthyroidism,106.0,1.0,1.0,,23.0,,127.0,91.0,229.0
+Influenza,107.0,0.0,,1.0,79.0,Female,134.0,64.0,210.0
+"Eating Disorders (Anorexia, Bulimia)",108.0,1.0,1.0,,38.0,Female,120.0,86.0,141.0
+Gastroenteritis,96.0,,1.0,,24.0,,156.0,95.0,173.0
+"Eating Disorders (Anorexia, Bulimia)",101.0,,,0.0,41.0,Male,112.0,62.0,230.0
+Hypertensive Heart Disease,99.0,,0.0,0.0,31.0,,147.0,79.0,128.0
+Bronchitis,101.0,,0.0,1.0,32.0,Female,97.0,68.0,156.0
+Autism Spectrum Disorder (ASD),96.0,,,0.0,42.0,,146.0,84.0,146.0
+Psoriasis,95.0,1.0,0.0,0.0,68.0,,91.0,61.0,177.0
+Bronchitis,106.0,1.0,1.0,1.0,69.0,,115.0,63.0,121.0
+Bronchitis,,,0.0,,79.0,Female,91.0,73.0,200.0
+Eczema,99.0,1.0,,0.0,52.0,,116.0,62.0,166.0
+Liver Cancer,96.0,1.0,0.0,,36.0,Female,154.0,65.0,192.0
+"Eating Disorders (Anorexia, Bulimia)",98.0,0.0,1.0,,61.0,Male,106.0,98.0,226.0
+Migraine,99.0,,,0.0,76.0,Male,107.0,94.0,132.0
+Tuberculosis,104.0,0.0,0.0,,42.0,Male,120.0,62.0,226.0
+Stroke,102.0,1.0,0.0,,34.0,Female,133.0,62.0,125.0
+Autism Spectrum Disorder (ASD),95.0,1.0,,1.0,30.0,,102.0,85.0,141.0
+Urinary Tract Infection,109.0,,0.0,0.0,75.0,Male,158.0,69.0,157.0
+Asthma,103.0,0.0,1.0,1.0,20.0,Male,105.0,61.0,182.0
+Diabetes,95.0,1.0,,0.0,73.0,Male,138.0,95.0,199.0
+Influenza,107.0,,1.0,1.0,22.0,Male,138.0,67.0,232.0
+Diabetes,104.0,,,0.0,67.0,Female,90.0,69.0,130.0
+Psoriasis,101.0,1.0,,1.0,29.0,,106.0,88.0,229.0
+Chickenpox,,0.0,1.0,0.0,35.0,Male,137.0,64.0,151.0
+Hypertensive Heart Disease,102.0,,,0.0,23.0,Female,143.0,66.0,175.0
+Tuberculosis,107.0,0.0,,0.0,68.0,,119.0,99.0,138.0
+Influenza,98.0,0.0,,1.0,74.0,,108.0,66.0,132.0
+Dengue Fever,109.0,0.0,,1.0,42.0,,106.0,65.0,133.0
+Stroke,100.0,1.0,,0.0,55.0,Male,101.0,67.0,219.0
+Influenza,104.0,0.0,,0.0,25.0,Female,111.0,89.0,200.0
+Chickenpox,104.0,,,1.0,22.0,Female,124.0,90.0,122.0
+Autism Spectrum Disorder (ASD),95.0,,1.0,1.0,23.0,,150.0,70.0,238.0
+Dengue Fever,109.0,1.0,1.0,0.0,30.0,Male,102.0,76.0,234.0
+Gastroenteritis,100.0,1.0,,,72.0,Female,99.0,72.0,229.0
+Rheumatoid Arthritis,104.0,,0.0,0.0,36.0,Female,97.0,100.0,210.0
+Liver Cancer,101.0,1.0,0.0,,37.0,Female,155.0,72.0,216.0
+Liver Cancer,108.0,,1.0,,42.0,Male,113.0,72.0,213.0
+Dengue Fever,99.0,0.0,,0.0,55.0,Male,92.0,76.0,170.0
+Stroke,98.0,0.0,,1.0,29.0,,136.0,98.0,215.0
+Tuberculosis,95.0,1.0,1.0,,48.0,Female,147.0,88.0,219.0
+Gastroenteritis,98.0,0.0,,0.0,56.0,Male,131.0,92.0,216.0
+Chickenpox,99.0,0.0,1.0,,19.0,Male,102.0,91.0,200.0
+Influenza,106.0,,1.0,0.0,29.0,,158.0,64.0,168.0
+Psoriasis,109.0,1.0,,1.0,18.0,Male,145.0,99.0,224.0
+Cerebral Palsy,98.0,1.0,,0.0,26.0,,134.0,97.0,142.0
+Psoriasis,95.0,,1.0,,47.0,,113.0,97.0,212.0
+Rheumatoid Arthritis,105.0,1.0,1.0,,19.0,,136.0,89.0,152.0
+Autism Spectrum Disorder (ASD),102.0,,0.0,0.0,68.0,Male,154.0,70.0,192.0
+Rheumatoid Arthritis,101.0,1.0,,1.0,69.0,,113.0,72.0,126.0
+Psoriasis,102.0,1.0,1.0,1.0,38.0,,144.0,65.0,131.0
+Gastroenteritis,99.0,1.0,0.0,0.0,78.0,Female,130.0,,198.0
+Autism Spectrum Disorder (ASD),101.0,1.0,,,21.0,,99.0,83.0,161.0
+Cerebral Palsy,104.0,,,0.0,21.0,Female,109.0,87.0,140.0
+Bronchitis,104.0,1.0,,1.0,48.0,Female,95.0,67.0,155.0
+Influenza,97.0,,,1.0,19.0,Male,120.0,94.0,198.0
+Urinary Tract Infection,109.0,1.0,0.0,,64.0,Male,129.0,63.0,180.0
+Chickenpox,108.0,,1.0,0.0,31.0,Female,118.0,81.0,164.0
+Hypertensive Heart Disease,105.0,,0.0,0.0,69.0,,94.0,67.0,127.0
+Diabetes,100.0,1.0,,1.0,58.0,Female,116.0,84.0,238.0
+Stroke,106.0,1.0,,0.0,33.0,Female,151.0,62.0,187.0
+Dengue Fever,101.0,1.0,0.0,1.0,78.0,,145.0,77.0,214.0
+Psoriasis,102.0,0.0,1.0,,64.0,,103.0,85.0,152.0
+"Eating Disorders (Anorexia, Bulimia)",109.0,1.0,1.0,0.0,34.0,,95.0,75.0,205.0
+Autism Spectrum Disorder (ASD),101.0,0.0,0.0,1.0,62.0,,91.0,99.0,203.0
+Hyperthyroidism,98.0,1.0,1.0,,65.0,Female,92.0,74.0,206.0
+Hypertensive Heart Disease,105.0,0.0,1.0,1.0,36.0,Female,123.0,77.0,151.0
+"Eating Disorders (Anorexia, Bulimia)",104.0,,0.0,0.0,73.0,,102.0,72.0,192.0
+Eczema,,1.0,0.0,1.0,24.0,Male,98.0,,160.0
+Tuberculosis,99.0,1.0,,,59.0,Male,102.0,71.0,231.0
+Eczema,,,,,68.0,Female,105.0,69.0,208.0
+Rheumatoid Arthritis,99.0,1.0,0.0,0.0,38.0,,149.0,99.0,207.0
+Autism Spectrum Disorder (ASD),104.0,1.0,1.0,1.0,68.0,Male,147.0,,144.0
+Gastroenteritis,100.0,0.0,,,47.0,,124.0,92.0,202.0
+Chickenpox,95.0,1.0,,1.0,29.0,Male,125.0,64.0,165.0
+Cerebral Palsy,96.0,0.0,,0.0,76.0,Female,155.0,77.0,162.0
+Eczema,104.0,,1.0,1.0,65.0,Male,140.0,66.0,128.0
+Asthma,108.0,0.0,1.0,0.0,77.0,Female,106.0,,192.0
+Hypertensive Heart Disease,100.0,1.0,1.0,0.0,,Female,119.0,85.0,129.0
+Chickenpox,,,,0.0,40.0,Female,112.0,96.0,136.0
+Psoriasis,95.0,1.0,,0.0,33.0,,140.0,87.0,236.0
+Chickenpox,95.0,,1.0,0.0,64.0,Male,148.0,62.0,173.0
+Cerebral Palsy,98.0,0.0,1.0,,52.0,,144.0,68.0,214.0
+Diabetes,104.0,0.0,,,51.0,Female,130.0,72.0,136.0
+Rheumatoid Arthritis,,,,,21.0,Male,99.0,77.0,144.0
+Urinary Tract Infection,104.0,1.0,0.0,,33.0,,123.0,88.0,167.0
+Asthma,97.0,,1.0,0.0,39.0,Male,122.0,91.0,
+Cerebral Palsy,95.0,,,0.0,72.0,Female,155.0,63.0,181.0
+Influenza,98.0,,,1.0,48.0,,133.0,77.0,191.0
+"Eating Disorders (Anorexia, Bulimia)",103.0,1.0,0.0,,60.0,,160.0,97.0,156.0
+Eczema,97.0,1.0,0.0,1.0,75.0,,117.0,72.0,127.0
+Cerebral Palsy,101.0,0.0,0.0,0.0,36.0,,128.0,93.0,172.0
+Stroke,101.0,0.0,,0.0,46.0,,118.0,88.0,199.0
+Eczema,96.0,,0.0,1.0,62.0,,150.0,70.0,210.0
+"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,0.0,1.0,47.0,,147.0,81.0,158.0
+Asthma,95.0,0.0,0.0,1.0,55.0,Female,114.0,67.0,138.0
+Influenza,,0.0,1.0,0.0,22.0,,143.0,83.0,186.0
+Tuberculosis,97.0,0.0,0.0,0.0,77.0,Female,130.0,76.0,233.0
+Hypertensive Heart Disease,98.0,0.0,1.0,0.0,57.0,Male,97.0,94.0,172.0
+Influenza,104.0,0.0,0.0,0.0,60.0,Female,105.0,72.0,163.0
+Tuberculosis,104.0,,1.0,1.0,45.0,Male,159.0,100.0,127.0
+Cerebral Palsy,100.0,,,,41.0,Male,93.0,78.0,215.0
+Autism Spectrum Disorder (ASD),95.0,,,,57.0,Male,98.0,67.0,134.0
+Hyperthyroidism,101.0,1.0,,,31.0,Female,121.0,71.0,171.0
+Tuberculosis,95.0,1.0,0.0,1.0,66.0,,135.0,67.0,234.0
+Autism Spectrum Disorder (ASD),95.0,,,0.0,78.0,,154.0,61.0,127.0
+Stroke,97.0,,0.0,0.0,31.0,Female,151.0,91.0,129.0
+Migraine,97.0,1.0,1.0,1.0,54.0,,,82.0,170.0
+Chickenpox,96.0,0.0,1.0,0.0,64.0,Female,114.0,70.0,177.0
+Hyperthyroidism,102.0,,,0.0,49.0,Male,121.0,60.0,137.0
+Gastroenteritis,97.0,1.0,1.0,0.0,41.0,Male,145.0,76.0,145.0
+Influenza,,0.0,0.0,0.0,72.0,Female,104.0,82.0,209.0
+Autism Spectrum Disorder (ASD),103.0,1.0,0.0,1.0,63.0,Female,151.0,71.0,171.0
+Migraine,97.0,0.0,1.0,,19.0,Male,95.0,73.0,147.0
+Eczema,104.0,1.0,,1.0,28.0,Female,126.0,80.0,205.0
+"Eating Disorders (Anorexia, Bulimia)",102.0,0.0,0.0,0.0,24.0,Male,144.0,74.0,158.0
+Rheumatoid Arthritis,95.0,1.0,0.0,0.0,25.0,,106.0,99.0,166.0
+"Eating Disorders (Anorexia, Bulimia)",100.0,1.0,0.0,0.0,51.0,Female,122.0,84.0,167.0
+Asthma,101.0,1.0,1.0,1.0,47.0,Male,98.0,82.0,187.0
+Hyperthyroidism,101.0,0.0,,1.0,69.0,,157.0,77.0,193.0
+Gastroenteritis,98.0,,,,67.0,Male,117.0,85.0,168.0
+Chickenpox,104.0,,,1.0,52.0,Female,118.0,66.0,138.0
+Psoriasis,96.0,,0.0,,23.0,,116.0,93.0,208.0
+Asthma,96.0,0.0,,1.0,30.0,Female,160.0,91.0,211.0
+Hyperthyroidism,96.0,1.0,0.0,,53.0,Male,115.0,68.0,141.0
+Liver Cancer,,,,,60.0,,139.0,67.0,147.0
+Gastroenteritis,,,,,73.0,Male,140.0,81.0,212.0
+Psoriasis,,0.0,,,78.0,,154.0,,215.0
+Chickenpox,102.0,0.0,0.0,1.0,71.0,Female,145.0,61.0,219.0
+Eczema,98.0,,0.0,,52.0,Female,110.0,68.0,218.0
+"Eating Disorders (Anorexia, Bulimia)",98.0,,0.0,1.0,79.0,,96.0,62.0,142.0
+Hyperthyroidism,103.0,,,,60.0,Male,110.0,98.0,186.0
+Influenza,96.0,,1.0,,20.0,,121.0,96.0,233.0
+Eczema,98.0,0.0,,0.0,54.0,,116.0,87.0,158.0
+Dengue Fever,97.0,1.0,0.0,,60.0,Female,107.0,78.0,148.0
+Diabetes,95.0,,0.0,,,Female,143.0,71.0,227.0
+Dengue Fever,103.0,1.0,,,54.0,Male,101.0,83.0,197.0
+Autism Spectrum Disorder (ASD),103.0,,0.0,,71.0,Male,106.0,76.0,203.0
+Rheumatoid Arthritis,102.0,,,1.0,53.0,Male,93.0,74.0,230.0
+Liver Cancer,104.0,0.0,0.0,1.0,32.0,Male,149.0,79.0,145.0
+Hyperthyroidism,97.0,1.0,0.0,,71.0,,160.0,73.0,182.0
+Stroke,100.0,,0.0,,80.0,Female,95.0,97.0,137.0
+Asthma,101.0,,1.0,1.0,34.0,,147.0,100.0,186.0
+Gastroenteritis,100.0,0.0,0.0,1.0,68.0,Male,94.0,93.0,150.0
+Diabetes,95.0,,0.0,,42.0,Male,138.0,72.0,146.0
+Chickenpox,103.0,0.0,0.0,0.0,24.0,Female,114.0,76.0,206.0
+Bronchitis,96.0,1.0,1.0,0.0,43.0,,115.0,61.0,235.0
+Cerebral Palsy,100.0,0.0,1.0,0.0,75.0,Female,94.0,92.0,233.0
+Gastroenteritis,,0.0,0.0,,51.0,,96.0,82.0,214.0
+Urinary Tract Infection,102.0,,0.0,,31.0,Female,158.0,94.0,141.0
+Gastroenteritis,98.0,,,0.0,61.0,,91.0,87.0,194.0
+Eczema,96.0,0.0,1.0,1.0,47.0,Female,122.0,86.0,153.0
+Dengue Fever,99.0,0.0,1.0,1.0,29.0,,96.0,67.0,180.0
+Autism Spectrum Disorder (ASD),,1.0,0.0,1.0,57.0,Female,150.0,81.0,123.0
+Urinary Tract Infection,98.0,1.0,1.0,,18.0,Male,92.0,90.0,
+Dengue Fever,98.0,,1.0,1.0,,Male,153.0,66.0,180.0
+Migraine,99.0,,0.0,0.0,32.0,Female,96.0,91.0,150.0
+Asthma,99.0,1.0,,0.0,36.0,Male,124.0,68.0,218.0
+Eczema,95.0,1.0,1.0,,52.0,Male,99.0,66.0,187.0
+Dengue Fever,95.0,0.0,1.0,,44.0,,152.0,66.0,229.0
+Bronchitis,99.0,0.0,,0.0,33.0,Male,125.0,71.0,218.0
+Hypertensive Heart Disease,103.0,0.0,,,69.0,,159.0,72.0,207.0
+Dengue Fever,104.0,,,1.0,50.0,,139.0,69.0,170.0
+Rheumatoid Arthritis,95.0,1.0,1.0,1.0,35.0,Female,149.0,73.0,163.0
+Eczema,102.0,0.0,1.0,1.0,29.0,,105.0,68.0,170.0
+Urinary Tract Infection,104.0,1.0,,,56.0,,119.0,64.0,235.0
+Urinary Tract Infection,101.0,1.0,,1.0,,Male,109.0,96.0,135.0
+Asthma,95.0,1.0,1.0,1.0,60.0,,140.0,68.0,215.0
+Urinary Tract Infection,103.0,0.0,0.0,,70.0,,142.0,83.0,204.0
+"Eating Disorders (Anorexia, Bulimia)",104.0,0.0,,0.0,22.0,Female,124.0,86.0,142.0
+Rheumatoid Arthritis,101.0,1.0,1.0,1.0,76.0,,114.0,90.0,150.0
+Eczema,96.0,1.0,1.0,1.0,30.0,,144.0,63.0,185.0
+Bronchitis,102.0,0.0,1.0,1.0,60.0,,100.0,95.0,143.0
+"Eating Disorders (Anorexia, Bulimia)",102.0,,0.0,,44.0,Female,143.0,97.0,193.0
+Asthma,95.0,,0.0,1.0,47.0,,94.0,,184.0
+"Eating Disorders (Anorexia, Bulimia)",96.0,0.0,0.0,1.0,60.0,Male,100.0,67.0,202.0
+Influenza,104.0,1.0,0.0,1.0,41.0,Male,98.0,82.0,193.0
+"Eating Disorders (Anorexia, Bulimia)",103.0,1.0,1.0,0.0,80.0,Male,143.0,69.0,191.0
+Hypertensive Heart Disease,98.0,0.0,1.0,0.0,60.0,Female,105.0,99.0,150.0
+Stroke,99.0,1.0,,,23.0,Female,92.0,65.0,140.0
+Urinary Tract Infection,100.0,0.0,1.0,0.0,33.0,,126.0,81.0,132.0
+Asthma,,,0.0,1.0,79.0,Female,129.0,82.0,123.0
+Autism Spectrum Disorder (ASD),103.0,1.0,,0.0,33.0,,138.0,87.0,174.0
+Rheumatoid Arthritis,98.0,,,1.0,36.0,Female,153.0,89.0,212.0
+Urinary Tract Infection,95.0,0.0,1.0,,26.0,,117.0,82.0,231.0
+Hypertensive Heart Disease,95.0,0.0,0.0,1.0,74.0,Female,96.0,84.0,227.0
+Migraine,97.0,,0.0,0.0,32.0,,102.0,76.0,156.0
+Chickenpox,103.0,1.0,1.0,0.0,75.0,Female,148.0,99.0,195.0
+Dengue Fever,95.0,,1.0,0.0,39.0,Female,114.0,64.0,237.0
+Influenza,98.0,0.0,1.0,,39.0,Female,95.0,76.0,174.0
+Rheumatoid Arthritis,103.0,1.0,1.0,,19.0,Male,92.0,98.0,176.0
+Hypertensive Heart Disease,95.0,1.0,1.0,,63.0,Female,153.0,100.0,157.0
+Cerebral Palsy,104.0,0.0,1.0,1.0,24.0,,147.0,64.0,160.0
+Chickenpox,95.0,,,1.0,63.0,,123.0,83.0,143.0
+Bronchitis,100.0,,,,60.0,Female,148.0,65.0,146.0
+Dengue Fever,95.0,1.0,,0.0,77.0,Female,155.0,92.0,128.0
+Gastroenteritis,101.0,1.0,1.0,,57.0,,130.0,81.0,159.0
+Hypertensive Heart Disease,104.0,1.0,,0.0,27.0,Female,148.0,73.0,195.0
+Diabetes,103.0,0.0,1.0,0.0,80.0,Female,148.0,71.0,127.0
+Autism Spectrum Disorder (ASD),104.0,0.0,,0.0,35.0,,119.0,67.0,158.0
+Tuberculosis,,,0.0,,24.0,Male,97.0,91.0,143.0
+Liver Cancer,97.0,0.0,,0.0,59.0,Female,108.0,67.0,217.0
+Asthma,96.0,0.0,1.0,0.0,38.0,Male,106.0,73.0,223.0
+Dengue Fever,101.0,0.0,,1.0,78.0,Male,156.0,89.0,234.0
+Bronchitis,104.0,0.0,,,62.0,Male,104.0,94.0,145.0
+Asthma,100.0,1.0,1.0,0.0,31.0,,131.0,70.0,132.0
+Urinary Tract Infection,103.0,,0.0,0.0,42.0,Female,111.0,75.0,175.0
+Eczema,103.0,0.0,,0.0,41.0,Female,92.0,78.0,158.0
+Bronchitis,99.0,0.0,1.0,0.0,61.0,Male,91.0,80.0,128.0
+Hyperthyroidism,97.0,,0.0,0.0,43.0,Female,135.0,61.0,183.0
+Migraine,95.0,,1.0,,71.0,,92.0,97.0,153.0
+Eczema,96.0,,,,25.0,,149.0,93.0,229.0
+Hypertensive Heart Disease,97.0,,,0.0,51.0,Female,105.0,63.0,232.0
+Liver Cancer,,0.0,0.0,1.0,70.0,Male,102.0,61.0,198.0
+Stroke,104.0,,,1.0,36.0,,98.0,94.0,204.0
+Chickenpox,102.0,1.0,1.0,1.0,24.0,Male,145.0,83.0,155.0
+Tuberculosis,99.0,1.0,0.0,,20.0,,98.0,,137.0
+Psoriasis,96.0,,1.0,1.0,57.0,Female,152.0,88.0,127.0
+Urinary Tract Infection,100.0,1.0,1.0,1.0,36.0,,142.0,64.0,229.0
+Bronchitis,95.0,,0.0,1.0,21.0,Female,154.0,80.0,152.0
+Bronchitis,100.0,1.0,,,33.0,Female,149.0,81.0,177.0
+Urinary Tract Infection,104.0,,1.0,,37.0,Male,99.0,69.0,171.0
+Chickenpox,96.0,0.0,,,31.0,Male,155.0,95.0,187.0
+Bronchitis,103.0,0.0,,1.0,36.0,Female,154.0,100.0,199.0
+Asthma,,1.0,1.0,0.0,44.0,Male,125.0,73.0,140.0
+Tuberculosis,103.0,0.0,1.0,1.0,46.0,Male,139.0,85.0,231.0
+Diabetes,99.0,0.0,0.0,1.0,70.0,Male,140.0,87.0,163.0
+Migraine,95.0,0.0,,1.0,69.0,Female,95.0,97.0,185.0
+Asthma,100.0,0.0,0.0,1.0,38.0,Male,122.0,73.0,144.0
+Autism Spectrum Disorder (ASD),101.0,1.0,1.0,1.0,33.0,Male,106.0,78.0,170.0
+Dengue Fever,96.0,,,,51.0,,118.0,86.0,146.0
+Chickenpox,99.0,,,,54.0,Male,156.0,86.0,218.0
+Influenza,102.0,0.0,1.0,,20.0,,104.0,66.0,229.0
+Autism Spectrum Disorder (ASD),97.0,0.0,0.0,1.0,75.0,Female,115.0,77.0,130.0
+Cerebral Palsy,96.0,,1.0,0.0,48.0,,95.0,93.0,143.0
+Urinary Tract Infection,101.0,,0.0,,34.0,,120.0,81.0,122.0
+Stroke,96.0,,0.0,1.0,68.0,,150.0,89.0,198.0
+Influenza,95.0,0.0,1.0,1.0,43.0,,94.0,86.0,226.0
+Diabetes,99.0,1.0,1.0,0.0,19.0,Male,144.0,62.0,194.0
+Migraine,99.0,1.0,0.0,0.0,62.0,Male,143.0,67.0,172.0
+Rheumatoid Arthritis,103.0,0.0,,1.0,33.0,,136.0,85.0,228.0
+Gastroenteritis,102.0,,1.0,,55.0,,102.0,91.0,207.0
+Diabetes,,1.0,1.0,,45.0,,118.0,95.0,128.0
+Psoriasis,98.0,,0.0,1.0,23.0,,122.0,75.0,130.0
+Urinary Tract Infection,99.0,1.0,0.0,,35.0,Male,104.0,87.0,155.0
+Hypertensive Heart Disease,95.0,,,,49.0,Male,120.0,67.0,234.0
+Hyperthyroidism,98.0,0.0,,1.0,72.0,,152.0,89.0,176.0
+Rheumatoid Arthritis,99.0,0.0,0.0,0.0,53.0,Male,119.0,87.0,146.0
+Hypertensive Heart Disease,,1.0,1.0,0.0,25.0,Female,151.0,60.0,159.0
+"Eating Disorders (Anorexia, Bulimia)",96.0,,0.0,1.0,48.0,,100.0,,169.0
+Autism Spectrum Disorder (ASD),100.0,0.0,0.0,0.0,58.0,Female,131.0,92.0,233.0
+Chickenpox,98.0,,0.0,,79.0,Female,93.0,84.0,211.0
+Hypertensive Heart Disease,100.0,0.0,,1.0,24.0,,110.0,92.0,209.0
+Liver Cancer,104.0,1.0,,1.0,48.0,,99.0,99.0,186.0
+Hyperthyroidism,100.0,0.0,0.0,,26.0,,112.0,71.0,217.0
+Autism Spectrum Disorder (ASD),99.0,,1.0,,21.0,Male,155.0,98.0,142.0
+Gastroenteritis,104.0,1.0,0.0,0.0,63.0,,101.0,91.0,165.0
+Dengue Fever,96.0,1.0,1.0,1.0,78.0,Male,126.0,68.0,121.0
+Bronchitis,103.0,0.0,1.0,,37.0,,153.0,99.0,146.0
+Asthma,99.0,0.0,0.0,,75.0,Female,96.0,62.0,151.0
+Rheumatoid Arthritis,102.0,,0.0,0.0,23.0,Female,91.0,78.0,215.0
+Rheumatoid Arthritis,104.0,1.0,0.0,,63.0,Male,143.0,67.0,176.0
+Autism Spectrum Disorder (ASD),95.0,0.0,0.0,,57.0,Female,111.0,84.0,206.0
+Urinary Tract Infection,96.0,1.0,1.0,1.0,59.0,Male,105.0,81.0,182.0
+Psoriasis,101.0,0.0,0.0,,43.0,Male,115.0,78.0,178.0
+Cerebral Palsy,97.0,1.0,1.0,0.0,68.0,Female,147.0,72.0,177.0
+Cerebral Palsy,102.0,,,1.0,37.0,,133.0,67.0,170.0
+Tuberculosis,,,0.0,0.0,77.0,,97.0,78.0,220.0
+Dengue Fever,95.0,0.0,1.0,,66.0,Female,160.0,90.0,218.0
+Hyperthyroidism,102.0,0.0,,0.0,64.0,,159.0,90.0,224.0
+Psoriasis,99.0,,0.0,1.0,56.0,,151.0,75.0,163.0
+"Eating Disorders (Anorexia, Bulimia)",99.0,1.0,1.0,0.0,63.0,Female,136.0,63.0,177.0
+Autism Spectrum Disorder (ASD),95.0,1.0,0.0,1.0,20.0,Male,156.0,84.0,144.0
+Gastroenteritis,100.0,0.0,1.0,1.0,43.0,Female,91.0,94.0,144.0
+Urinary Tract Infection,97.0,1.0,0.0,0.0,79.0,,147.0,72.0,190.0
+Diabetes,95.0,0.0,1.0,0.0,52.0,Female,131.0,67.0,213.0
+Chickenpox,99.0,0.0,1.0,0.0,66.0,,159.0,87.0,202.0
+Bronchitis,99.0,1.0,1.0,,22.0,Female,,63.0,145.0
+Hypertensive Heart Disease,96.0,0.0,,,61.0,,134.0,77.0,166.0
+Gastroenteritis,102.0,,1.0,,59.0,Female,133.0,76.0,151.0
+Autism Spectrum Disorder (ASD),96.0,,1.0,0.0,73.0,Male,155.0,68.0,136.0
+Stroke,104.0,,1.0,0.0,24.0,,119.0,82.0,121.0
+Cerebral Palsy,97.0,,,,55.0,Male,146.0,,214.0
+Hyperthyroidism,104.0,1.0,,,63.0,Female,131.0,76.0,145.0
+Cerebral Palsy,100.0,0.0,1.0,1.0,35.0,Male,159.0,79.0,220.0
+Liver Cancer,95.0,,,,57.0,Male,123.0,84.0,159.0
+Urinary Tract Infection,103.0,,1.0,1.0,30.0,,114.0,71.0,131.0
+Psoriasis,100.0,1.0,0.0,1.0,28.0,,118.0,76.0,176.0
+Influenza,100.0,,,,74.0,,118.0,66.0,211.0
+Diabetes,102.0,0.0,1.0,,64.0,Male,101.0,85.0,199.0
+Gastroenteritis,,1.0,1.0,0.0,45.0,Female,99.0,68.0,238.0
+Diabetes,101.0,0.0,,1.0,57.0,Female,125.0,88.0,134.0
+Gastroenteritis,101.0,,,,75.0,Female,92.0,77.0,222.0
+Psoriasis,100.0,1.0,0.0,0.0,60.0,Female,94.0,72.0,195.0
+Asthma,96.0,1.0,,,38.0,,94.0,83.0,204.0
+Hyperthyroidism,103.0,,0.0,,25.0,,124.0,99.0,226.0
+Chickenpox,102.0,0.0,0.0,1.0,70.0,Female,98.0,90.0,204.0
+Tuberculosis,104.0,1.0,1.0,,53.0,Male,94.0,85.0,131.0
+Tuberculosis,95.0,1.0,0.0,0.0,44.0,,113.0,61.0,189.0
+Autism Spectrum Disorder (ASD),97.0,,,0.0,78.0,Male,119.0,82.0,128.0
+"Eating Disorders (Anorexia, Bulimia)",99.0,1.0,,1.0,58.0,Female,143.0,,134.0
+Hypertensive Heart Disease,100.0,0.0,1.0,0.0,,Male,146.0,82.0,140.0
+Psoriasis,95.0,,0.0,1.0,47.0,Male,157.0,82.0,161.0
+Urinary Tract Infection,96.0,,0.0,1.0,77.0,,128.0,98.0,163.0
+Cerebral Palsy,98.0,1.0,1.0,,62.0,Male,116.0,83.0,207.0
+Eczema,104.0,,,0.0,55.0,Female,122.0,84.0,145.0
+Influenza,97.0,,0.0,0.0,46.0,Female,101.0,95.0,226.0
+Hyperthyroidism,96.0,0.0,,,21.0,Male,110.0,87.0,130.0
+Gastroenteritis,99.0,1.0,1.0,0.0,77.0,Male,130.0,90.0,160.0
+Bronchitis,99.0,1.0,,,37.0,Male,159.0,81.0,220.0
+Cerebral Palsy,100.0,0.0,0.0,,62.0,Female,131.0,61.0,208.0
+Chickenpox,104.0,1.0,1.0,1.0,20.0,,94.0,65.0,149.0
+Gastroenteritis,103.0,0.0,0.0,0.0,41.0,Female,135.0,94.0,227.0
+Diabetes,102.0,0.0,,,23.0,,156.0,69.0,129.0
+Rheumatoid Arthritis,101.0,,0.0,0.0,47.0,,94.0,95.0,196.0
+Autism Spectrum Disorder (ASD),104.0,0.0,0.0,,72.0,Female,157.0,70.0,217.0
+Influenza,95.0,1.0,,1.0,33.0,Male,154.0,86.0,237.0
+Dengue Fever,103.0,1.0,1.0,1.0,52.0,,144.0,69.0,144.0
+Urinary Tract Infection,,,,0.0,30.0,,,79.0,146.0
+Urinary Tract Infection,104.0,0.0,,,43.0,,116.0,91.0,180.0
+Eczema,97.0,,,,43.0,,152.0,64.0,230.0
+Psoriasis,99.0,1.0,,0.0,59.0,Female,116.0,86.0,203.0
+Hypertensive Heart Disease,99.0,0.0,,0.0,74.0,,147.0,94.0,145.0
+Asthma,95.0,1.0,,,78.0,,100.0,72.0,193.0
+"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,1.0,,71.0,,143.0,100.0,122.0
+Psoriasis,96.0,,0.0,1.0,80.0,Male,119.0,73.0,171.0
+Psoriasis,104.0,0.0,0.0,0.0,57.0,,104.0,99.0,215.0
+Diabetes,,0.0,0.0,0.0,72.0,Female,113.0,89.0,161.0
+Liver Cancer,95.0,,1.0,0.0,71.0,Male,97.0,65.0,153.0
+Autism Spectrum Disorder (ASD),101.0,1.0,,1.0,29.0,Male,137.0,61.0,149.0
+Influenza,101.0,,1.0,1.0,24.0,Male,143.0,67.0,204.0
+Cerebral Palsy,95.0,0.0,,0.0,55.0,Female,99.0,82.0,175.0
+Stroke,,1.0,1.0,,65.0,,149.0,79.0,146.0
+Rheumatoid Arthritis,98.0,,,,39.0,,130.0,79.0,208.0
+Hypertensive Heart Disease,,0.0,,0.0,63.0,,133.0,98.0,177.0
+Liver Cancer,104.0,1.0,1.0,1.0,47.0,Female,109.0,69.0,165.0
+Diabetes,98.0,0.0,1.0,,80.0,Male,149.0,94.0,185.0
+Dengue Fever,100.0,,,,42.0,Female,100.0,95.0,180.0
+Influenza,98.0,0.0,1.0,0.0,54.0,Female,110.0,72.0,124.0
+Hypertensive Heart Disease,104.0,0.0,1.0,0.0,63.0,,130.0,83.0,195.0
+Diabetes,,,0.0,0.0,49.0,Male,131.0,79.0,138.0
+Rheumatoid Arthritis,103.0,0.0,,,40.0,Female,127.0,96.0,190.0
+Eczema,95.0,,0.0,,28.0,Female,155.0,77.0,167.0
+Cerebral Palsy,97.0,,,1.0,54.0,Male,96.0,100.0,170.0
+Liver Cancer,98.0,0.0,1.0,0.0,68.0,,151.0,76.0,193.0
+Asthma,102.0,,,0.0,33.0,Male,107.0,94.0,170.0
+Liver Cancer,100.0,0.0,,0.0,30.0,Male,139.0,87.0,200.0
+Stroke,,1.0,,0.0,62.0,,123.0,76.0,178.0
+Influenza,99.0,,,,54.0,Male,133.0,,128.0
+"Eating Disorders (Anorexia, Bulimia)",95.0,0.0,0.0,,28.0,,118.0,68.0,201.0
+Hypertensive Heart Disease,103.0,,1.0,0.0,79.0,Male,120.0,78.0,163.0
+Hypertensive Heart Disease,98.0,0.0,0.0,,41.0,,105.0,80.0,172.0
+Autism Spectrum Disorder (ASD),101.0,1.0,1.0,1.0,66.0,,158.0,61.0,189.0
+Stroke,95.0,1.0,0.0,1.0,45.0,Male,100.0,87.0,132.0
+Autism Spectrum Disorder (ASD),97.0,,1.0,1.0,38.0,Female,150.0,80.0,221.0
+Eczema,101.0,0.0,0.0,0.0,76.0,Female,107.0,66.0,177.0
+Cerebral Palsy,95.0,,0.0,1.0,33.0,Female,103.0,96.0,234.0
+Eczema,100.0,1.0,0.0,,20.0,Male,128.0,89.0,211.0
+Asthma,95.0,,,,29.0,,111.0,62.0,150.0
+Autism Spectrum Disorder (ASD),102.0,1.0,,0.0,43.0,,137.0,93.0,229.0
+Gastroenteritis,96.0,0.0,0.0,0.0,,Male,139.0,70.0,158.0
+Liver Cancer,101.0,0.0,1.0,1.0,57.0,,94.0,60.0,171.0
+Hyperthyroidism,100.0,0.0,1.0,,21.0,Male,93.0,92.0,181.0
+Eczema,102.0,0.0,,1.0,38.0,,148.0,61.0,237.0
+Bronchitis,,,1.0,0.0,53.0,Male,127.0,68.0,154.0
+Liver Cancer,96.0,0.0,0.0,1.0,48.0,,153.0,65.0,210.0
+Tuberculosis,101.0,1.0,0.0,1.0,49.0,,142.0,61.0,129.0
+Influenza,95.0,1.0,,1.0,44.0,Male,108.0,66.0,158.0
+Hypertensive Heart Disease,100.0,1.0,0.0,0.0,40.0,Female,135.0,91.0,136.0
+Dengue Fever,101.0,0.0,1.0,1.0,19.0,,137.0,61.0,182.0
+Hyperthyroidism,97.0,0.0,1.0,0.0,19.0,Female,150.0,68.0,149.0
+Gastroenteritis,95.0,1.0,0.0,1.0,40.0,Male,90.0,63.0,192.0
+Tuberculosis,102.0,1.0,,1.0,62.0,Male,112.0,70.0,126.0
+Hyperthyroidism,,1.0,,,80.0,Female,159.0,97.0,175.0
+Diabetes,102.0,,,1.0,31.0,Female,112.0,77.0,224.0
+Dengue Fever,102.0,1.0,1.0,,19.0,Female,129.0,81.0,197.0
+Bronchitis,104.0,0.0,1.0,1.0,71.0,Female,99.0,95.0,198.0
+Influenza,101.0,0.0,1.0,,37.0,,116.0,88.0,236.0
+Rheumatoid Arthritis,95.0,1.0,,,40.0,,130.0,100.0,235.0
+Eczema,,0.0,0.0,0.0,80.0,,142.0,78.0,233.0
+"Eating Disorders (Anorexia, Bulimia)",98.0,,1.0,0.0,35.0,Male,147.0,81.0,173.0
+Rheumatoid Arthritis,99.0,,1.0,0.0,71.0,Male,112.0,62.0,164.0
+Tuberculosis,,1.0,,1.0,52.0,Male,159.0,92.0,166.0
+Urinary Tract Infection,102.0,,0.0,1.0,69.0,Male,155.0,67.0,210.0
+Influenza,,,0.0,1.0,79.0,Male,150.0,80.0,193.0
+"Eating Disorders (Anorexia, Bulimia)",,,0.0,0.0,47.0,,116.0,84.0,229.0
+Diabetes,104.0,,0.0,1.0,68.0,Male,97.0,95.0,155.0
+Asthma,97.0,0.0,0.0,1.0,48.0,Male,117.0,87.0,184.0
+Asthma,97.0,1.0,1.0,,60.0,Female,144.0,90.0,162.0
+Liver Cancer,102.0,1.0,1.0,1.0,,Female,110.0,90.0,140.0
+Liver Cancer,99.0,1.0,1.0,0.0,67.0,Male,122.0,70.0,184.0
+Influenza,,,1.0,1.0,36.0,,153.0,82.0,206.0
+Urinary Tract Infection,95.0,0.0,0.0,0.0,57.0,Female,154.0,86.0,212.0
+Rheumatoid Arthritis,101.0,,1.0,1.0,67.0,Female,124.0,85.0,169.0
+Cerebral Palsy,100.0,0.0,,1.0,78.0,Female,103.0,90.0,224.0
+Hypertensive Heart Disease,99.0,,1.0,1.0,53.0,Female,105.0,95.0,169.0
+Hyperthyroidism,99.0,,1.0,,54.0,Female,121.0,,200.0
+Gastroenteritis,102.0,1.0,0.0,0.0,45.0,Female,151.0,87.0,229.0
+Autism Spectrum Disorder (ASD),103.0,1.0,1.0,,51.0,Male,153.0,97.0,175.0
+Rheumatoid Arthritis,99.0,0.0,,1.0,22.0,,142.0,83.0,186.0
+Dengue Fever,103.0,0.0,0.0,0.0,27.0,,139.0,82.0,176.0
+Liver Cancer,99.0,0.0,0.0,1.0,45.0,Female,93.0,77.0,184.0
+Bronchitis,100.0,0.0,,1.0,51.0,Female,154.0,67.0,151.0
+Bronchitis,95.0,,0.0,1.0,43.0,Male,144.0,73.0,237.0
+Stroke,103.0,0.0,1.0,0.0,61.0,,122.0,91.0,142.0
+Hyperthyroidism,95.0,1.0,,,30.0,Male,97.0,99.0,187.0
+Asthma,99.0,,,0.0,48.0,Male,101.0,60.0,218.0
+Migraine,101.0,0.0,0.0,,21.0,Male,145.0,64.0,198.0
+Bronchitis,104.0,,1.0,0.0,35.0,,106.0,77.0,233.0
+Cerebral Palsy,,0.0,0.0,,33.0,,90.0,63.0,191.0
+Hypertensive Heart Disease,98.0,,1.0,0.0,52.0,,94.0,67.0,205.0
+Autism Spectrum Disorder (ASD),95.0,,0.0,0.0,66.0,Male,90.0,84.0,141.0
+Stroke,103.0,0.0,0.0,0.0,36.0,Male,126.0,96.0,151.0
+Hyperthyroidism,96.0,,0.0,1.0,38.0,Male,157.0,93.0,175.0
+Tuberculosis,100.0,,,0.0,45.0,Female,148.0,70.0,238.0
+Migraine,,0.0,,1.0,66.0,,149.0,82.0,139.0
+Migraine,96.0,,,,27.0,Male,142.0,60.0,240.0
+Influenza,98.0,1.0,1.0,0.0,68.0,Female,100.0,92.0,212.0
+Influenza,97.0,0.0,,1.0,58.0,Male,,93.0,199.0
+Eczema,104.0,1.0,,0.0,57.0,Female,148.0,61.0,158.0
+Asthma,103.0,0.0,0.0,0.0,54.0,,105.0,67.0,214.0
+Rheumatoid Arthritis,97.0,,,0.0,41.0,Male,149.0,84.0,124.0
+Tuberculosis,104.0,0.0,0.0,0.0,45.0,,157.0,94.0,123.0
+Hyperthyroidism,95.0,0.0,,0.0,51.0,,107.0,75.0,180.0
+Cerebral Palsy,103.0,0.0,1.0,1.0,47.0,Male,112.0,70.0,213.0
+Influenza,103.0,1.0,0.0,0.0,41.0,,128.0,86.0,190.0
+Eczema,102.0,,,,26.0,,152.0,63.0,222.0
+Autism Spectrum Disorder (ASD),98.0,0.0,1.0,0.0,23.0,Male,139.0,66.0,154.0
+Tuberculosis,97.0,,,,33.0,Male,159.0,70.0,229.0
+Diabetes,95.0,0.0,,1.0,68.0,,118.0,64.0,159.0
+Hypertensive Heart Disease,95.0,,1.0,1.0,53.0,,142.0,,188.0
+"Eating Disorders (Anorexia, Bulimia)",101.0,1.0,0.0,0.0,77.0,Female,133.0,93.0,164.0
+Urinary Tract Infection,97.0,1.0,0.0,1.0,60.0,,157.0,83.0,223.0
+Diabetes,101.0,,0.0,0.0,57.0,Male,95.0,63.0,177.0
+Hypertensive Heart Disease,103.0,,,,,Female,151.0,61.0,188.0
+Eczema,103.0,0.0,0.0,1.0,49.0,,118.0,93.0,225.0
+Rheumatoid Arthritis,100.0,,,0.0,60.0,,119.0,94.0,192.0
+Bronchitis,102.0,1.0,1.0,0.0,60.0,,154.0,78.0,123.0
+Hypertensive Heart Disease,95.0,0.0,1.0,,35.0,,130.0,98.0,199.0
+Dengue Fever,104.0,1.0,,,75.0,Male,145.0,92.0,135.0
+Hypertensive Heart Disease,95.0,1.0,,1.0,75.0,,115.0,94.0,178.0
+Influenza,103.0,0.0,1.0,,65.0,,106.0,84.0,120.0
+Dengue Fever,99.0,,0.0,,48.0,Female,127.0,87.0,212.0
+Dengue Fever,104.0,1.0,1.0,,27.0,Female,157.0,84.0,239.0
+Liver Cancer,99.0,0.0,,1.0,70.0,Female,136.0,84.0,139.0
+"Eating Disorders (Anorexia, Bulimia)",101.0,,,1.0,74.0,,104.0,70.0,127.0
+Psoriasis,102.0,0.0,0.0,0.0,49.0,Female,137.0,79.0,187.0
+Gastroenteritis,104.0,,0.0,1.0,78.0,,114.0,85.0,228.0
+Rheumatoid Arthritis,104.0,,1.0,,31.0,Male,154.0,68.0,150.0
+Migraine,,0.0,1.0,,71.0,,145.0,65.0,213.0
+Eczema,98.0,0.0,1.0,0.0,24.0,Female,157.0,98.0,163.0
+Hyperthyroidism,101.0,0.0,1.0,0.0,69.0,,110.0,64.0,172.0
+Psoriasis,98.0,1.0,,1.0,,,127.0,76.0,215.0
+Influenza,,,,0.0,53.0,Male,106.0,90.0,199.0
+Eczema,103.0,0.0,1.0,,57.0,Male,128.0,81.0,201.0
+Hypertensive Heart Disease,95.0,1.0,,,40.0,Female,108.0,84.0,171.0
+Urinary Tract Infection,98.0,0.0,,,29.0,,139.0,62.0,136.0
+Bronchitis,101.0,1.0,0.0,1.0,33.0,,96.0,80.0,129.0
+Asthma,99.0,,0.0,0.0,19.0,Female,145.0,63.0,234.0
+Autism Spectrum Disorder (ASD),101.0,1.0,1.0,0.0,57.0,Female,110.0,71.0,231.0
+Asthma,,1.0,,1.0,63.0,Female,151.0,82.0,134.0
+Eczema,102.0,1.0,0.0,,77.0,Female,156.0,82.0,151.0
+Gastroenteritis,101.0,1.0,,0.0,55.0,Female,90.0,72.0,150.0
+Urinary Tract Infection,101.0,0.0,1.0,0.0,43.0,Female,119.0,87.0,169.0
+"Eating Disorders (Anorexia, Bulimia)",99.0,1.0,0.0,,66.0,Male,150.0,79.0,205.0
+Cerebral Palsy,102.0,,0.0,1.0,41.0,Male,126.0,99.0,136.0
+Rheumatoid Arthritis,95.0,0.0,,0.0,35.0,,150.0,83.0,177.0
+Bronchitis,103.0,0.0,,1.0,61.0,,152.0,69.0,217.0
+Gastroenteritis,100.0,1.0,0.0,1.0,45.0,Female,112.0,,141.0
+Dengue Fever,100.0,1.0,0.0,0.0,47.0,Female,122.0,77.0,209.0
+Liver Cancer,100.0,,1.0,,76.0,,135.0,97.0,167.0
+Dengue Fever,103.0,,1.0,0.0,45.0,Male,140.0,71.0,236.0
+Stroke,95.0,,1.0,,37.0,Male,100.0,85.0,237.0
+Gastroenteritis,104.0,1.0,1.0,,30.0,Male,151.0,67.0,148.0
+Eczema,101.0,0.0,,0.0,74.0,Male,,74.0,138.0
+Bronchitis,99.0,0.0,,1.0,70.0,Female,104.0,77.0,163.0
+Chickenpox,101.0,,0.0,,80.0,,147.0,85.0,191.0
+Cerebral Palsy,102.0,0.0,0.0,0.0,79.0,Male,156.0,79.0,199.0
+Urinary Tract Infection,96.0,,0.0,,62.0,Female,152.0,84.0,214.0
+Psoriasis,100.0,,,,53.0,Female,124.0,95.0,203.0
+Hyperthyroidism,103.0,1.0,0.0,0.0,55.0,Female,111.0,,231.0
+"Eating Disorders (Anorexia, Bulimia)",101.0,,1.0,0.0,78.0,Female,135.0,74.0,193.0
+Tuberculosis,95.0,1.0,0.0,0.0,19.0,Female,124.0,90.0,211.0
+Gastroenteritis,101.0,,,0.0,35.0,Female,146.0,84.0,185.0
+Autism Spectrum Disorder (ASD),95.0,0.0,0.0,1.0,76.0,,142.0,83.0,214.0
+Asthma,96.0,0.0,1.0,1.0,57.0,Male,126.0,82.0,164.0
+Dengue Fever,99.0,,0.0,,77.0,Male,123.0,90.0,221.0
+Stroke,99.0,,0.0,0.0,65.0,,129.0,60.0,236.0
+Hypertensive Heart Disease,96.0,,1.0,,63.0,Male,137.0,73.0,233.0
+Bronchitis,96.0,1.0,0.0,0.0,36.0,,150.0,93.0,219.0
+Diabetes,100.0,1.0,,0.0,49.0,Female,141.0,61.0,209.0
+Dengue Fever,,0.0,,1.0,66.0,Male,143.0,81.0,165.0
+Gastroenteritis,,1.0,0.0,,33.0,,134.0,93.0,149.0
+"Eating Disorders (Anorexia, Bulimia)",97.0,1.0,,0.0,57.0,Female,95.0,98.0,198.0
+Migraine,98.0,0.0,,,75.0,,103.0,93.0,135.0
+Tuberculosis,102.0,,1.0,0.0,56.0,Male,152.0,65.0,161.0
+Migraine,101.0,1.0,0.0,1.0,36.0,Male,117.0,79.0,134.0
+Dengue Fever,100.0,1.0,,,45.0,,96.0,77.0,221.0
+Hyperthyroidism,,0.0,0.0,1.0,36.0,Female,94.0,98.0,133.0
+Eczema,97.0,0.0,,0.0,62.0,Male,154.0,76.0,181.0
+Cerebral Palsy,104.0,,1.0,1.0,39.0,,142.0,69.0,132.0
+Autism Spectrum Disorder (ASD),96.0,0.0,,,51.0,,110.0,82.0,141.0
+Tuberculosis,,1.0,,1.0,53.0,Male,135.0,70.0,168.0
+Bronchitis,99.0,1.0,,1.0,60.0,Female,143.0,90.0,212.0
+Asthma,104.0,,1.0,,46.0,Male,156.0,62.0,144.0
+"Eating Disorders (Anorexia, Bulimia)",,0.0,1.0,1.0,77.0,,103.0,82.0,151.0
+Asthma,104.0,1.0,1.0,0.0,66.0,Female,145.0,68.0,237.0
+Chickenpox,100.0,0.0,,,54.0,Male,147.0,68.0,192.0
+Bronchitis,104.0,,1.0,1.0,20.0,Female,127.0,99.0,120.0
+Chickenpox,97.0,1.0,1.0,0.0,36.0,,121.0,84.0,238.0
+Rheumatoid Arthritis,,,1.0,1.0,55.0,,151.0,63.0,155.0
+Stroke,,,,0.0,33.0,Female,152.0,68.0,170.0
+Eczema,101.0,0.0,1.0,1.0,42.0,Male,101.0,86.0,199.0
+Influenza,97.0,0.0,,1.0,42.0,Female,120.0,89.0,180.0
+Tuberculosis,97.0,,1.0,,21.0,Male,118.0,90.0,180.0
+Rheumatoid Arthritis,96.0,0.0,,,31.0,,120.0,70.0,193.0
+Migraine,100.0,0.0,0.0,0.0,24.0,Female,123.0,86.0,201.0
+Stroke,104.0,,,1.0,48.0,Female,98.0,,150.0
+Cerebral Palsy,104.0,0.0,1.0,0.0,67.0,,142.0,92.0,233.0
+Liver Cancer,96.0,,,1.0,44.0,Female,99.0,62.0,142.0
+"Eating Disorders (Anorexia, Bulimia)",100.0,,1.0,,36.0,,101.0,81.0,185.0
+Stroke,104.0,,1.0,0.0,50.0,,141.0,69.0,183.0
+Hyperthyroidism,100.0,1.0,,0.0,20.0,,101.0,99.0,223.0
+Liver Cancer,102.0,,0.0,,43.0,Male,154.0,95.0,198.0
+Cerebral Palsy,97.0,1.0,0.0,,53.0,Female,141.0,61.0,191.0
+Diabetes,104.0,1.0,0.0,,73.0,Male,138.0,69.0,164.0
+Chickenpox,103.0,0.0,0.0,,64.0,Male,105.0,66.0,224.0
+Stroke,97.0,0.0,0.0,1.0,77.0,Male,158.0,72.0,175.0
+Dengue Fever,97.0,0.0,1.0,,49.0,,122.0,82.0,162.0
+Liver Cancer,96.0,,1.0,0.0,74.0,Female,93.0,73.0,180.0
+Autism Spectrum Disorder (ASD),102.0,0.0,1.0,1.0,72.0,,113.0,66.0,211.0
+Chickenpox,99.0,0.0,0.0,,41.0,,94.0,95.0,136.0
+Bronchitis,100.0,1.0,0.0,1.0,45.0,,159.0,68.0,127.0
+Cerebral Palsy,,0.0,1.0,,21.0,,112.0,71.0,216.0
+Dengue Fever,98.0,,,,24.0,Male,101.0,82.0,239.0
+Tuberculosis,95.0,1.0,0.0,,23.0,Female,91.0,76.0,131.0
+Asthma,103.0,0.0,0.0,,47.0,Female,139.0,62.0,185.0
+Psoriasis,95.0,1.0,1.0,0.0,48.0,Female,157.0,75.0,224.0
+Eczema,100.0,0.0,,1.0,37.0,,149.0,63.0,178.0
+Autism Spectrum Disorder (ASD),99.0,1.0,0.0,,33.0,Male,154.0,81.0,238.0
+Tuberculosis,101.0,,,,32.0,Female,121.0,92.0,226.0
+Bronchitis,102.0,1.0,0.0,0.0,55.0,Female,90.0,96.0,209.0
+Psoriasis,,0.0,,,76.0,Male,142.0,82.0,146.0
+Tuberculosis,101.0,1.0,,1.0,69.0,Male,113.0,88.0,194.0
+Bronchitis,103.0,1.0,1.0,0.0,48.0,,115.0,82.0,126.0
+Asthma,98.0,,,,69.0,Female,111.0,99.0,194.0
+Cerebral Palsy,98.0,,0.0,1.0,48.0,Female,123.0,81.0,147.0
+Influenza,103.0,0.0,,0.0,54.0,Female,108.0,96.0,157.0
+Chickenpox,99.0,1.0,,,45.0,Female,90.0,66.0,231.0
+Asthma,,1.0,,,57.0,,151.0,69.0,193.0
+Liver Cancer,95.0,,,0.0,22.0,,113.0,64.0,130.0
+"Eating Disorders (Anorexia, Bulimia)",100.0,0.0,0.0,0.0,49.0,,93.0,,125.0
+Urinary Tract Infection,104.0,1.0,1.0,,36.0,,122.0,63.0,191.0
+Tuberculosis,104.0,,,1.0,45.0,Female,114.0,80.0,148.0
+Dengue Fever,102.0,0.0,1.0,1.0,50.0,,103.0,68.0,153.0
+Stroke,96.0,0.0,0.0,0.0,27.0,,136.0,78.0,220.0
+Diabetes,95.0,,,,53.0,Female,159.0,82.0,176.0
+Hyperthyroidism,98.0,,1.0,1.0,72.0,,158.0,100.0,175.0
+Migraine,103.0,0.0,1.0,0.0,71.0,Female,149.0,62.0,207.0
+Rheumatoid Arthritis,99.0,,1.0,1.0,65.0,,126.0,98.0,129.0
+Rheumatoid Arthritis,97.0,0.0,0.0,1.0,37.0,,91.0,95.0,179.0
+Hypertensive Heart Disease,96.0,0.0,0.0,1.0,58.0,Female,126.0,68.0,216.0
+Gastroenteritis,96.0,0.0,,1.0,18.0,,143.0,92.0,164.0
+Stroke,100.0,0.0,1.0,0.0,44.0,Female,109.0,89.0,190.0
+Chickenpox,104.0,0.0,1.0,1.0,74.0,,155.0,85.0,182.0
+Influenza,97.0,,,,53.0,,140.0,81.0,154.0
+Rheumatoid Arthritis,,0.0,0.0,1.0,42.0,,136.0,85.0,125.0
+Hyperthyroidism,104.0,1.0,,1.0,27.0,Male,105.0,78.0,239.0
+Autism Spectrum Disorder (ASD),104.0,1.0,,1.0,31.0,Female,153.0,96.0,225.0
+Dengue Fever,104.0,,,,,,156.0,61.0,
+Eczema,,,,1.0,61.0,Male,154.0,100.0,151.0
+Hyperthyroidism,103.0,0.0,0.0,1.0,77.0,Female,155.0,87.0,182.0
+Stroke,104.0,1.0,0.0,0.0,64.0,Male,155.0,76.0,141.0
+Psoriasis,96.0,0.0,1.0,0.0,69.0,,91.0,99.0,190.0
+Eczema,104.0,,1.0,0.0,74.0,,95.0,61.0,124.0
+Chickenpox,98.0,1.0,,,75.0,Female,131.0,79.0,147.0
+Liver Cancer,98.0,1.0,,1.0,56.0,,159.0,76.0,137.0
+Stroke,,,0.0,,42.0,Male,133.0,67.0,189.0
+Hypertensive Heart Disease,,1.0,1.0,,48.0,Male,105.0,91.0,148.0
+Chickenpox,,1.0,1.0,1.0,61.0,Female,118.0,64.0,187.0
+Chickenpox,,1.0,1.0,,70.0,Male,111.0,88.0,226.0
+Autism Spectrum Disorder (ASD),103.0,,1.0,0.0,41.0,,148.0,96.0,205.0
+Autism Spectrum Disorder (ASD),,1.0,1.0,,57.0,Female,158.0,72.0,231.0
+Eczema,99.0,,1.0,,48.0,,134.0,87.0,125.0
+Stroke,96.0,1.0,,0.0,78.0,Male,124.0,80.0,229.0
+Rheumatoid Arthritis,103.0,0.0,0.0,1.0,62.0,,158.0,97.0,
+Autism Spectrum Disorder (ASD),,1.0,1.0,0.0,58.0,Female,100.0,66.0,218.0
+Liver Cancer,98.0,,0.0,,,,124.0,66.0,219.0
+Urinary Tract Infection,103.0,0.0,0.0,0.0,72.0,Female,131.0,70.0,147.0
+Psoriasis,104.0,,,,71.0,Male,114.0,63.0,208.0
+Cerebral Palsy,95.0,0.0,,1.0,48.0,Male,118.0,61.0,215.0
+Diabetes,104.0,1.0,,1.0,64.0,Male,123.0,91.0,240.0
+Autism Spectrum Disorder (ASD),104.0,0.0,,,40.0,Male,98.0,73.0,202.0
+Chickenpox,101.0,,1.0,1.0,54.0,,160.0,84.0,136.0
+Dengue Fever,99.0,,0.0,,68.0,,150.0,86.0,145.0
+Rheumatoid Arthritis,99.0,,0.0,1.0,45.0,,113.0,90.0,175.0
+Hypertensive Heart Disease,102.0,,0.0,0.0,70.0,Female,160.0,80.0,180.0
+Rheumatoid Arthritis,96.0,,1.0,1.0,48.0,,115.0,81.0,131.0
+Dengue Fever,98.0,0.0,,,41.0,Male,90.0,88.0,125.0
+Autism Spectrum Disorder (ASD),99.0,1.0,1.0,,25.0,Female,136.0,86.0,234.0
+Hyperthyroidism,101.0,,1.0,,43.0,Female,96.0,87.0,163.0
+Bronchitis,104.0,,,,48.0,,101.0,93.0,173.0
+Hyperthyroidism,101.0,,0.0,0.0,56.0,,95.0,60.0,182.0
+Stroke,98.0,0.0,,1.0,32.0,Female,130.0,68.0,194.0
+Tuberculosis,,1.0,0.0,,46.0,Male,97.0,69.0,219.0
+Dengue Fever,97.0,1.0,0.0,0.0,71.0,Female,117.0,63.0,121.0
+Chickenpox,101.0,,1.0,0.0,78.0,,155.0,61.0,127.0
+Chickenpox,96.0,0.0,0.0,0.0,67.0,Male,150.0,80.0,141.0
+Migraine,104.0,1.0,0.0,0.0,71.0,,158.0,100.0,129.0
+Chickenpox,95.0,0.0,1.0,1.0,40.0,,157.0,68.0,218.0
+Influenza,,0.0,,1.0,19.0,,154.0,92.0,158.0
+Liver Cancer,97.0,0.0,,1.0,27.0,Female,104.0,99.0,145.0
+Hypertensive Heart Disease,97.0,,,0.0,48.0,,115.0,83.0,173.0
+Diabetes,100.0,,1.0,1.0,76.0,Female,125.0,94.0,164.0
+Eczema,,1.0,1.0,1.0,62.0,,119.0,92.0,229.0
+Rheumatoid Arthritis,97.0,,0.0,0.0,41.0,Female,97.0,97.0,148.0
+Gastroenteritis,97.0,,,,77.0,Female,159.0,63.0,181.0
+Hyperthyroidism,95.0,0.0,,,67.0,Male,93.0,77.0,224.0
+Chickenpox,101.0,1.0,0.0,0.0,78.0,,146.0,82.0,134.0
+Psoriasis,98.0,0.0,,0.0,73.0,,109.0,74.0,150.0
+Asthma,,1.0,0.0,,54.0,Male,140.0,62.0,222.0
+Dengue Fever,98.0,,0.0,1.0,22.0,,143.0,66.0,183.0
+Influenza,99.0,0.0,0.0,1.0,57.0,,153.0,96.0,192.0
+Influenza,102.0,,,,44.0,Male,155.0,63.0,152.0
+Autism Spectrum Disorder (ASD),102.0,,1.0,0.0,68.0,Male,145.0,89.0,172.0
+"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,1.0,0.0,54.0,Female,106.0,60.0,206.0
+"Eating Disorders (Anorexia, Bulimia)",95.0,,0.0,,24.0,Male,90.0,60.0,137.0
+Hypertensive Heart Disease,103.0,1.0,,0.0,21.0,Male,132.0,89.0,143.0
+Liver Cancer,100.0,0.0,,0.0,41.0,Female,96.0,85.0,143.0
+Influenza,98.0,1.0,1.0,1.0,48.0,Male,129.0,,159.0
+Urinary Tract Infection,104.0,0.0,0.0,1.0,,Female,160.0,96.0,192.0
+Liver Cancer,102.0,0.0,,1.0,57.0,Male,98.0,75.0,184.0
+Cerebral Palsy,102.0,1.0,1.0,,79.0,Female,133.0,76.0,160.0
+Hypertensive Heart Disease,104.0,0.0,0.0,0.0,,Female,132.0,60.0,156.0
+Hyperthyroidism,97.0,1.0,,,72.0,,127.0,77.0,120.0
+Tuberculosis,95.0,,0.0,,71.0,,147.0,92.0,128.0
+Psoriasis,100.0,0.0,0.0,,29.0,Female,,92.0,204.0
+Influenza,98.0,,,1.0,35.0,Female,134.0,95.0,217.0
+Autism Spectrum Disorder (ASD),95.0,0.0,0.0,0.0,44.0,Female,128.0,65.0,181.0
+Gastroenteritis,102.0,1.0,1.0,0.0,36.0,Female,146.0,79.0,171.0
+Psoriasis,102.0,1.0,0.0,1.0,65.0,Male,131.0,71.0,153.0
+Asthma,95.0,,,,80.0,Male,124.0,90.0,215.0
+Hypertensive Heart Disease,102.0,0.0,0.0,0.0,28.0,,108.0,83.0,197.0
+"Eating Disorders (Anorexia, Bulimia)",101.0,,1.0,,46.0,Male,,71.0,236.0
+Dengue Fever,100.0,,0.0,,18.0,,130.0,,209.0
+Rheumatoid Arthritis,104.0,,0.0,1.0,77.0,,141.0,60.0,227.0
+Rheumatoid Arthritis,98.0,0.0,,0.0,23.0,Male,120.0,74.0,160.0
+Diabetes,104.0,,0.0,1.0,77.0,Male,154.0,80.0,121.0
+Rheumatoid Arthritis,95.0,1.0,,,59.0,Male,115.0,92.0,200.0
+Chickenpox,98.0,0.0,0.0,1.0,42.0,,92.0,79.0,167.0
+Diabetes,99.0,1.0,0.0,1.0,48.0,Male,129.0,91.0,171.0
+Bronchitis,96.0,0.0,1.0,1.0,38.0,Male,158.0,74.0,198.0
+Rheumatoid Arthritis,103.0,1.0,0.0,0.0,28.0,,159.0,85.0,150.0
+Hyperthyroidism,102.0,0.0,,0.0,63.0,Female,143.0,67.0,186.0
+Rheumatoid Arthritis,101.0,1.0,,1.0,65.0,Male,148.0,65.0,230.0
+Dengue Fever,96.0,,,1.0,62.0,,151.0,82.0,165.0
+Asthma,,1.0,,,38.0,Female,113.0,61.0,219.0
+Urinary Tract Infection,97.0,1.0,,,38.0,Female,97.0,84.0,190.0
+Cerebral Palsy,97.0,0.0,0.0,,20.0,Male,139.0,83.0,161.0
+Bronchitis,98.0,1.0,0.0,1.0,62.0,Female,124.0,94.0,126.0
+Chickenpox,101.0,0.0,,1.0,25.0,Male,140.0,97.0,150.0
+Eczema,95.0,0.0,1.0,1.0,39.0,Male,121.0,70.0,132.0
+Migraine,96.0,0.0,,,22.0,Male,149.0,89.0,199.0
+Cerebral Palsy,97.0,1.0,,0.0,32.0,,153.0,89.0,132.0
+Stroke,101.0,0.0,0.0,,35.0,,115.0,89.0,184.0
+Psoriasis,95.0,1.0,1.0,1.0,43.0,Female,150.0,97.0,196.0
+Tuberculosis,101.0,0.0,,0.0,18.0,,93.0,99.0,140.0
+Diabetes,99.0,,,0.0,43.0,Female,112.0,70.0,169.0
+Cerebral Palsy,97.0,0.0,,1.0,67.0,Male,106.0,68.0,136.0
+Rheumatoid Arthritis,104.0,0.0,0.0,0.0,50.0,,144.0,93.0,153.0
+Autism Spectrum Disorder (ASD),96.0,,0.0,0.0,49.0,,131.0,100.0,148.0
+Influenza,97.0,0.0,,0.0,22.0,Female,146.0,87.0,185.0
+Hypertensive Heart Disease,,,1.0,,24.0,,153.0,73.0,202.0
+Bronchitis,104.0,0.0,1.0,0.0,20.0,,155.0,69.0,202.0
+Eczema,101.0,,0.0,,22.0,Female,144.0,77.0,131.0
+Eczema,104.0,1.0,1.0,0.0,26.0,Male,139.0,96.0,132.0
+Diabetes,,,,0.0,72.0,Male,137.0,100.0,218.0
+Eczema,97.0,,1.0,0.0,74.0,Male,97.0,68.0,231.0
+Psoriasis,102.0,1.0,0.0,0.0,54.0,Male,142.0,92.0,140.0
+Hypertensive Heart Disease,102.0,1.0,1.0,1.0,59.0,Female,95.0,72.0,121.0
+Urinary Tract Infection,100.0,,1.0,1.0,58.0,Male,149.0,84.0,198.0
+Rheumatoid Arthritis,102.0,0.0,1.0,0.0,60.0,Female,134.0,75.0,138.0
+Hypertensive Heart Disease,98.0,1.0,1.0,,46.0,,101.0,78.0,230.0
+"Eating Disorders (Anorexia, Bulimia)",97.0,1.0,0.0,1.0,29.0,Female,103.0,68.0,171.0
+Rheumatoid Arthritis,97.0,1.0,,0.0,69.0,Female,143.0,68.0,216.0
+Chickenpox,103.0,0.0,0.0,0.0,,Male,101.0,69.0,215.0
+Liver Cancer,100.0,1.0,0.0,0.0,59.0,Male,156.0,,185.0
+Tuberculosis,100.0,1.0,1.0,,59.0,Male,129.0,81.0,220.0
+"Eating Disorders (Anorexia, Bulimia)",95.0,,,,30.0,Female,157.0,79.0,188.0
+Liver Cancer,96.0,1.0,,0.0,44.0,Male,104.0,71.0,193.0
+Influenza,103.0,0.0,1.0,0.0,44.0,Male,129.0,60.0,230.0
+Hyperthyroidism,103.0,1.0,0.0,0.0,18.0,Male,119.0,63.0,219.0
+Urinary Tract Infection,99.0,0.0,,,51.0,,149.0,88.0,192.0
+Hypertensive Heart Disease,100.0,0.0,0.0,0.0,74.0,,137.0,92.0,160.0
+Stroke,102.0,1.0,0.0,1.0,37.0,Male,119.0,78.0,188.0
+Autism Spectrum Disorder (ASD),100.0,1.0,0.0,0.0,75.0,Male,152.0,99.0,165.0
+Liver Cancer,99.0,0.0,1.0,0.0,49.0,Male,144.0,74.0,188.0
+Urinary Tract Infection,100.0,,0.0,,32.0,Male,100.0,90.0,188.0
+Chickenpox,103.0,1.0,1.0,,58.0,,147.0,83.0,163.0
+Migraine,96.0,1.0,0.0,,60.0,Female,107.0,66.0,129.0
+Rheumatoid Arthritis,102.0,1.0,1.0,,22.0,Female,156.0,74.0,180.0
+Chickenpox,96.0,1.0,1.0,0.0,50.0,Male,149.0,63.0,150.0
+Asthma,97.0,,0.0,1.0,54.0,,122.0,83.0,156.0
+Eczema,,1.0,1.0,0.0,79.0,Male,92.0,93.0,131.0
+Hypertensive Heart Disease,96.0,,,1.0,49.0,Male,158.0,90.0,171.0
+Chickenpox,95.0,,1.0,,56.0,,126.0,89.0,141.0
+"Eating Disorders (Anorexia, Bulimia)",,0.0,,0.0,21.0,Female,158.0,89.0,180.0
+Diabetes,98.0,,0.0,1.0,75.0,Male,113.0,66.0,130.0
+Cerebral Palsy,97.0,,0.0,,36.0,,98.0,84.0,219.0
+Migraine,99.0,1.0,1.0,0.0,31.0,,136.0,73.0,198.0
+Asthma,101.0,0.0,1.0,,30.0,Female,151.0,95.0,180.0
+Bronchitis,95.0,0.0,0.0,0.0,72.0,Male,130.0,75.0,134.0
+Cerebral Palsy,104.0,,,0.0,58.0,Female,111.0,88.0,219.0
+Cerebral Palsy,101.0,,,,23.0,,150.0,64.0,193.0
+Urinary Tract Infection,95.0,0.0,0.0,1.0,76.0,Female,152.0,90.0,228.0
+Urinary Tract Infection,101.0,1.0,1.0,,,Female,157.0,81.0,195.0
+Dengue Fever,102.0,0.0,0.0,1.0,39.0,Male,120.0,64.0,175.0
+Chickenpox,,,0.0,,78.0,Male,127.0,81.0,134.0
+Psoriasis,104.0,,0.0,1.0,31.0,Female,110.0,61.0,142.0
+"Eating Disorders (Anorexia, Bulimia)",100.0,0.0,0.0,1.0,18.0,Female,160.0,89.0,230.0
+Influenza,,,,0.0,39.0,,101.0,90.0,228.0
+Autism Spectrum Disorder (ASD),100.0,0.0,1.0,1.0,78.0,,122.0,62.0,161.0
+Autism Spectrum Disorder (ASD),99.0,0.0,,0.0,54.0,Female,139.0,77.0,151.0
+Asthma,,0.0,,,,Female,94.0,65.0,202.0
+Stroke,102.0,,0.0,1.0,60.0,Male,144.0,93.0,147.0
+Psoriasis,96.0,1.0,1.0,0.0,68.0,Female,117.0,79.0,178.0
+Bronchitis,102.0,,0.0,1.0,55.0,,145.0,79.0,228.0
+Chickenpox,101.0,0.0,,1.0,34.0,,131.0,73.0,122.0
+Cerebral Palsy,103.0,,1.0,0.0,65.0,Female,144.0,78.0,219.0
+Cerebral Palsy,101.0,1.0,1.0,1.0,24.0,,125.0,76.0,158.0
+Hyperthyroidism,101.0,0.0,1.0,,22.0,Male,126.0,83.0,222.0
+Cerebral Palsy,97.0,,1.0,1.0,23.0,Female,109.0,69.0,183.0
+Tuberculosis,99.0,,,,63.0,Female,140.0,90.0,231.0
+Stroke,,0.0,0.0,0.0,24.0,Female,126.0,77.0,167.0
+Gastroenteritis,103.0,,,,69.0,Male,145.0,75.0,142.0
+"Eating Disorders (Anorexia, Bulimia)",98.0,,0.0,1.0,70.0,Male,111.0,91.0,235.0
+Gastroenteritis,103.0,1.0,0.0,,33.0,Female,96.0,83.0,233.0
+"Eating Disorders (Anorexia, Bulimia)",102.0,0.0,1.0,1.0,72.0,,153.0,97.0,166.0
+Bronchitis,96.0,1.0,0.0,,38.0,Female,90.0,72.0,120.0
+Urinary Tract Infection,,0.0,1.0,,53.0,,128.0,86.0,219.0
+Stroke,95.0,1.0,0.0,,43.0,,137.0,65.0,140.0
+Liver Cancer,99.0,1.0,,,72.0,Female,145.0,90.0,176.0
+Autism Spectrum Disorder (ASD),103.0,,0.0,1.0,37.0,,152.0,60.0,165.0
+Migraine,104.0,,1.0,1.0,72.0,,99.0,80.0,186.0
+Migraine,104.0,0.0,1.0,,55.0,,101.0,67.0,230.0
+Tuberculosis,,,1.0,1.0,37.0,,146.0,88.0,173.0
+Rheumatoid Arthritis,104.0,0.0,0.0,1.0,78.0,Male,130.0,85.0,198.0
+"Eating Disorders (Anorexia, Bulimia)",101.0,1.0,0.0,,53.0,,109.0,94.0,152.0
+Psoriasis,96.0,0.0,1.0,1.0,65.0,,150.0,100.0,150.0
+Hyperthyroidism,95.0,,,1.0,27.0,Female,99.0,67.0,121.0
+Diabetes,99.0,0.0,1.0,1.0,39.0,,96.0,91.0,193.0
+Migraine,97.0,1.0,,0.0,70.0,Female,148.0,77.0,200.0
+Influenza,99.0,,,0.0,,Female,143.0,97.0,238.0
+Psoriasis,97.0,,,1.0,58.0,Female,158.0,73.0,201.0
+Diabetes,102.0,,1.0,,29.0,Female,154.0,67.0,195.0
+Asthma,,0.0,0.0,1.0,54.0,Female,159.0,74.0,146.0
+Rheumatoid Arthritis,,,,,48.0,,147.0,83.0,141.0
+Bronchitis,98.0,1.0,,1.0,25.0,Male,140.0,92.0,201.0
+Hyperthyroidism,100.0,,1.0,,28.0,Male,135.0,80.0,212.0
+Influenza,97.0,,,0.0,33.0,Female,113.0,91.0,176.0
+Bronchitis,97.0,1.0,,0.0,72.0,,100.0,91.0,235.0
+Dengue Fever,98.0,0.0,1.0,0.0,74.0,Male,96.0,90.0,204.0
+Stroke,100.0,0.0,1.0,,21.0,Male,159.0,78.0,121.0
+Dengue Fever,103.0,0.0,1.0,,52.0,Male,140.0,89.0,172.0
+Gastroenteritis,103.0,0.0,,1.0,48.0,,130.0,,188.0
+Stroke,104.0,1.0,0.0,1.0,32.0,,127.0,66.0,132.0
+Urinary Tract Infection,101.0,1.0,,1.0,56.0,Male,157.0,91.0,225.0
+Migraine,,,,1.0,31.0,,100.0,69.0,224.0
+Liver Cancer,103.0,1.0,,1.0,47.0,,96.0,73.0,145.0
+Dengue Fever,103.0,0.0,1.0,1.0,48.0,Male,144.0,63.0,226.0
+Chickenpox,99.0,0.0,1.0,,29.0,Male,133.0,80.0,205.0
+Cerebral Palsy,95.0,,,0.0,30.0,Female,116.0,68.0,227.0
+Liver Cancer,101.0,1.0,1.0,,43.0,Male,91.0,81.0,147.0
+Autism Spectrum Disorder (ASD),99.0,,,,75.0,,96.0,97.0,134.0
+"Eating Disorders (Anorexia, Bulimia)",103.0,,,1.0,80.0,Female,105.0,83.0,143.0
+Diabetes,96.0,1.0,0.0,1.0,38.0,Male,110.0,97.0,218.0
+Gastroenteritis,97.0,0.0,,0.0,68.0,Female,159.0,98.0,130.0
+Tuberculosis,102.0,0.0,,0.0,67.0,,109.0,69.0,169.0
+Bronchitis,99.0,,,1.0,32.0,,149.0,82.0,145.0
+Urinary Tract Infection,103.0,,,1.0,28.0,Female,121.0,65.0,179.0
+Diabetes,100.0,1.0,0.0,0.0,64.0,,110.0,85.0,142.0
+Cerebral Palsy,102.0,0.0,1.0,1.0,53.0,Male,126.0,67.0,215.0
+Bronchitis,,,1.0,1.0,58.0,,146.0,60.0,198.0
