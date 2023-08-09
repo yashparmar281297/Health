@@ -1,0 +1,1201 @@
+,Diseases,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Systolic Blood Pressure,Diastolic Blood Pressure,Cholesterol Level,Gender_Encoding,Age_Category,Blood Pressure Category
+0,Rheumatoid Arthritis,103.0,0.0,0.0,1.0,26.0,Female,97.0,81.0,234.0,0,Young Adult,Wrong reading
+1,Liver Cancer,99.0,0.0,1.0,1.0,39.0,Female,116.0,74.0,158.0,0,Adult,Normal
+2,Diabetes,103.0,1.0,0.0,0.0,53.0,Male,114.0,94.0,120.0,1,Middle Aged,Wrong reading
+3,Eczema,104.0,0.0,0.0,0.0,34.0,Female,141.0,94.0,199.0,0,Adult,High Blood Pressure Stage 2
+4,Eczema,105.0,0.0,1.0,1.0,50.0,Female,101.0,74.0,186.0,0,Middle Aged,Normal
+5,Psoriasis,100.0,1.0,0.0,1.0,50.0,Male,92.0,83.0,136.0,1,Middle Aged,Wrong reading
+6,Diabetes,103.0,0.0,1.0,1.0,45.0,Female,116.0,73.0,194.0,0,Middle Aged,Normal
+7,"Eating Disorders (Anorexia, Bulimia)",104.0,0.0,0.0,1.0,35.0,Female,104.0,95.0,173.0,0,Adult,Wrong reading
+8,Psoriasis,102.0,0.0,1.0,1.0,37.0,Female,98.0,95.0,126.0,0,Adult,Wrong reading
+9,Hypertensive Heart Disease,100.0,1.0,0.0,1.0,30.0,Female,125.89282700421941,88.0,162.0,0,Adult,Wrong reading
+10,Eczema,104.0,0.0,1.0,0.0,75.0,Male,124.0,61.0,178.0,1,Old,Elevated
+11,Gastroenteritis,101.0,0.0,1.0,1.0,33.0,Female,109.0,89.0,179.0,0,Adult,Wrong reading
+12,Eczema,102.0,0.0,0.0,1.0,25.0,Female,140.0,94.0,239.0,0,Young Adult,High Blood Pressure Stage 2
+13,Urinary Tract Infection,103.0,0.0,1.0,0.0,18.0,Female,153.0,100.0,192.0,0,Teen,High Blood Pressure Stage 2
+14,Tuberculosis,95.0,0.0,1.0,0.0,23.0,Female,147.0,93.0,217.0,0,Young Adult,High Blood Pressure Stage 2
+15,Gastroenteritis,95.0,0.0,1.0,1.0,67.0,Male,146.0,86.0,231.0,1,Old,Wrong reading
+16,Asthma,98.0,0.0,1.0,1.0,56.0,Female,100.0,83.0,218.0,0,Middle Aged,Wrong reading
+17,Psoriasis,103.0,0.0,0.0,0.0,74.0,Female,129.0,76.0,128.0,0,Old,Elevated
+18,Rheumatoid Arthritis,101.0,1.0,1.0,0.0,22.0,Female,150.0,99.0,215.0,0,Young Adult,High Blood Pressure Stage 2
+19,Eczema,105.0,1.0,0.0,1.0,69.0,Female,105.0,66.0,167.0,0,Old,Normal
+20,"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,1.0,0.0,63.0,Male,160.0,89.0,237.0,1,Old,Wrong reading
+21,"Eating Disorders (Anorexia, Bulimia)",102.0,0.0,1.0,1.0,45.0,Female,126.0,74.0,195.0,0,Middle Aged,Elevated
+22,Urinary Tract Infection,102.0,0.0,0.0,1.0,52.0,Male,149.0,91.0,142.0,1,Middle Aged,High Blood Pressure Stage 2
+23,Diabetes,97.0,0.0,1.0,1.0,57.0,Male,144.0,90.0,238.0,1,Middle Aged,High Blood Pressure Stage 2
+24,Urinary Tract Infection,97.0,0.0,0.0,1.0,39.0,Female,119.0,93.0,234.0,0,Adult,Wrong reading
+25,Psoriasis,102.0,1.0,1.0,0.0,29.0,Female,97.0,67.0,123.0,0,Young Adult,Normal
+26,Influenza,100.40495867768595,0.0,1.0,1.0,51.0,Male,125.89282700421941,90.0,133.0,1,Middle Aged,Wrong reading
+27,Hyperthyroidism,95.0,0.0,1.0,1.0,48.0,Male,117.0,68.0,226.0,1,Middle Aged,Normal
+28,Rheumatoid Arthritis,100.40495867768595,0.0,0.0,1.0,68.0,Female,139.0,72.0,232.0,0,Old,Wrong reading
+29,Chickenpox,105.0,0.0,1.0,1.0,35.0,Male,139.0,81.0,171.0,1,Adult,Higher Blood Pressure Stage 1
+30,Dengue Fever,109.0,0.0,1.0,1.0,27.0,Male,141.0,79.0,172.0,1,Young Adult,Wrong reading
+31,Hyperthyroidism,107.0,0.0,1.0,0.0,36.0,Female,110.0,67.0,134.0,0,Adult,Normal
+32,Psoriasis,100.0,0.0,1.0,1.0,69.0,Male,138.0,80.0,122.0,1,Old,Higher Blood Pressure Stage 1
+33,Cerebral Palsy,100.0,0.0,0.0,1.0,70.0,Female,146.0,74.0,188.0,0,Old,Wrong reading
+34,Urinary Tract Infection,102.0,0.0,1.0,0.0,39.0,Male,123.0,65.0,135.0,1,Adult,Elevated
+35,Hyperthyroidism,100.40495867768595,0.0,1.0,0.0,34.0,Female,149.0,89.0,170.0,0,Adult,Wrong reading
+36,Urinary Tract Infection,104.0,1.0,1.0,0.0,74.0,Female,158.0,64.0,120.0,0,Old,Wrong reading
+37,Gastroenteritis,100.0,0.0,0.0,0.0,55.0,Male,94.0,78.0,131.0,1,Middle Aged,Normal
+38,Rheumatoid Arthritis,97.0,1.0,1.0,1.0,20.0,Female,142.0,80.0,228.0,0,Young Adult,Wrong reading
+39,Gastroenteritis,100.40495867768595,0.0,1.0,1.0,52.0,Female,108.0,62.0,189.0,0,Middle Aged,Normal
+40,Urinary Tract Infection,100.40495867768595,0.0,1.0,0.0,54.0,Female,142.0,73.0,159.0,0,Middle Aged,Wrong reading
+41,"Eating Disorders (Anorexia, Bulimia)",95.0,0.0,1.0,0.0,36.0,Female,129.0,81.0,184.0,0,Adult,Wrong reading
+42,Influenza,98.0,0.0,0.0,1.0,48.0,Male,112.0,78.0,179.0,1,Middle Aged,Normal
+43,Influenza,98.0,0.0,1.0,1.0,56.0,Female,105.0,66.0,202.0,0,Middle Aged,Normal
+44,Tuberculosis,96.0,0.0,1.0,0.0,49.10808510638298,Female,144.0,78.0,129.0,0,Middle Aged,Wrong reading
+45,Dengue Fever,100.0,0.0,0.0,1.0,62.0,Male,109.0,70.0,214.0,1,Old,Normal
+46,Chickenpox,100.40495867768595,0.0,0.0,1.0,35.0,Female,152.0,81.0,223.0,0,Adult,Wrong reading
+47,Gastroenteritis,100.40495867768595,1.0,0.0,1.0,49.0,Female,125.89282700421941,79.0,176.0,0,Middle Aged,Elevated
+48,Hypertensive Heart Disease,106.0,0.0,1.0,0.0,63.0,Female,149.0,87.0,194.0,0,Old,Wrong reading
+49,Urinary Tract Infection,101.0,0.0,1.0,0.0,53.0,Male,127.0,82.0,130.0,1,Middle Aged,Wrong reading
+50,Influenza,106.0,0.0,0.0,1.0,49.10808510638298,Female,97.0,93.0,171.0,0,Middle Aged,Wrong reading
+51,Cerebral Palsy,101.0,1.0,1.0,0.0,77.0,Male,104.0,65.0,226.0,1,Old,Normal
+52,Hypertensive Heart Disease,97.0,0.0,1.0,1.0,39.0,Male,109.0,75.0,194.0,1,Adult,Normal
+53,Diabetes,99.0,0.0,0.0,1.0,34.0,Male,91.0,67.0,187.0,1,Adult,Normal
+54,Chickenpox,104.0,0.0,0.0,0.0,23.0,Male,139.0,61.0,186.0,1,Young Adult,Wrong reading
+55,Gastroenteritis,102.0,1.0,0.0,1.0,36.0,Female,96.0,75.0,235.0,0,Adult,Normal
+56,Psoriasis,100.40495867768595,0.0,1.0,0.0,40.0,Male,152.0,68.0,183.0,1,Middle Aged,Wrong reading
+57,Dengue Fever,100.0,0.0,1.0,1.0,60.0,Male,101.0,80.0,228.0,1,Old,Wrong reading
+58,Influenza,96.0,1.0,0.0,1.0,22.0,Male,111.0,64.0,140.0,1,Young Adult,Normal
+59,Stroke,97.0,0.0,1.0,0.0,21.0,Male,160.0,69.0,133.0,1,Young Adult,Wrong reading
+60,Chickenpox,103.0,0.0,1.0,1.0,19.0,Female,152.0,65.0,166.0,0,Teen,Wrong reading
+61,Influenza,105.0,0.0,1.0,1.0,73.0,Male,107.0,94.0,182.0,1,Old,Wrong reading
+62,Dengue Fever,106.0,0.0,1.0,1.0,68.0,Female,156.0,99.0,124.0,0,Old,High Blood Pressure Stage 2
+63,Tuberculosis,95.0,0.0,0.0,1.0,51.0,Female,159.0,66.0,154.0,0,Middle Aged,Wrong reading
+64,Autism Spectrum Disorder (ASD),109.0,1.0,1.0,1.0,41.0,Male,154.0,60.0,185.0,1,Middle Aged,Wrong reading
+65,Urinary Tract Infection,108.0,0.0,1.0,1.0,54.0,Female,108.0,66.0,134.0,0,Middle Aged,Normal
+66,Influenza,96.0,0.0,0.0,1.0,20.0,Male,125.0,87.0,130.0,1,Young Adult,Wrong reading
+67,Stroke,100.40495867768595,0.0,0.0,1.0,28.0,Female,147.0,70.0,135.0,0,Young Adult,Wrong reading
+68,Gastroenteritis,106.0,0.0,1.0,1.0,52.0,Male,151.0,75.0,141.0,1,Middle Aged,Wrong reading
+69,Autism Spectrum Disorder (ASD),100.40495867768595,0.0,1.0,1.0,80.0,Female,93.0,82.0,186.0,0,Old,Wrong reading
+70,Influenza,107.0,0.0,0.0,0.0,59.0,Female,114.0,86.0,170.0,0,Middle Aged,Wrong reading
+71,Stroke,108.0,1.0,1.0,1.0,41.0,Female,110.0,91.0,147.0,0,Middle Aged,Wrong reading
+72,Urinary Tract Infection,108.0,1.0,1.0,0.0,23.0,Female,116.0,67.0,178.0,0,Young Adult,Normal
+73,Chickenpox,101.0,0.0,0.0,1.0,21.0,Male,100.0,88.0,148.0,1,Young Adult,Wrong reading
+74,Eczema,95.0,0.0,1.0,1.0,20.0,Male,131.0,91.0,187.0,1,Young Adult,Wrong reading
+75,Eczema,109.0,0.0,1.0,1.0,40.0,Female,149.0,79.0,194.0,0,Middle Aged,Wrong reading
+76,Cerebral Palsy,98.0,0.0,0.0,0.0,19.0,Female,127.0,69.0,152.0,0,Teen,Elevated
+77,Tuberculosis,97.0,0.0,1.0,1.0,46.0,Female,107.0,67.0,133.0,0,Middle Aged,Normal
+78,"Eating Disorders (Anorexia, Bulimia)",95.0,1.0,1.0,1.0,66.0,Female,136.0,99.0,142.0,0,Old,Wrong reading
+79,Influenza,102.0,1.0,1.0,1.0,63.0,Female,129.0,69.0,128.0,0,Old,Elevated
+80,Stroke,108.0,1.0,1.0,1.0,62.0,Female,133.0,89.0,171.0,0,Old,Higher Blood Pressure Stage 1
+81,Stroke,99.0,1.0,1.0,1.0,33.0,Female,149.0,93.0,125.0,0,Adult,High Blood Pressure Stage 2
+82,Hyperthyroidism,104.0,0.0,0.0,1.0,68.0,Female,142.0,80.0,152.0,0,Old,Wrong reading
+83,Asthma,95.0,1.0,0.0,1.0,46.0,Female,90.0,76.0,212.0,0,Middle Aged,Normal
+84,Gastroenteritis,103.0,1.0,1.0,1.0,35.0,Male,134.0,98.0,150.0,1,Adult,Wrong reading
+85,Psoriasis,100.40495867768595,1.0,0.0,0.0,78.0,Male,113.0,79.47863247863248,132.0,1,Old,Normal
+86,Urinary Tract Infection,98.0,1.0,0.0,1.0,42.0,Male,94.0,94.0,150.0,1,Middle Aged,Wrong reading
+87,Liver Cancer,95.0,0.0,1.0,0.0,53.0,Male,133.0,68.0,178.18776194467728,1,Middle Aged,Wrong reading
+88,Hyperthyroidism,100.40495867768595,0.0,0.0,0.0,66.0,Female,119.0,77.0,182.0,0,Old,Normal
+89,Gastroenteritis,101.0,0.0,1.0,1.0,18.0,Male,122.0,82.0,126.0,1,Teen,Wrong reading
+90,Influenza,102.0,0.0,1.0,1.0,54.0,Female,138.0,62.0,158.0,0,Middle Aged,Wrong reading
+91,Dengue Fever,109.0,0.0,0.0,1.0,57.0,Female,103.0,89.0,137.0,0,Middle Aged,Wrong reading
+92,Hypertensive Heart Disease,102.0,0.0,0.0,0.0,24.0,Female,150.0,91.0,145.0,0,Young Adult,High Blood Pressure Stage 2
+93,Stroke,100.40495867768595,0.0,0.0,0.0,49.10808510638298,Female,131.0,72.0,120.0,0,Middle Aged,Wrong reading
+94,Psoriasis,103.0,1.0,1.0,0.0,31.0,Male,138.0,97.0,134.0,1,Adult,Wrong reading
+95,Liver Cancer,106.0,1.0,1.0,1.0,41.0,Female,139.0,77.0,140.0,0,Middle Aged,Wrong reading
+96,Influenza,104.0,0.0,0.0,1.0,37.0,Male,154.0,75.0,233.0,1,Adult,Wrong reading
+97,Stroke,100.40495867768595,0.0,0.0,0.0,55.0,Female,129.0,85.0,151.0,0,Middle Aged,Wrong reading
+98,Diabetes,105.0,0.0,1.0,0.0,72.0,Female,139.0,92.0,235.0,0,Old,Wrong reading
+99,Bronchitis,106.0,1.0,1.0,1.0,79.0,Female,111.0,93.0,162.0,0,Old,Wrong reading
+100,Hypertensive Heart Disease,101.0,0.0,0.0,1.0,51.0,Female,144.0,69.0,148.0,0,Middle Aged,Wrong reading
+101,Migraine,108.0,1.0,1.0,1.0,64.0,Female,159.0,84.0,190.0,0,Old,Wrong reading
+102,Rheumatoid Arthritis,99.0,0.0,1.0,1.0,27.0,Female,104.0,75.0,125.0,0,Young Adult,Normal
+103,Influenza,102.0,0.0,1.0,0.0,50.0,Male,100.0,94.0,138.0,1,Middle Aged,Wrong reading
+104,Tuberculosis,101.0,0.0,1.0,1.0,34.0,Female,125.0,88.0,207.0,0,Adult,Wrong reading
+105,Influenza,105.0,1.0,1.0,0.0,52.0,Female,97.0,83.0,168.0,0,Middle Aged,Wrong reading
+106,Liver Cancer,98.0,0.0,0.0,1.0,69.0,Female,132.0,67.0,177.0,0,Old,Wrong reading
+107,Migraine,101.0,1.0,1.0,1.0,73.0,Female,123.0,75.0,191.0,0,Old,Elevated
+108,Migraine,98.0,0.0,1.0,1.0,49.0,Male,93.0,70.0,204.0,1,Middle Aged,Normal
+109,Migraine,106.0,0.0,1.0,1.0,38.0,Female,123.0,63.0,237.0,0,Adult,Elevated
+110,Asthma,101.0,0.0,1.0,1.0,44.0,Female,150.0,65.0,206.0,0,Middle Aged,Wrong reading
+111,"Eating Disorders (Anorexia, Bulimia)",100.0,1.0,1.0,1.0,66.0,Female,141.0,98.0,206.0,0,Old,High Blood Pressure Stage 2
+112,Psoriasis,106.0,0.0,1.0,1.0,30.0,Male,154.0,70.0,235.0,1,Adult,Wrong reading
+113,Stroke,97.0,0.0,1.0,0.0,29.0,Female,97.0,96.0,152.0,0,Young Adult,Wrong reading
+114,Psoriasis,97.0,0.0,1.0,1.0,55.0,Male,154.0,63.0,229.0,1,Middle Aged,Wrong reading
+115,Stroke,100.0,1.0,0.0,0.0,64.0,Male,125.0,81.0,134.0,1,Old,Wrong reading
+116,Cerebral Palsy,99.0,0.0,1.0,1.0,76.0,Female,157.0,86.0,215.0,0,Old,Wrong reading
+117,Migraine,101.0,0.0,1.0,1.0,21.0,Female,125.89282700421941,62.0,147.0,0,Young Adult,Elevated
+118,"Eating Disorders (Anorexia, Bulimia)",96.0,1.0,0.0,1.0,19.0,Female,115.0,68.0,188.0,0,Teen,Normal
+119,Hyperthyroidism,104.0,1.0,0.0,1.0,67.0,Male,156.0,84.0,128.0,1,Old,Wrong reading
+120,Autism Spectrum Disorder (ASD),102.0,1.0,1.0,0.0,47.0,Male,100.0,90.0,182.0,1,Middle Aged,Wrong reading
+121,Influenza,98.0,0.0,1.0,0.0,19.0,Female,124.0,63.0,207.0,0,Teen,Elevated
+122,Cerebral Palsy,107.0,1.0,1.0,1.0,48.0,Male,148.0,66.0,214.0,1,Middle Aged,Wrong reading
+123,Chickenpox,104.0,0.0,1.0,0.0,29.0,Female,112.0,89.0,200.0,0,Young Adult,Wrong reading
+124,Influenza,105.0,1.0,0.0,0.0,44.0,Male,142.0,75.0,181.0,1,Middle Aged,Wrong reading
+125,Diabetes,105.0,0.0,0.0,1.0,78.0,Female,103.0,60.0,140.0,0,Old,Normal
+126,Urinary Tract Infection,100.0,0.0,1.0,1.0,52.0,Female,132.0,79.0,201.0,0,Middle Aged,Wrong reading
+127,Gastroenteritis,95.0,0.0,0.0,1.0,54.0,Female,151.0,65.0,231.0,0,Middle Aged,Wrong reading
+128,Chickenpox,105.0,1.0,1.0,1.0,42.0,Male,93.0,96.0,183.0,1,Middle Aged,Wrong reading
+129,Influenza,99.0,0.0,1.0,0.0,42.0,Female,144.0,97.0,182.0,0,Middle Aged,High Blood Pressure Stage 2
+130,Diabetes,103.0,0.0,1.0,0.0,56.0,Female,112.0,93.0,214.0,0,Middle Aged,Wrong reading
+131,Liver Cancer,103.0,1.0,0.0,0.0,59.0,Female,153.0,77.0,223.0,0,Middle Aged,Wrong reading
+132,Asthma,100.0,1.0,0.0,1.0,52.0,Female,147.0,63.0,160.0,0,Middle Aged,Wrong reading
+133,Diabetes,104.0,0.0,1.0,1.0,78.0,Female,104.0,76.0,139.0,0,Old,Normal
+134,Cerebral Palsy,109.0,0.0,1.0,0.0,19.0,Male,94.0,77.0,238.0,1,Teen,Normal
+135,Dengue Fever,101.0,0.0,0.0,0.0,37.0,Female,157.0,89.0,168.0,0,Adult,Wrong reading
+136,Asthma,106.0,0.0,0.0,1.0,71.0,Female,98.0,88.0,220.0,0,Old,Wrong reading
+137,Gastroenteritis,98.0,0.0,1.0,1.0,58.0,Female,150.0,73.0,155.0,0,Middle Aged,Wrong reading
+138,Influenza,99.0,0.0,1.0,0.0,58.0,Female,127.0,87.0,231.0,0,Middle Aged,Wrong reading
+139,Hypertensive Heart Disease,100.40495867768595,1.0,0.0,0.0,24.0,Female,109.0,74.0,171.0,0,Young Adult,Normal
+140,Influenza,109.0,0.0,1.0,1.0,65.0,Female,107.0,90.0,131.0,0,Old,Wrong reading
+141,Liver Cancer,106.0,0.0,0.0,1.0,41.0,Female,94.0,98.0,138.0,0,Middle Aged,Wrong reading
+142,Stroke,104.0,0.0,1.0,1.0,66.0,Male,141.0,67.0,225.0,1,Old,Wrong reading
+143,Stroke,105.0,1.0,1.0,0.0,37.0,Female,156.0,82.0,135.0,0,Adult,Wrong reading
+144,Asthma,100.0,0.0,1.0,1.0,61.0,Male,105.0,69.0,237.0,1,Old,Normal
+145,Dengue Fever,101.0,0.0,1.0,1.0,64.0,Male,116.0,63.0,168.0,1,Old,Normal
+146,Eczema,97.0,1.0,1.0,1.0,34.0,Female,111.0,93.0,231.0,0,Adult,Wrong reading
+147,Asthma,103.0,1.0,1.0,0.0,53.0,Female,103.0,67.0,174.0,0,Middle Aged,Normal
+148,Tuberculosis,95.0,0.0,1.0,0.0,41.0,Female,142.0,77.0,208.0,0,Middle Aged,Wrong reading
+149,Liver Cancer,95.0,0.0,1.0,1.0,70.0,Female,109.0,77.0,143.0,0,Old,Normal
+150,Migraine,103.0,0.0,1.0,1.0,29.0,Female,118.0,72.0,147.0,0,Young Adult,Normal
+151,Hypertensive Heart Disease,105.0,0.0,1.0,1.0,30.0,Female,118.0,88.0,136.0,0,Adult,Wrong reading
+152,Liver Cancer,102.0,0.0,1.0,1.0,58.0,Male,108.0,75.0,173.0,1,Middle Aged,Normal
+153,Rheumatoid Arthritis,104.0,1.0,1.0,0.0,60.0,Male,96.0,91.0,141.0,1,Old,Wrong reading
+154,Hypertensive Heart Disease,108.0,0.0,1.0,1.0,71.0,Female,143.0,61.0,130.0,0,Old,Wrong reading
+155,Stroke,95.0,0.0,1.0,0.0,52.0,Female,112.0,64.0,166.0,0,Middle Aged,Normal
+156,Hypertensive Heart Disease,106.0,1.0,1.0,1.0,21.0,Female,144.0,67.0,233.0,0,Young Adult,Wrong reading
+157,"Eating Disorders (Anorexia, Bulimia)",105.0,1.0,1.0,1.0,50.0,Female,105.0,98.0,206.0,0,Middle Aged,Wrong reading
+158,Stroke,102.0,1.0,1.0,0.0,58.0,Female,91.0,100.0,208.0,0,Middle Aged,Wrong reading
+159,Asthma,100.0,0.0,0.0,0.0,44.0,Male,119.0,60.0,240.0,1,Middle Aged,Normal
+160,Gastroenteritis,100.40495867768595,0.0,0.0,0.0,33.0,Female,113.0,69.0,146.0,0,Adult,Normal
+161,Eczema,103.0,0.0,1.0,0.0,19.0,Female,107.0,79.47863247863248,147.0,0,Teen,Normal
+162,Eczema,96.0,0.0,1.0,1.0,79.0,Female,144.0,79.0,134.0,0,Old,Wrong reading
+163,Eczema,100.40495867768595,0.0,1.0,1.0,69.0,Female,102.0,96.0,134.0,0,Old,Wrong reading
+164,Cerebral Palsy,104.0,0.0,0.0,1.0,59.0,Female,125.89282700421941,60.0,207.0,0,Middle Aged,Elevated
+165,Migraine,97.0,1.0,1.0,0.0,20.0,Female,159.0,63.0,230.0,0,Young Adult,Wrong reading
+166,Asthma,101.0,0.0,0.0,1.0,63.0,Female,150.0,96.0,138.0,0,Old,High Blood Pressure Stage 2
+167,Psoriasis,105.0,0.0,1.0,0.0,73.0,Female,114.0,68.0,200.0,0,Old,Normal
+168,Hyperthyroidism,104.0,0.0,1.0,1.0,23.0,Male,103.0,92.0,176.0,1,Young Adult,Wrong reading
+169,Tuberculosis,107.0,0.0,1.0,1.0,53.0,Female,120.0,72.0,218.0,0,Middle Aged,Elevated
+170,Urinary Tract Infection,107.0,0.0,1.0,1.0,53.0,Female,103.0,82.0,240.0,0,Middle Aged,Wrong reading
+171,Stroke,103.0,1.0,1.0,0.0,23.0,Female,132.0,70.0,152.0,0,Young Adult,Wrong reading
+172,Influenza,95.0,1.0,1.0,1.0,50.0,Male,90.0,77.0,202.0,1,Middle Aged,Normal
+173,Bronchitis,105.0,0.0,0.0,0.0,68.0,Female,150.0,74.0,167.0,0,Old,Wrong reading
+174,Stroke,103.0,0.0,0.0,0.0,57.0,Male,155.0,77.0,178.0,1,Middle Aged,Wrong reading
+175,Gastroenteritis,100.40495867768595,1.0,1.0,1.0,73.0,Male,121.0,71.0,151.0,1,Old,Elevated
+176,Asthma,99.0,1.0,0.0,1.0,45.0,Female,160.0,88.0,127.0,0,Middle Aged,Wrong reading
+177,Migraine,109.0,1.0,1.0,1.0,66.0,Male,155.0,72.0,183.0,1,Old,Wrong reading
+178,Rheumatoid Arthritis,98.0,0.0,1.0,0.0,60.0,Male,133.0,94.0,200.0,1,Old,Wrong reading
+179,Cerebral Palsy,103.0,0.0,1.0,1.0,19.0,Male,137.0,90.0,156.0,1,Teen,Wrong reading
+180,Gastroenteritis,98.0,1.0,1.0,1.0,62.0,Female,120.0,74.0,162.0,0,Old,Elevated
+181,Urinary Tract Infection,106.0,0.0,1.0,1.0,77.0,Female,104.0,82.0,218.0,0,Old,Wrong reading
+182,Cerebral Palsy,97.0,0.0,0.0,0.0,57.0,Male,121.0,61.0,184.0,1,Middle Aged,Elevated
+183,Rheumatoid Arthritis,102.0,0.0,1.0,1.0,19.0,Female,95.0,82.0,207.0,0,Teen,Wrong reading
+184,Diabetes,98.0,0.0,0.0,1.0,18.0,Female,101.0,79.47863247863248,240.0,0,Teen,Normal
+185,Influenza,106.0,0.0,1.0,1.0,59.0,Female,132.0,90.0,149.0,0,Middle Aged,Wrong reading
+186,Liver Cancer,95.0,1.0,0.0,1.0,27.0,Female,129.0,65.0,239.0,0,Young Adult,Elevated
+187,Rheumatoid Arthritis,108.0,1.0,0.0,1.0,56.0,Male,98.0,93.0,207.0,1,Middle Aged,Wrong reading
+188,Hyperthyroidism,96.0,0.0,0.0,1.0,74.0,Male,158.0,98.0,234.0,1,Old,High Blood Pressure Stage 2
+189,Liver Cancer,105.0,1.0,1.0,0.0,74.0,Female,115.0,73.0,178.0,0,Old,Normal
+190,Hypertensive Heart Disease,107.0,0.0,1.0,0.0,55.0,Female,130.0,65.0,137.0,0,Middle Aged,Wrong reading
+191,Autism Spectrum Disorder (ASD),100.40495867768595,1.0,1.0,0.0,80.0,Male,107.0,95.0,198.0,1,Old,Wrong reading
+192,Liver Cancer,103.0,0.0,1.0,0.0,42.0,Female,98.0,95.0,165.0,0,Middle Aged,Wrong reading
+193,Dengue Fever,100.0,1.0,1.0,1.0,74.0,Male,146.0,64.0,178.0,1,Old,Wrong reading
+194,Urinary Tract Infection,96.0,0.0,1.0,1.0,31.0,Male,97.0,81.0,158.0,1,Adult,Wrong reading
+195,Autism Spectrum Disorder (ASD),100.0,0.0,1.0,0.0,80.0,Female,157.0,75.0,168.0,0,Old,Wrong reading
+196,Diabetes,101.0,0.0,1.0,1.0,67.0,Female,155.0,79.47863247863248,136.0,0,Old,Wrong reading
+197,Migraine,109.0,1.0,1.0,0.0,72.0,Female,107.0,73.0,132.0,0,Old,Normal
+198,Gastroenteritis,96.0,0.0,1.0,1.0,74.0,Female,138.0,93.0,209.0,0,Old,Wrong reading
+199,Psoriasis,102.0,0.0,0.0,0.0,59.0,Female,135.0,68.0,227.0,0,Middle Aged,Wrong reading
+200,Bronchitis,105.0,1.0,1.0,1.0,49.10808510638298,Male,132.0,85.0,143.0,1,Middle Aged,Higher Blood Pressure Stage 1
+201,Influenza,104.0,1.0,1.0,1.0,77.0,Female,90.0,86.0,201.0,0,Old,Wrong reading
+202,Liver Cancer,102.0,0.0,0.0,0.0,57.0,Female,151.0,84.0,210.0,0,Middle Aged,Wrong reading
+203,Liver Cancer,104.0,0.0,1.0,1.0,23.0,Female,98.0,70.0,221.0,0,Young Adult,Normal
+204,Liver Cancer,100.0,0.0,0.0,0.0,18.0,Male,143.0,91.0,235.0,1,Teen,High Blood Pressure Stage 2
+205,Urinary Tract Infection,104.0,1.0,1.0,0.0,54.0,Female,154.0,79.0,206.0,0,Middle Aged,Wrong reading
+206,Psoriasis,100.40495867768595,0.0,1.0,1.0,77.0,Female,159.0,84.0,193.0,0,Old,Wrong reading
+207,Hyperthyroidism,104.0,0.0,0.0,0.0,63.0,Male,135.0,98.0,144.0,1,Old,Wrong reading
+208,Eczema,109.0,0.0,1.0,1.0,32.0,Female,111.0,73.0,153.0,0,Adult,Normal
+209,Dengue Fever,97.0,1.0,1.0,1.0,58.0,Female,132.0,74.0,196.0,0,Middle Aged,Wrong reading
+210,Migraine,102.0,1.0,0.0,1.0,48.0,Female,121.0,87.0,124.0,0,Middle Aged,Wrong reading
+211,Autism Spectrum Disorder (ASD),107.0,1.0,1.0,1.0,52.0,Female,139.0,78.0,182.0,0,Middle Aged,Wrong reading
+212,Eczema,96.0,0.0,1.0,1.0,55.0,Female,156.0,89.0,202.0,0,Middle Aged,Wrong reading
+213,Chickenpox,95.0,1.0,1.0,1.0,61.0,Female,138.0,78.0,179.0,0,Old,Wrong reading
+214,Asthma,105.0,0.0,1.0,1.0,19.0,Female,145.0,95.0,169.0,0,Teen,High Blood Pressure Stage 2
+215,Autism Spectrum Disorder (ASD),104.0,0.0,1.0,1.0,28.0,Female,121.0,100.0,190.0,0,Young Adult,Wrong reading
+216,Asthma,107.0,0.0,1.0,0.0,75.0,Male,141.0,91.0,154.0,1,Old,High Blood Pressure Stage 2
+217,Tuberculosis,95.0,0.0,1.0,1.0,51.0,Female,134.0,84.0,199.0,0,Middle Aged,Higher Blood Pressure Stage 1
+218,Stroke,100.0,1.0,1.0,0.0,44.0,Female,133.0,74.0,238.0,0,Middle Aged,Wrong reading
+219,Cerebral Palsy,98.0,0.0,0.0,1.0,57.0,Male,155.0,98.0,188.0,1,Middle Aged,High Blood Pressure Stage 2
+220,Psoriasis,103.0,1.0,0.0,0.0,67.0,Female,134.0,66.0,158.0,0,Old,Wrong reading
+221,Stroke,103.0,0.0,1.0,1.0,40.0,Female,108.0,91.0,170.0,0,Middle Aged,Wrong reading
+222,Diabetes,106.0,0.0,0.0,1.0,49.0,Female,115.0,80.0,205.0,0,Middle Aged,Wrong reading
+223,Hyperthyroidism,97.0,0.0,0.0,1.0,49.10808510638298,Male,92.0,85.0,162.0,1,Middle Aged,Wrong reading
+224,Autism Spectrum Disorder (ASD),99.0,0.0,1.0,0.0,54.0,Female,95.0,79.47863247863248,185.0,0,Middle Aged,Normal
+225,Dengue Fever,102.0,1.0,1.0,1.0,67.0,Female,109.0,79.47863247863248,166.0,0,Old,Normal
+226,Psoriasis,100.40495867768595,0.0,0.0,0.0,74.0,Female,138.0,65.0,175.0,0,Old,Wrong reading
+227,Autism Spectrum Disorder (ASD),108.0,0.0,1.0,1.0,49.10808510638298,Female,160.0,80.0,212.0,0,Middle Aged,Wrong reading
+228,Liver Cancer,96.0,1.0,1.0,0.0,67.0,Female,150.0,67.0,158.0,0,Old,Wrong reading
+229,Diabetes,106.0,1.0,0.0,1.0,42.0,Female,101.0,69.0,229.0,0,Middle Aged,Normal
+230,Eczema,98.0,0.0,1.0,1.0,58.0,Female,137.0,79.47863247863248,134.0,0,Middle Aged,Wrong reading
+231,Asthma,100.0,0.0,0.0,1.0,20.0,Female,103.0,81.0,137.0,0,Young Adult,Wrong reading
+232,Migraine,108.0,0.0,1.0,0.0,35.0,Female,106.0,63.0,222.0,0,Adult,Normal
+233,Urinary Tract Infection,100.40495867768595,0.0,1.0,0.0,74.0,Female,100.0,82.0,204.0,0,Old,Wrong reading
+234,Urinary Tract Infection,101.0,0.0,1.0,1.0,35.0,Male,134.0,66.0,188.0,1,Adult,Wrong reading
+235,Urinary Tract Infection,108.0,0.0,1.0,1.0,76.0,Female,103.0,76.0,139.0,0,Old,Normal
+236,Psoriasis,108.0,0.0,1.0,1.0,59.0,Female,106.0,84.0,121.0,0,Middle Aged,Wrong reading
+237,Influenza,95.0,0.0,1.0,1.0,22.0,Male,102.0,61.0,178.0,1,Young Adult,Normal
+238,Autism Spectrum Disorder (ASD),98.0,1.0,1.0,1.0,78.0,Female,144.0,66.0,177.0,0,Old,Wrong reading
+239,Influenza,98.0,0.0,1.0,1.0,25.0,Male,92.0,64.0,139.0,1,Young Adult,Normal
+240,Stroke,109.0,0.0,0.0,1.0,75.0,Male,145.0,88.0,159.0,1,Old,Wrong reading
+241,Eczema,96.0,0.0,1.0,1.0,80.0,Male,116.0,64.0,191.0,1,Old,Normal
+242,"Eating Disorders (Anorexia, Bulimia)",100.0,0.0,0.0,0.0,21.0,Female,99.0,79.47863247863248,161.0,0,Young Adult,Normal
+243,Hypertensive Heart Disease,95.0,0.0,1.0,0.0,65.0,Female,90.0,67.0,162.0,0,Old,Normal
+244,Rheumatoid Arthritis,100.40495867768595,1.0,0.0,1.0,42.0,Female,109.0,60.0,218.0,0,Middle Aged,Normal
+245,Chickenpox,108.0,1.0,1.0,1.0,42.0,Female,107.0,92.0,225.0,0,Middle Aged,Wrong reading
+246,Stroke,99.0,0.0,1.0,1.0,49.10808510638298,Female,109.0,65.0,226.0,0,Middle Aged,Normal
+247,Cerebral Palsy,109.0,0.0,0.0,1.0,23.0,Male,126.0,71.0,155.0,1,Young Adult,Elevated
+248,Chickenpox,99.0,0.0,1.0,1.0,23.0,Female,110.0,99.0,152.0,0,Young Adult,Wrong reading
+249,Liver Cancer,105.0,0.0,1.0,1.0,42.0,Male,126.0,80.0,218.0,1,Middle Aged,Wrong reading
+250,Psoriasis,99.0,0.0,1.0,0.0,33.0,Female,138.0,65.0,209.0,0,Adult,Wrong reading
+251,Chickenpox,106.0,0.0,1.0,1.0,61.0,Female,138.0,65.0,178.18776194467728,0,Old,Wrong reading
+252,Influenza,102.0,1.0,0.0,0.0,23.0,Female,137.0,66.0,125.0,0,Young Adult,Wrong reading
+253,Bronchitis,99.0,0.0,0.0,1.0,78.0,Female,141.0,99.0,168.0,0,Old,High Blood Pressure Stage 2
+254,Gastroenteritis,107.0,0.0,0.0,0.0,51.0,Female,157.0,77.0,167.0,0,Middle Aged,Wrong reading
+255,Tuberculosis,101.0,0.0,1.0,1.0,51.0,Male,130.0,64.0,131.0,1,Middle Aged,Wrong reading
+256,Liver Cancer,100.40495867768595,1.0,1.0,1.0,24.0,Male,139.0,90.0,157.0,1,Young Adult,Wrong reading
+257,Liver Cancer,108.0,0.0,1.0,1.0,38.0,Female,128.0,68.0,194.0,0,Adult,Elevated
+258,Liver Cancer,108.0,1.0,0.0,1.0,69.0,Female,127.0,62.0,194.0,0,Old,Elevated
+259,Influenza,98.0,0.0,1.0,1.0,71.0,Male,98.0,96.0,197.0,1,Old,Wrong reading
+260,Dengue Fever,97.0,0.0,1.0,1.0,53.0,Female,146.0,60.0,216.0,0,Middle Aged,Wrong reading
+261,Bronchitis,105.0,0.0,1.0,1.0,40.0,Female,122.0,79.47863247863248,143.0,0,Middle Aged,Elevated
+262,Rheumatoid Arthritis,96.0,1.0,1.0,1.0,39.0,Female,102.0,70.0,127.0,0,Adult,Normal
+263,Migraine,105.0,1.0,0.0,1.0,74.0,Female,157.0,81.0,129.0,0,Old,Wrong reading
+264,Diabetes,106.0,1.0,1.0,1.0,45.0,Female,94.0,83.0,182.0,0,Middle Aged,Wrong reading
+265,Stroke,109.0,1.0,0.0,1.0,59.0,Male,123.0,69.0,190.0,1,Middle Aged,Elevated
+266,Asthma,108.0,0.0,1.0,1.0,63.0,Female,142.0,86.0,207.0,0,Old,Wrong reading
+267,Migraine,103.0,0.0,0.0,1.0,37.0,Female,125.0,84.0,165.0,0,Adult,Wrong reading
+268,Asthma,104.0,0.0,1.0,0.0,28.0,Female,116.0,71.0,159.0,0,Young Adult,Normal
+269,Bronchitis,100.40495867768595,1.0,0.0,1.0,49.10808510638298,Female,140.0,88.0,179.0,0,Middle Aged,Wrong reading
+270,Influenza,101.0,1.0,1.0,1.0,29.0,Male,138.0,68.0,140.0,1,Young Adult,Wrong reading
+271,Cerebral Palsy,107.0,0.0,1.0,1.0,70.0,Female,136.0,68.0,137.0,0,Old,Wrong reading
+272,Influenza,100.0,0.0,0.0,1.0,41.0,Male,127.0,63.0,182.0,1,Middle Aged,Elevated
+273,Stroke,96.0,1.0,1.0,0.0,24.0,Female,156.0,68.0,217.0,0,Young Adult,Wrong reading
+274,Hyperthyroidism,98.0,0.0,0.0,0.0,68.0,Female,102.0,82.0,173.0,0,Old,Wrong reading
+275,Cerebral Palsy,100.0,0.0,1.0,1.0,27.0,Male,150.0,88.0,165.0,1,Young Adult,Wrong reading
+276,Autism Spectrum Disorder (ASD),96.0,0.0,1.0,1.0,49.0,Male,94.0,62.0,161.0,1,Middle Aged,Normal
+277,Migraine,97.0,0.0,0.0,1.0,43.0,Male,118.0,84.0,188.0,1,Middle Aged,Wrong reading
+278,Asthma,97.0,0.0,0.0,1.0,57.0,Female,153.0,83.0,138.0,0,Middle Aged,Wrong reading
+279,Rheumatoid Arthritis,108.0,0.0,1.0,0.0,63.0,Male,154.0,86.0,165.0,1,Old,Wrong reading
+280,Asthma,99.0,0.0,1.0,1.0,57.0,Female,96.0,95.0,174.0,0,Middle Aged,Wrong reading
+281,Tuberculosis,96.0,1.0,0.0,0.0,66.0,Female,135.0,84.0,192.0,0,Old,Higher Blood Pressure Stage 1
+282,Liver Cancer,104.0,1.0,0.0,1.0,31.0,Female,107.0,62.0,224.0,0,Adult,Normal
+283,Cerebral Palsy,98.0,0.0,1.0,1.0,30.0,Female,122.0,62.0,205.0,0,Adult,Elevated
+284,Diabetes,100.40495867768595,1.0,0.0,1.0,30.0,Male,133.0,64.0,127.0,1,Adult,Wrong reading
+285,Hypertensive Heart Disease,109.0,0.0,1.0,1.0,54.0,Male,97.0,63.0,224.0,1,Middle Aged,Normal
+286,"Eating Disorders (Anorexia, Bulimia)",106.0,0.0,1.0,1.0,69.0,Female,127.0,75.0,172.0,0,Old,Elevated
+287,"Eating Disorders (Anorexia, Bulimia)",101.0,1.0,0.0,1.0,36.0,Female,125.89282700421941,94.0,134.0,0,Adult,Wrong reading
+288,Diabetes,101.0,0.0,1.0,1.0,38.0,Female,152.0,90.0,189.0,0,Adult,High Blood Pressure Stage 2
+289,Stroke,97.0,0.0,1.0,0.0,69.0,Male,151.0,81.0,220.0,1,Old,Wrong reading
+290,Migraine,95.0,1.0,1.0,1.0,43.0,Female,126.0,90.0,231.0,0,Middle Aged,Wrong reading
+291,Urinary Tract Infection,98.0,0.0,1.0,1.0,31.0,Female,151.0,79.0,221.0,0,Adult,Wrong reading
+292,Psoriasis,104.0,0.0,1.0,1.0,21.0,Male,90.0,63.0,157.0,1,Young Adult,Normal
+293,Eczema,98.0,1.0,0.0,1.0,65.0,Male,126.0,73.0,192.0,1,Old,Elevated
+294,Urinary Tract Infection,98.0,1.0,0.0,1.0,61.0,Female,137.0,87.0,145.0,0,Old,Higher Blood Pressure Stage 1
+295,Tuberculosis,104.0,1.0,0.0,0.0,73.0,Male,153.0,83.0,165.0,1,Old,Wrong reading
+296,Cerebral Palsy,105.0,0.0,1.0,1.0,19.0,Female,157.0,60.0,129.0,0,Teen,Wrong reading
+297,Tuberculosis,96.0,1.0,1.0,1.0,37.0,Male,120.0,67.0,163.0,1,Adult,Elevated
+298,Influenza,109.0,1.0,1.0,1.0,38.0,Female,120.0,88.0,175.0,0,Adult,Wrong reading
+299,Gastroenteritis,105.0,0.0,1.0,0.0,26.0,Male,103.0,90.0,238.0,1,Young Adult,Wrong reading
+300,Autism Spectrum Disorder (ASD),102.0,0.0,1.0,0.0,50.0,Female,147.0,76.0,174.0,0,Middle Aged,Wrong reading
+301,Asthma,96.0,0.0,0.0,0.0,78.0,Female,129.0,86.0,126.0,0,Old,Wrong reading
+302,Psoriasis,102.0,0.0,0.0,0.0,76.0,Female,129.0,86.0,154.0,0,Old,Wrong reading
+303,Cerebral Palsy,101.0,0.0,1.0,1.0,73.0,Female,156.0,68.0,162.0,0,Old,Wrong reading
+304,Cerebral Palsy,95.0,1.0,1.0,1.0,42.0,Female,90.0,71.0,182.0,0,Middle Aged,Normal
+305,Hypertensive Heart Disease,109.0,1.0,1.0,1.0,74.0,Female,132.0,67.0,208.0,0,Old,Wrong reading
+306,Bronchitis,106.0,0.0,1.0,1.0,53.0,Female,100.0,86.0,151.0,0,Middle Aged,Wrong reading
+307,Diabetes,103.0,1.0,1.0,1.0,60.0,Male,110.0,71.0,135.0,1,Old,Normal
+308,Diabetes,96.0,0.0,1.0,1.0,61.0,Female,132.0,65.0,146.0,0,Old,Wrong reading
+309,Influenza,98.0,1.0,1.0,1.0,32.0,Female,132.0,64.0,165.0,0,Adult,Wrong reading
+310,Hyperthyroidism,106.0,0.0,1.0,1.0,76.0,Female,136.0,69.0,189.0,0,Old,Wrong reading
+311,Tuberculosis,95.0,1.0,1.0,0.0,48.0,Female,159.0,71.0,155.0,0,Middle Aged,Wrong reading
+312,Liver Cancer,99.0,1.0,1.0,0.0,53.0,Female,105.0,92.0,184.0,0,Middle Aged,Wrong reading
+313,Asthma,106.0,0.0,1.0,0.0,40.0,Male,102.0,66.0,155.0,1,Middle Aged,Normal
+314,Tuberculosis,95.0,0.0,1.0,1.0,36.0,Female,153.0,84.0,208.0,0,Adult,Wrong reading
+315,Asthma,104.0,0.0,1.0,1.0,65.0,Female,119.0,100.0,189.0,0,Old,Wrong reading
+316,Psoriasis,105.0,0.0,0.0,1.0,23.0,Male,135.0,82.0,182.0,1,Young Adult,Higher Blood Pressure Stage 1
+317,Psoriasis,100.0,0.0,1.0,0.0,74.0,Female,155.0,93.0,155.0,0,Old,High Blood Pressure Stage 2
+318,Diabetes,95.0,0.0,1.0,0.0,75.0,Female,105.0,87.0,129.0,0,Old,Wrong reading
+319,Gastroenteritis,101.0,1.0,1.0,0.0,63.0,Female,107.0,86.0,182.0,0,Old,Wrong reading
+320,Hyperthyroidism,108.0,0.0,0.0,1.0,26.0,Male,105.0,93.0,201.0,1,Young Adult,Wrong reading
+321,Bronchitis,101.0,0.0,0.0,0.0,69.0,Female,126.0,81.0,124.0,0,Old,Wrong reading
+322,Hyperthyroidism,101.0,0.0,0.0,1.0,30.0,Female,110.0,67.0,182.0,0,Adult,Normal
+323,Diabetes,102.0,1.0,1.0,1.0,25.0,Male,103.0,97.0,120.0,1,Young Adult,Wrong reading
+324,Influenza,109.0,0.0,0.0,1.0,77.0,Male,125.0,78.0,225.0,1,Old,Elevated
+325,Hyperthyroidism,105.0,0.0,1.0,1.0,21.0,Female,114.0,96.0,233.0,0,Young Adult,Wrong reading
+326,Rheumatoid Arthritis,107.0,1.0,0.0,1.0,26.0,Female,125.89282700421941,79.0,208.0,0,Young Adult,Elevated
+327,Chickenpox,103.0,1.0,0.0,1.0,55.0,Male,135.0,83.0,139.0,1,Middle Aged,Higher Blood Pressure Stage 1
+328,"Eating Disorders (Anorexia, Bulimia)",100.40495867768595,0.0,1.0,1.0,76.0,Male,134.0,77.0,204.0,1,Old,Wrong reading
+329,Rheumatoid Arthritis,101.0,0.0,1.0,1.0,33.0,Male,137.0,100.0,144.0,1,Adult,Wrong reading
+330,Psoriasis,100.40495867768595,0.0,1.0,1.0,26.0,Male,94.0,97.0,145.0,1,Young Adult,Wrong reading
+331,Tuberculosis,107.0,0.0,1.0,0.0,62.0,Female,125.89282700421941,95.0,200.0,0,Old,Wrong reading
+332,Dengue Fever,109.0,0.0,0.0,0.0,78.0,Female,93.0,98.0,233.0,0,Old,Wrong reading
+333,Cerebral Palsy,100.0,1.0,1.0,1.0,28.0,Female,98.0,65.0,187.0,0,Young Adult,Normal
+334,Gastroenteritis,97.0,0.0,1.0,0.0,63.0,Female,112.0,74.0,213.0,0,Old,Normal
+335,Stroke,97.0,1.0,1.0,1.0,31.0,Female,121.0,66.0,240.0,0,Adult,Elevated
+336,Chickenpox,100.0,1.0,1.0,0.0,51.0,Female,131.0,61.0,174.0,0,Middle Aged,Wrong reading
+337,Urinary Tract Infection,103.0,0.0,0.0,0.0,23.0,Female,90.0,80.0,175.0,0,Young Adult,Wrong reading
+338,Eczema,106.0,0.0,1.0,1.0,58.0,Female,144.0,81.0,222.0,0,Middle Aged,Wrong reading
+339,Liver Cancer,104.0,0.0,1.0,1.0,77.0,Male,160.0,86.0,139.0,1,Old,Wrong reading
+340,Influenza,101.0,0.0,1.0,1.0,40.0,Female,144.0,63.0,136.0,0,Middle Aged,Wrong reading
+341,Hypertensive Heart Disease,97.0,0.0,0.0,1.0,33.0,Female,105.0,63.0,177.0,0,Adult,Normal
+342,Bronchitis,100.40495867768595,0.0,1.0,1.0,20.0,Male,144.0,88.0,131.0,1,Young Adult,Wrong reading
+343,Migraine,101.0,0.0,1.0,1.0,79.0,Male,152.0,95.0,188.0,1,Old,High Blood Pressure Stage 2
+344,Psoriasis,106.0,0.0,1.0,1.0,64.0,Female,151.0,93.0,201.0,0,Old,High Blood Pressure Stage 2
+345,Urinary Tract Infection,105.0,0.0,1.0,1.0,45.0,Female,110.0,90.0,207.0,0,Middle Aged,Wrong reading
+346,Urinary Tract Infection,101.0,0.0,0.0,1.0,35.0,Female,160.0,81.0,128.0,0,Adult,Wrong reading
+347,Gastroenteritis,96.0,1.0,1.0,1.0,46.0,Female,143.0,88.0,187.0,0,Middle Aged,Wrong reading
+348,Chickenpox,106.0,0.0,1.0,1.0,75.0,Female,101.0,61.0,149.0,0,Old,Normal
+349,Influenza,98.0,0.0,0.0,1.0,57.0,Male,114.0,64.0,204.0,1,Middle Aged,Normal
+350,Chickenpox,98.0,0.0,1.0,1.0,45.0,Male,150.0,85.0,190.0,1,Middle Aged,Wrong reading
+351,Stroke,101.0,0.0,0.0,1.0,64.0,Male,138.0,70.0,131.0,1,Old,Wrong reading
+352,Influenza,104.0,0.0,1.0,1.0,53.0,Female,95.0,96.0,178.0,0,Middle Aged,Wrong reading
+353,Chickenpox,100.40495867768595,0.0,0.0,1.0,37.0,Female,131.0,75.0,124.0,0,Adult,Wrong reading
+354,Gastroenteritis,96.0,0.0,1.0,1.0,63.0,Male,156.0,92.0,151.0,1,Old,High Blood Pressure Stage 2
+355,Hypertensive Heart Disease,98.0,1.0,1.0,1.0,22.0,Female,96.0,72.0,219.0,0,Young Adult,Normal
+356,Rheumatoid Arthritis,101.0,0.0,0.0,1.0,47.0,Female,109.0,80.0,182.0,0,Middle Aged,Wrong reading
+357,Diabetes,104.0,0.0,1.0,1.0,30.0,Male,94.0,90.0,120.0,1,Adult,Wrong reading
+358,Influenza,101.0,0.0,1.0,0.0,64.0,Female,123.0,61.0,123.0,0,Old,Elevated
+359,Migraine,106.0,0.0,1.0,0.0,50.0,Female,150.0,86.0,207.0,0,Middle Aged,Wrong reading
+360,Tuberculosis,95.0,1.0,1.0,0.0,37.0,Male,125.0,90.0,211.0,1,Adult,Wrong reading
+361,Hyperthyroidism,95.0,1.0,1.0,0.0,43.0,Female,157.0,78.0,137.0,0,Middle Aged,Wrong reading
+362,Bronchitis,100.0,0.0,1.0,1.0,33.0,Female,91.0,67.0,185.0,0,Adult,Normal
+363,Autism Spectrum Disorder (ASD),100.40495867768595,0.0,1.0,1.0,25.0,Female,151.0,73.0,152.0,0,Young Adult,Wrong reading
+364,Bronchitis,96.0,0.0,1.0,0.0,54.0,Female,125.0,90.0,222.0,0,Middle Aged,Wrong reading
+365,Stroke,106.0,1.0,0.0,1.0,50.0,Female,100.0,86.0,184.0,0,Middle Aged,Wrong reading
+366,Psoriasis,103.0,1.0,0.0,0.0,24.0,Female,130.0,61.0,130.0,0,Young Adult,Wrong reading
+367,Influenza,109.0,0.0,1.0,1.0,34.0,Female,105.0,98.0,202.0,0,Adult,Wrong reading
+368,Asthma,98.0,0.0,1.0,1.0,28.0,Male,120.0,87.0,181.0,1,Young Adult,Wrong reading
+369,Gastroenteritis,107.0,0.0,1.0,1.0,58.0,Male,95.0,96.0,162.0,1,Middle Aged,Wrong reading
+370,Stroke,95.0,0.0,0.0,1.0,24.0,Female,114.0,99.0,122.0,0,Young Adult,Wrong reading
+371,Autism Spectrum Disorder (ASD),99.0,0.0,0.0,1.0,37.0,Male,115.0,89.0,169.0,1,Adult,Wrong reading
+372,Stroke,102.0,0.0,0.0,1.0,44.0,Female,146.0,61.0,169.0,0,Middle Aged,Wrong reading
+373,Stroke,108.0,0.0,0.0,1.0,33.0,Female,107.0,98.0,166.0,0,Adult,Wrong reading
+374,Stroke,102.0,1.0,1.0,0.0,76.0,Male,136.0,79.0,183.0,1,Old,Wrong reading
+375,Influenza,105.0,0.0,0.0,1.0,75.0,Female,131.0,81.0,206.0,0,Old,Higher Blood Pressure Stage 1
+376,Eczema,100.40495867768595,0.0,1.0,1.0,49.0,Female,107.0,65.0,128.0,0,Middle Aged,Normal
+377,Influenza,98.0,0.0,1.0,0.0,55.0,Female,117.0,92.0,219.0,0,Middle Aged,Wrong reading
+378,Stroke,101.0,1.0,0.0,1.0,42.0,Female,150.0,87.0,158.0,0,Middle Aged,Wrong reading
+379,Hypertensive Heart Disease,95.0,1.0,1.0,1.0,36.0,Male,143.0,87.0,183.0,1,Adult,Wrong reading
+380,Dengue Fever,104.0,0.0,0.0,0.0,50.0,Female,148.0,86.0,240.0,0,Middle Aged,Wrong reading
+381,Hyperthyroidism,98.0,0.0,0.0,1.0,23.0,Male,131.0,98.0,127.0,1,Young Adult,Wrong reading
+382,Rheumatoid Arthritis,105.0,0.0,1.0,1.0,25.0,Male,99.0,98.0,169.0,1,Young Adult,Wrong reading
+383,Influenza,99.0,1.0,0.0,0.0,33.0,Female,103.0,61.0,237.0,0,Adult,Normal
+384,Influenza,99.0,0.0,0.0,1.0,25.0,Male,145.0,89.0,128.0,1,Young Adult,Wrong reading
+385,Influenza,104.0,0.0,1.0,0.0,64.0,Female,139.0,96.0,237.0,0,Old,Wrong reading
+386,Chickenpox,95.0,0.0,0.0,0.0,76.0,Female,121.0,87.0,127.0,0,Old,Wrong reading
+387,Cerebral Palsy,96.0,1.0,1.0,1.0,54.0,Male,117.0,91.0,142.0,1,Middle Aged,Wrong reading
+388,Migraine,104.0,1.0,1.0,0.0,56.0,Female,121.0,91.0,182.0,0,Middle Aged,Wrong reading
+389,Tuberculosis,98.0,0.0,1.0,1.0,50.0,Female,122.0,100.0,141.0,0,Middle Aged,Wrong reading
+390,Urinary Tract Infection,105.0,1.0,1.0,1.0,45.0,Male,138.0,92.0,237.0,1,Middle Aged,Wrong reading
+391,Hyperthyroidism,100.40495867768595,0.0,1.0,0.0,74.0,Male,119.0,60.0,193.0,1,Old,Normal
+392,Cerebral Palsy,104.0,0.0,1.0,0.0,63.0,Male,106.0,97.0,153.0,1,Old,Wrong reading
+393,Hypertensive Heart Disease,106.0,1.0,0.0,1.0,29.0,Male,137.0,96.0,159.0,1,Young Adult,Wrong reading
+394,Influenza,104.0,1.0,1.0,0.0,23.0,Male,98.0,78.0,222.0,1,Young Adult,Normal
+395,Hypertensive Heart Disease,104.0,0.0,1.0,1.0,38.0,Male,119.0,77.0,148.0,1,Adult,Normal
+396,Eczema,104.0,0.0,1.0,0.0,42.0,Female,104.0,65.0,152.0,0,Middle Aged,Normal
+397,Stroke,100.0,1.0,1.0,1.0,29.0,Female,147.0,76.0,228.0,0,Young Adult,Wrong reading
+398,Gastroenteritis,108.0,1.0,1.0,0.0,35.0,Male,127.0,78.0,137.0,1,Adult,Elevated
+399,Stroke,99.0,0.0,1.0,0.0,33.0,Female,138.0,69.0,143.0,0,Adult,Wrong reading
+400,Autism Spectrum Disorder (ASD),96.0,0.0,0.0,1.0,59.0,Male,137.0,73.0,210.0,1,Middle Aged,Wrong reading
+401,Dengue Fever,105.0,0.0,1.0,1.0,74.0,Male,128.0,68.0,138.0,1,Old,Elevated
+402,Migraine,97.0,1.0,1.0,1.0,42.0,Female,145.0,89.0,189.0,0,Middle Aged,Wrong reading
+403,Influenza,97.0,0.0,1.0,1.0,18.0,Female,132.0,77.0,145.0,0,Teen,Wrong reading
+404,Chickenpox,100.40495867768595,0.0,1.0,1.0,57.0,Male,117.0,73.0,131.0,1,Middle Aged,Normal
+405,Eczema,98.0,0.0,1.0,1.0,68.0,Female,117.0,84.0,178.18776194467728,0,Old,Wrong reading
+406,Urinary Tract Infection,103.0,0.0,0.0,1.0,42.0,Male,125.0,82.0,131.0,1,Middle Aged,Wrong reading
+407,"Eating Disorders (Anorexia, Bulimia)",105.0,0.0,1.0,0.0,65.0,Female,122.0,99.0,235.0,0,Old,Wrong reading
+408,Hypertensive Heart Disease,97.0,0.0,1.0,1.0,40.0,Male,131.0,63.0,148.0,1,Middle Aged,Wrong reading
+409,Influenza,98.0,0.0,1.0,1.0,18.0,Female,148.0,82.0,165.0,0,Teen,Wrong reading
+410,Migraine,95.0,1.0,0.0,1.0,63.0,Female,127.0,89.0,217.0,0,Old,Wrong reading
+411,Tuberculosis,96.0,0.0,1.0,1.0,36.0,Female,155.0,94.0,121.0,0,Adult,High Blood Pressure Stage 2
+412,Stroke,107.0,1.0,0.0,1.0,70.0,Male,111.0,78.0,121.0,1,Old,Normal
+413,Chickenpox,98.0,1.0,1.0,1.0,70.0,Male,121.0,61.0,179.0,1,Old,Elevated
+414,Tuberculosis,102.0,0.0,1.0,1.0,61.0,Male,116.0,90.0,177.0,1,Old,Wrong reading
+415,Influenza,100.40495867768595,0.0,0.0,0.0,23.0,Male,134.0,90.0,124.0,1,Young Adult,Wrong reading
+416,Diabetes,108.0,1.0,0.0,1.0,43.0,Male,147.0,66.0,237.0,1,Middle Aged,Wrong reading
+417,Hyperthyroidism,106.0,1.0,1.0,1.0,23.0,Female,127.0,91.0,229.0,0,Young Adult,Wrong reading
+418,Influenza,107.0,0.0,1.0,1.0,79.0,Female,134.0,64.0,210.0,0,Old,Wrong reading
+419,"Eating Disorders (Anorexia, Bulimia)",108.0,1.0,1.0,1.0,38.0,Female,120.0,86.0,141.0,0,Adult,Wrong reading
+420,Gastroenteritis,96.0,0.0,1.0,1.0,24.0,Female,156.0,95.0,173.0,0,Young Adult,High Blood Pressure Stage 2
+421,"Eating Disorders (Anorexia, Bulimia)",101.0,0.0,1.0,0.0,41.0,Male,112.0,62.0,230.0,1,Middle Aged,Normal
+422,Hypertensive Heart Disease,99.0,0.0,0.0,0.0,31.0,Female,147.0,79.0,128.0,0,Adult,Wrong reading
+423,Bronchitis,101.0,0.0,0.0,1.0,32.0,Female,97.0,68.0,156.0,0,Adult,Normal
+424,Autism Spectrum Disorder (ASD),96.0,0.0,1.0,0.0,42.0,Female,146.0,84.0,146.0,0,Middle Aged,Wrong reading
+425,Psoriasis,95.0,1.0,0.0,0.0,68.0,Female,91.0,61.0,177.0,0,Old,Normal
+426,Bronchitis,106.0,1.0,1.0,1.0,69.0,Female,115.0,63.0,121.0,0,Old,Normal
+427,Bronchitis,100.40495867768595,0.0,0.0,1.0,79.0,Female,91.0,73.0,200.0,0,Old,Normal
+428,Eczema,99.0,1.0,1.0,0.0,52.0,Female,116.0,62.0,166.0,0,Middle Aged,Normal
+429,Liver Cancer,96.0,1.0,0.0,1.0,36.0,Female,154.0,65.0,192.0,0,Adult,Wrong reading
+430,"Eating Disorders (Anorexia, Bulimia)",98.0,0.0,1.0,1.0,61.0,Male,106.0,98.0,226.0,1,Old,Wrong reading
+431,Migraine,99.0,0.0,1.0,0.0,76.0,Male,107.0,94.0,132.0,1,Old,Wrong reading
+432,Tuberculosis,104.0,0.0,0.0,1.0,42.0,Male,120.0,62.0,226.0,1,Middle Aged,Elevated
+433,Stroke,102.0,1.0,0.0,1.0,34.0,Female,133.0,62.0,125.0,0,Adult,Wrong reading
+434,Autism Spectrum Disorder (ASD),95.0,1.0,1.0,1.0,30.0,Female,102.0,85.0,141.0,0,Adult,Wrong reading
+435,Urinary Tract Infection,109.0,0.0,0.0,0.0,75.0,Male,158.0,69.0,157.0,1,Old,Wrong reading
+436,Asthma,103.0,0.0,1.0,1.0,20.0,Male,105.0,61.0,182.0,1,Young Adult,Normal
+437,Diabetes,95.0,1.0,1.0,0.0,73.0,Male,138.0,95.0,199.0,1,Old,Wrong reading
+438,Influenza,107.0,0.0,1.0,1.0,22.0,Male,138.0,67.0,232.0,1,Young Adult,Wrong reading
+439,Diabetes,104.0,0.0,1.0,0.0,67.0,Female,90.0,69.0,130.0,0,Old,Normal
+440,Psoriasis,101.0,1.0,1.0,1.0,29.0,Female,106.0,88.0,229.0,0,Young Adult,Wrong reading
+441,Chickenpox,100.40495867768595,0.0,1.0,0.0,35.0,Male,137.0,64.0,151.0,1,Adult,Wrong reading
+442,Hypertensive Heart Disease,102.0,0.0,1.0,0.0,23.0,Female,143.0,66.0,175.0,0,Young Adult,Wrong reading
+443,Tuberculosis,107.0,0.0,1.0,0.0,68.0,Female,119.0,99.0,138.0,0,Old,Wrong reading
+444,Influenza,98.0,0.0,1.0,1.0,74.0,Female,108.0,66.0,132.0,0,Old,Normal
+445,Dengue Fever,109.0,0.0,1.0,1.0,42.0,Female,106.0,65.0,133.0,0,Middle Aged,Normal
+446,Stroke,100.0,1.0,1.0,0.0,55.0,Male,101.0,67.0,219.0,1,Middle Aged,Normal
+447,Influenza,104.0,0.0,1.0,0.0,25.0,Female,111.0,89.0,200.0,0,Young Adult,Wrong reading
+448,Chickenpox,104.0,0.0,1.0,1.0,22.0,Female,124.0,90.0,122.0,0,Young Adult,Wrong reading
+449,Autism Spectrum Disorder (ASD),95.0,0.0,1.0,1.0,23.0,Female,150.0,70.0,238.0,0,Young Adult,Wrong reading
+450,Dengue Fever,109.0,1.0,1.0,0.0,30.0,Male,102.0,76.0,234.0,1,Adult,Normal
+451,Gastroenteritis,100.0,1.0,1.0,1.0,72.0,Female,99.0,72.0,229.0,0,Old,Normal
+452,Rheumatoid Arthritis,104.0,0.0,0.0,0.0,36.0,Female,97.0,100.0,210.0,0,Adult,Wrong reading
+453,Liver Cancer,101.0,1.0,0.0,1.0,37.0,Female,155.0,72.0,216.0,0,Adult,Wrong reading
+454,Liver Cancer,108.0,0.0,1.0,1.0,42.0,Male,113.0,72.0,213.0,1,Middle Aged,Normal
+455,Dengue Fever,99.0,0.0,1.0,0.0,55.0,Male,92.0,76.0,170.0,1,Middle Aged,Normal
+456,Stroke,98.0,0.0,1.0,1.0,29.0,Female,136.0,98.0,215.0,0,Young Adult,Wrong reading
+457,Tuberculosis,95.0,1.0,1.0,1.0,48.0,Female,147.0,88.0,219.0,0,Middle Aged,Wrong reading
+458,Gastroenteritis,98.0,0.0,1.0,0.0,56.0,Male,131.0,92.0,216.0,1,Middle Aged,Wrong reading
+459,Chickenpox,99.0,0.0,1.0,1.0,19.0,Male,102.0,91.0,200.0,1,Teen,Wrong reading
+460,Influenza,106.0,0.0,1.0,0.0,29.0,Female,158.0,64.0,168.0,0,Young Adult,Wrong reading
+461,Psoriasis,109.0,1.0,1.0,1.0,18.0,Male,145.0,99.0,224.0,1,Teen,High Blood Pressure Stage 2
+462,Cerebral Palsy,98.0,1.0,1.0,0.0,26.0,Female,134.0,97.0,142.0,0,Young Adult,Wrong reading
+463,Psoriasis,95.0,0.0,1.0,1.0,47.0,Female,113.0,97.0,212.0,0,Middle Aged,Wrong reading
+464,Rheumatoid Arthritis,105.0,1.0,1.0,1.0,19.0,Female,136.0,89.0,152.0,0,Teen,Higher Blood Pressure Stage 1
+465,Autism Spectrum Disorder (ASD),102.0,0.0,0.0,0.0,68.0,Male,154.0,70.0,192.0,1,Old,Wrong reading
+466,Rheumatoid Arthritis,101.0,1.0,1.0,1.0,69.0,Female,113.0,72.0,126.0,0,Old,Normal
+467,Psoriasis,102.0,1.0,1.0,1.0,38.0,Female,144.0,65.0,131.0,0,Adult,Wrong reading
+468,Gastroenteritis,99.0,1.0,0.0,0.0,78.0,Female,130.0,79.47863247863248,198.0,0,Old,Wrong reading
+469,Autism Spectrum Disorder (ASD),101.0,1.0,1.0,1.0,21.0,Female,99.0,83.0,161.0,0,Young Adult,Wrong reading
+470,Cerebral Palsy,104.0,0.0,1.0,0.0,21.0,Female,109.0,87.0,140.0,0,Young Adult,Wrong reading
+471,Bronchitis,104.0,1.0,1.0,1.0,48.0,Female,95.0,67.0,155.0,0,Middle Aged,Normal
+472,Influenza,97.0,0.0,1.0,1.0,19.0,Male,120.0,94.0,198.0,1,Teen,Wrong reading
+473,Urinary Tract Infection,109.0,1.0,0.0,1.0,64.0,Male,129.0,63.0,180.0,1,Old,Elevated
+474,Chickenpox,108.0,0.0,1.0,0.0,31.0,Female,118.0,81.0,164.0,0,Adult,Wrong reading
+475,Hypertensive Heart Disease,105.0,0.0,0.0,0.0,69.0,Female,94.0,67.0,127.0,0,Old,Normal
+476,Diabetes,100.0,1.0,1.0,1.0,58.0,Female,116.0,84.0,238.0,0,Middle Aged,Wrong reading
+477,Stroke,106.0,1.0,1.0,0.0,33.0,Female,151.0,62.0,187.0,0,Adult,Wrong reading
+478,Dengue Fever,101.0,1.0,0.0,1.0,78.0,Female,145.0,77.0,214.0,0,Old,Wrong reading
+479,Psoriasis,102.0,0.0,1.0,1.0,64.0,Female,103.0,85.0,152.0,0,Old,Wrong reading
+480,"Eating Disorders (Anorexia, Bulimia)",109.0,1.0,1.0,0.0,34.0,Female,95.0,75.0,205.0,0,Adult,Normal
+481,Autism Spectrum Disorder (ASD),101.0,0.0,0.0,1.0,62.0,Female,91.0,99.0,203.0,0,Old,Wrong reading
+482,Hyperthyroidism,98.0,1.0,1.0,1.0,65.0,Female,92.0,74.0,206.0,0,Old,Normal
+483,Hypertensive Heart Disease,105.0,0.0,1.0,1.0,36.0,Female,123.0,77.0,151.0,0,Adult,Elevated
+484,"Eating Disorders (Anorexia, Bulimia)",104.0,0.0,0.0,0.0,73.0,Female,102.0,72.0,192.0,0,Old,Normal
+485,Eczema,100.40495867768595,1.0,0.0,1.0,24.0,Male,98.0,79.47863247863248,160.0,1,Young Adult,Normal
+486,Tuberculosis,99.0,1.0,1.0,1.0,59.0,Male,102.0,71.0,231.0,1,Middle Aged,Normal
+487,Eczema,100.40495867768595,0.0,1.0,1.0,68.0,Female,105.0,69.0,208.0,0,Old,Normal
+488,Rheumatoid Arthritis,99.0,1.0,0.0,0.0,38.0,Female,149.0,99.0,207.0,0,Adult,High Blood Pressure Stage 2
+489,Autism Spectrum Disorder (ASD),104.0,1.0,1.0,1.0,68.0,Male,147.0,79.47863247863248,144.0,1,Old,Wrong reading
+490,Gastroenteritis,100.0,0.0,1.0,1.0,47.0,Female,124.0,92.0,202.0,0,Middle Aged,Wrong reading
+491,Chickenpox,95.0,1.0,1.0,1.0,29.0,Male,125.0,64.0,165.0,1,Young Adult,Elevated
+492,Cerebral Palsy,96.0,0.0,1.0,0.0,76.0,Female,155.0,77.0,162.0,0,Old,Wrong reading
+493,Eczema,104.0,0.0,1.0,1.0,65.0,Male,140.0,66.0,128.0,1,Old,Wrong reading
+494,Asthma,108.0,0.0,1.0,0.0,77.0,Female,106.0,79.47863247863248,192.0,0,Old,Normal
+495,Hypertensive Heart Disease,100.0,1.0,1.0,0.0,49.10808510638298,Female,119.0,85.0,129.0,0,Middle Aged,Wrong reading
+496,Chickenpox,100.40495867768595,0.0,1.0,0.0,40.0,Female,112.0,96.0,136.0,0,Middle Aged,Wrong reading
+497,Psoriasis,95.0,1.0,1.0,0.0,33.0,Female,140.0,87.0,236.0,0,Adult,Wrong reading
+498,Chickenpox,95.0,0.0,1.0,0.0,64.0,Male,148.0,62.0,173.0,1,Old,Wrong reading
+499,Cerebral Palsy,98.0,0.0,1.0,1.0,52.0,Female,144.0,68.0,214.0,0,Middle Aged,Wrong reading
+500,Diabetes,104.0,0.0,1.0,1.0,51.0,Female,130.0,72.0,136.0,0,Middle Aged,Wrong reading
+501,Rheumatoid Arthritis,100.40495867768595,0.0,1.0,1.0,21.0,Male,99.0,77.0,144.0,1,Young Adult,Normal
+502,Urinary Tract Infection,104.0,1.0,0.0,1.0,33.0,Female,123.0,88.0,167.0,0,Adult,Wrong reading
+503,Asthma,97.0,0.0,1.0,0.0,39.0,Male,122.0,91.0,178.18776194467728,1,Adult,Wrong reading
+504,Cerebral Palsy,95.0,0.0,1.0,0.0,72.0,Female,155.0,63.0,181.0,0,Old,Wrong reading
+505,Influenza,98.0,0.0,1.0,1.0,48.0,Female,133.0,77.0,191.0,0,Middle Aged,Wrong reading
+506,"Eating Disorders (Anorexia, Bulimia)",103.0,1.0,0.0,1.0,60.0,Female,160.0,97.0,156.0,0,Old,High Blood Pressure Stage 2
+507,Eczema,97.0,1.0,0.0,1.0,75.0,Female,117.0,72.0,127.0,0,Old,Normal
+508,Cerebral Palsy,101.0,0.0,0.0,0.0,36.0,Female,128.0,93.0,172.0,0,Adult,Wrong reading
+509,Stroke,101.0,0.0,1.0,0.0,46.0,Female,118.0,88.0,199.0,0,Middle Aged,Wrong reading
+510,Eczema,96.0,0.0,0.0,1.0,62.0,Female,150.0,70.0,210.0,0,Old,Wrong reading
+511,"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,0.0,1.0,47.0,Female,147.0,81.0,158.0,0,Middle Aged,Wrong reading
+512,Asthma,95.0,0.0,0.0,1.0,55.0,Female,114.0,67.0,138.0,0,Middle Aged,Normal
+513,Influenza,100.40495867768595,0.0,1.0,0.0,22.0,Female,143.0,83.0,186.0,0,Young Adult,Wrong reading
+514,Tuberculosis,97.0,0.0,0.0,0.0,77.0,Female,130.0,76.0,233.0,0,Old,Wrong reading
+515,Hypertensive Heart Disease,98.0,0.0,1.0,0.0,57.0,Male,97.0,94.0,172.0,1,Middle Aged,Wrong reading
+516,Influenza,104.0,0.0,0.0,0.0,60.0,Female,105.0,72.0,163.0,0,Old,Normal
+517,Tuberculosis,104.0,0.0,1.0,1.0,45.0,Male,159.0,100.0,127.0,1,Middle Aged,High Blood Pressure Stage 2
+518,Cerebral Palsy,100.0,0.0,1.0,1.0,41.0,Male,93.0,78.0,215.0,1,Middle Aged,Normal
+519,Autism Spectrum Disorder (ASD),95.0,0.0,1.0,1.0,57.0,Male,98.0,67.0,134.0,1,Middle Aged,Normal
+520,Hyperthyroidism,101.0,1.0,1.0,1.0,31.0,Female,121.0,71.0,171.0,0,Adult,Elevated
+521,Tuberculosis,95.0,1.0,0.0,1.0,66.0,Female,135.0,67.0,234.0,0,Old,Wrong reading
+522,Autism Spectrum Disorder (ASD),95.0,0.0,1.0,0.0,78.0,Female,154.0,61.0,127.0,0,Old,Wrong reading
+523,Stroke,97.0,0.0,0.0,0.0,31.0,Female,151.0,91.0,129.0,0,Adult,High Blood Pressure Stage 2
+524,Migraine,97.0,1.0,1.0,1.0,54.0,Female,125.89282700421941,82.0,170.0,0,Middle Aged,Wrong reading
+525,Chickenpox,96.0,0.0,1.0,0.0,64.0,Female,114.0,70.0,177.0,0,Old,Normal
+526,Hyperthyroidism,102.0,0.0,1.0,0.0,49.0,Male,121.0,60.0,137.0,1,Middle Aged,Elevated
+527,Gastroenteritis,97.0,1.0,1.0,0.0,41.0,Male,145.0,76.0,145.0,1,Middle Aged,Wrong reading
+528,Influenza,100.40495867768595,0.0,0.0,0.0,72.0,Female,104.0,82.0,209.0,0,Old,Wrong reading
+529,Autism Spectrum Disorder (ASD),103.0,1.0,0.0,1.0,63.0,Female,151.0,71.0,171.0,0,Old,Wrong reading
+530,Migraine,97.0,0.0,1.0,1.0,19.0,Male,95.0,73.0,147.0,1,Teen,Normal
+531,Eczema,104.0,1.0,1.0,1.0,28.0,Female,126.0,80.0,205.0,0,Young Adult,Wrong reading
+532,"Eating Disorders (Anorexia, Bulimia)",102.0,0.0,0.0,0.0,24.0,Male,144.0,74.0,158.0,1,Young Adult,Wrong reading
+533,Rheumatoid Arthritis,95.0,1.0,0.0,0.0,25.0,Female,106.0,99.0,166.0,0,Young Adult,Wrong reading
+534,"Eating Disorders (Anorexia, Bulimia)",100.0,1.0,0.0,0.0,51.0,Female,122.0,84.0,167.0,0,Middle Aged,Wrong reading
+535,Asthma,101.0,1.0,1.0,1.0,47.0,Male,98.0,82.0,187.0,1,Middle Aged,Wrong reading
+536,Hyperthyroidism,101.0,0.0,1.0,1.0,69.0,Female,157.0,77.0,193.0,0,Old,Wrong reading
+537,Gastroenteritis,98.0,0.0,1.0,1.0,67.0,Male,117.0,85.0,168.0,1,Old,Wrong reading
+538,Chickenpox,104.0,0.0,1.0,1.0,52.0,Female,118.0,66.0,138.0,0,Middle Aged,Normal
+539,Psoriasis,96.0,0.0,0.0,1.0,23.0,Female,116.0,93.0,208.0,0,Young Adult,Wrong reading
+540,Asthma,96.0,0.0,1.0,1.0,30.0,Female,160.0,91.0,211.0,0,Adult,High Blood Pressure Stage 2
+541,Hyperthyroidism,96.0,1.0,0.0,1.0,53.0,Male,115.0,68.0,141.0,1,Middle Aged,Normal
+542,Liver Cancer,100.40495867768595,0.0,1.0,1.0,60.0,Female,139.0,67.0,147.0,0,Old,Wrong reading
+543,Gastroenteritis,100.40495867768595,0.0,1.0,1.0,73.0,Male,140.0,81.0,212.0,1,Old,Wrong reading
+544,Psoriasis,100.40495867768595,0.0,1.0,1.0,78.0,Female,154.0,79.47863247863248,215.0,0,Old,Wrong reading
+545,Chickenpox,102.0,0.0,0.0,1.0,71.0,Female,145.0,61.0,219.0,0,Old,Wrong reading
+546,Eczema,98.0,0.0,0.0,1.0,52.0,Female,110.0,68.0,218.0,0,Middle Aged,Normal
+547,"Eating Disorders (Anorexia, Bulimia)",98.0,0.0,0.0,1.0,79.0,Female,96.0,62.0,142.0,0,Old,Normal
+548,Hyperthyroidism,103.0,0.0,1.0,1.0,60.0,Male,110.0,98.0,186.0,1,Old,Wrong reading
+549,Influenza,96.0,0.0,1.0,1.0,20.0,Female,121.0,96.0,233.0,0,Young Adult,Wrong reading
+550,Eczema,98.0,0.0,1.0,0.0,54.0,Female,116.0,87.0,158.0,0,Middle Aged,Wrong reading
+551,Dengue Fever,97.0,1.0,0.0,1.0,60.0,Female,107.0,78.0,148.0,0,Old,Normal
+552,Diabetes,95.0,0.0,0.0,1.0,49.10808510638298,Female,143.0,71.0,227.0,0,Middle Aged,Wrong reading
+553,Dengue Fever,103.0,1.0,1.0,1.0,54.0,Male,101.0,83.0,197.0,1,Middle Aged,Wrong reading
+554,Autism Spectrum Disorder (ASD),103.0,0.0,0.0,1.0,71.0,Male,106.0,76.0,203.0,1,Old,Normal
+555,Rheumatoid Arthritis,102.0,0.0,1.0,1.0,53.0,Male,93.0,74.0,230.0,1,Middle Aged,Normal
+556,Liver Cancer,104.0,0.0,0.0,1.0,32.0,Male,149.0,79.0,145.0,1,Adult,Wrong reading
+557,Hyperthyroidism,97.0,1.0,0.0,1.0,71.0,Female,160.0,73.0,182.0,0,Old,Wrong reading
+558,Stroke,100.0,0.0,0.0,1.0,80.0,Female,95.0,97.0,137.0,0,Old,Wrong reading
+559,Asthma,101.0,0.0,1.0,1.0,34.0,Female,147.0,100.0,186.0,0,Adult,High Blood Pressure Stage 2
+560,Gastroenteritis,100.0,0.0,0.0,1.0,68.0,Male,94.0,93.0,150.0,1,Old,Wrong reading
+561,Diabetes,95.0,0.0,0.0,1.0,42.0,Male,138.0,72.0,146.0,1,Middle Aged,Wrong reading
+562,Chickenpox,103.0,0.0,0.0,0.0,24.0,Female,114.0,76.0,206.0,0,Young Adult,Normal
+563,Bronchitis,96.0,1.0,1.0,0.0,43.0,Female,115.0,61.0,235.0,0,Middle Aged,Normal
+564,Cerebral Palsy,100.0,0.0,1.0,0.0,75.0,Female,94.0,92.0,233.0,0,Old,Wrong reading
+565,Gastroenteritis,100.40495867768595,0.0,0.0,1.0,51.0,Female,96.0,82.0,214.0,0,Middle Aged,Wrong reading
+566,Urinary Tract Infection,102.0,0.0,0.0,1.0,31.0,Female,158.0,94.0,141.0,0,Adult,High Blood Pressure Stage 2
+567,Gastroenteritis,98.0,0.0,1.0,0.0,61.0,Female,91.0,87.0,194.0,0,Old,Wrong reading
+568,Eczema,96.0,0.0,1.0,1.0,47.0,Female,122.0,86.0,153.0,0,Middle Aged,Wrong reading
+569,Dengue Fever,99.0,0.0,1.0,1.0,29.0,Female,96.0,67.0,180.0,0,Young Adult,Normal
+570,Autism Spectrum Disorder (ASD),100.40495867768595,1.0,0.0,1.0,57.0,Female,150.0,81.0,123.0,0,Middle Aged,Wrong reading
+571,Urinary Tract Infection,98.0,1.0,1.0,1.0,18.0,Male,92.0,90.0,178.18776194467728,1,Teen,Wrong reading
+572,Dengue Fever,98.0,0.0,1.0,1.0,49.10808510638298,Male,153.0,66.0,180.0,1,Middle Aged,Wrong reading
+573,Migraine,99.0,0.0,0.0,0.0,32.0,Female,96.0,91.0,150.0,0,Adult,Wrong reading
+574,Asthma,99.0,1.0,1.0,0.0,36.0,Male,124.0,68.0,218.0,1,Adult,Elevated
+575,Eczema,95.0,1.0,1.0,1.0,52.0,Male,99.0,66.0,187.0,1,Middle Aged,Normal
+576,Dengue Fever,95.0,0.0,1.0,1.0,44.0,Female,152.0,66.0,229.0,0,Middle Aged,Wrong reading
+577,Bronchitis,99.0,0.0,1.0,0.0,33.0,Male,125.0,71.0,218.0,1,Adult,Elevated
+578,Hypertensive Heart Disease,103.0,0.0,1.0,1.0,69.0,Female,159.0,72.0,207.0,0,Old,Wrong reading
+579,Dengue Fever,104.0,0.0,1.0,1.0,50.0,Female,139.0,69.0,170.0,0,Middle Aged,Wrong reading
+580,Rheumatoid Arthritis,95.0,1.0,1.0,1.0,35.0,Female,149.0,73.0,163.0,0,Adult,Wrong reading
+581,Eczema,102.0,0.0,1.0,1.0,29.0,Female,105.0,68.0,170.0,0,Young Adult,Normal
+582,Urinary Tract Infection,104.0,1.0,1.0,1.0,56.0,Female,119.0,64.0,235.0,0,Middle Aged,Normal
+583,Urinary Tract Infection,101.0,1.0,1.0,1.0,49.10808510638298,Male,109.0,96.0,135.0,1,Middle Aged,Wrong reading
+584,Asthma,95.0,1.0,1.0,1.0,60.0,Female,140.0,68.0,215.0,0,Old,Wrong reading
+585,Urinary Tract Infection,103.0,0.0,0.0,1.0,70.0,Female,142.0,83.0,204.0,0,Old,Wrong reading
+586,"Eating Disorders (Anorexia, Bulimia)",104.0,0.0,1.0,0.0,22.0,Female,124.0,86.0,142.0,0,Young Adult,Wrong reading
+587,Rheumatoid Arthritis,101.0,1.0,1.0,1.0,76.0,Female,114.0,90.0,150.0,0,Old,Wrong reading
+588,Eczema,96.0,1.0,1.0,1.0,30.0,Female,144.0,63.0,185.0,0,Adult,Wrong reading
+589,Bronchitis,102.0,0.0,1.0,1.0,60.0,Female,100.0,95.0,143.0,0,Old,Wrong reading
+590,"Eating Disorders (Anorexia, Bulimia)",102.0,0.0,0.0,1.0,44.0,Female,143.0,97.0,193.0,0,Middle Aged,High Blood Pressure Stage 2
+591,Asthma,95.0,0.0,0.0,1.0,47.0,Female,94.0,79.47863247863248,184.0,0,Middle Aged,Normal
+592,"Eating Disorders (Anorexia, Bulimia)",96.0,0.0,0.0,1.0,60.0,Male,100.0,67.0,202.0,1,Old,Normal
+593,Influenza,104.0,1.0,0.0,1.0,41.0,Male,98.0,82.0,193.0,1,Middle Aged,Wrong reading
+594,"Eating Disorders (Anorexia, Bulimia)",103.0,1.0,1.0,0.0,80.0,Male,143.0,69.0,191.0,1,Old,Wrong reading
+595,Hypertensive Heart Disease,98.0,0.0,1.0,0.0,60.0,Female,105.0,99.0,150.0,0,Old,Wrong reading
+596,Stroke,99.0,1.0,1.0,1.0,23.0,Female,92.0,65.0,140.0,0,Young Adult,Normal
+597,Urinary Tract Infection,100.0,0.0,1.0,0.0,33.0,Female,126.0,81.0,132.0,0,Adult,Wrong reading
+598,Asthma,100.40495867768595,0.0,0.0,1.0,79.0,Female,129.0,82.0,123.0,0,Old,Wrong reading
+599,Autism Spectrum Disorder (ASD),103.0,1.0,1.0,0.0,33.0,Female,138.0,87.0,174.0,0,Adult,Higher Blood Pressure Stage 1
+600,Rheumatoid Arthritis,98.0,0.0,1.0,1.0,36.0,Female,153.0,89.0,212.0,0,Adult,Wrong reading
+601,Urinary Tract Infection,95.0,0.0,1.0,1.0,26.0,Female,117.0,82.0,231.0,0,Young Adult,Wrong reading
+602,Hypertensive Heart Disease,95.0,0.0,0.0,1.0,74.0,Female,96.0,84.0,227.0,0,Old,Wrong reading
+603,Migraine,97.0,0.0,0.0,0.0,32.0,Female,102.0,76.0,156.0,0,Adult,Normal
+604,Chickenpox,103.0,1.0,1.0,0.0,75.0,Female,148.0,99.0,195.0,0,Old,High Blood Pressure Stage 2
+605,Dengue Fever,95.0,0.0,1.0,0.0,39.0,Female,114.0,64.0,237.0,0,Adult,Normal
+606,Influenza,98.0,0.0,1.0,1.0,39.0,Female,95.0,76.0,174.0,0,Adult,Normal
+607,Rheumatoid Arthritis,103.0,1.0,1.0,1.0,19.0,Male,92.0,98.0,176.0,1,Teen,Wrong reading
+608,Hypertensive Heart Disease,95.0,1.0,1.0,1.0,63.0,Female,153.0,100.0,157.0,0,Old,High Blood Pressure Stage 2
+609,Cerebral Palsy,104.0,0.0,1.0,1.0,24.0,Female,147.0,64.0,160.0,0,Young Adult,Wrong reading
+610,Chickenpox,95.0,0.0,1.0,1.0,63.0,Female,123.0,83.0,143.0,0,Old,Wrong reading
+611,Bronchitis,100.0,0.0,1.0,1.0,60.0,Female,148.0,65.0,146.0,0,Old,Wrong reading
+612,Dengue Fever,95.0,1.0,1.0,0.0,77.0,Female,155.0,92.0,128.0,0,Old,High Blood Pressure Stage 2
+613,Gastroenteritis,101.0,1.0,1.0,1.0,57.0,Female,130.0,81.0,159.0,0,Middle Aged,Higher Blood Pressure Stage 1
+614,Hypertensive Heart Disease,104.0,1.0,1.0,0.0,27.0,Female,148.0,73.0,195.0,0,Young Adult,Wrong reading
+615,Diabetes,103.0,0.0,1.0,0.0,80.0,Female,148.0,71.0,127.0,0,Old,Wrong reading
+616,Autism Spectrum Disorder (ASD),104.0,0.0,1.0,0.0,35.0,Female,119.0,67.0,158.0,0,Adult,Normal
+617,Tuberculosis,100.40495867768595,0.0,0.0,1.0,24.0,Male,97.0,91.0,143.0,1,Young Adult,Wrong reading
+618,Liver Cancer,97.0,0.0,1.0,0.0,59.0,Female,108.0,67.0,217.0,0,Middle Aged,Normal
+619,Asthma,96.0,0.0,1.0,0.0,38.0,Male,106.0,73.0,223.0,1,Adult,Normal
+620,Dengue Fever,101.0,0.0,1.0,1.0,78.0,Male,156.0,89.0,234.0,1,Old,Wrong reading
+621,Bronchitis,104.0,0.0,1.0,1.0,62.0,Male,104.0,94.0,145.0,1,Old,Wrong reading
+622,Asthma,100.0,1.0,1.0,0.0,31.0,Female,131.0,70.0,132.0,0,Adult,Wrong reading
+623,Urinary Tract Infection,103.0,0.0,0.0,0.0,42.0,Female,111.0,75.0,175.0,0,Middle Aged,Normal
+624,Eczema,103.0,0.0,1.0,0.0,41.0,Female,92.0,78.0,158.0,0,Middle Aged,Normal
+625,Bronchitis,99.0,0.0,1.0,0.0,61.0,Male,91.0,80.0,128.0,1,Old,Wrong reading
+626,Hyperthyroidism,97.0,0.0,0.0,0.0,43.0,Female,135.0,61.0,183.0,0,Middle Aged,Wrong reading
+627,Migraine,95.0,0.0,1.0,1.0,71.0,Female,92.0,97.0,153.0,0,Old,Wrong reading
+628,Eczema,96.0,0.0,1.0,1.0,25.0,Female,149.0,93.0,229.0,0,Young Adult,High Blood Pressure Stage 2
+629,Hypertensive Heart Disease,97.0,0.0,1.0,0.0,51.0,Female,105.0,63.0,232.0,0,Middle Aged,Normal
+630,Liver Cancer,100.40495867768595,0.0,0.0,1.0,70.0,Male,102.0,61.0,198.0,1,Old,Normal
+631,Stroke,104.0,0.0,1.0,1.0,36.0,Female,98.0,94.0,204.0,0,Adult,Wrong reading
+632,Chickenpox,102.0,1.0,1.0,1.0,24.0,Male,145.0,83.0,155.0,1,Young Adult,Wrong reading
+633,Tuberculosis,99.0,1.0,0.0,1.0,20.0,Female,98.0,79.47863247863248,137.0,0,Young Adult,Normal
+634,Psoriasis,96.0,0.0,1.0,1.0,57.0,Female,152.0,88.0,127.0,0,Middle Aged,Wrong reading
+635,Urinary Tract Infection,100.0,1.0,1.0,1.0,36.0,Female,142.0,64.0,229.0,0,Adult,Wrong reading
+636,Bronchitis,95.0,0.0,0.0,1.0,21.0,Female,154.0,80.0,152.0,0,Young Adult,Wrong reading
+637,Bronchitis,100.0,1.0,1.0,1.0,33.0,Female,149.0,81.0,177.0,0,Adult,Wrong reading
+638,Urinary Tract Infection,104.0,0.0,1.0,1.0,37.0,Male,99.0,69.0,171.0,1,Adult,Normal
+639,Chickenpox,96.0,0.0,1.0,1.0,31.0,Male,155.0,95.0,187.0,1,Adult,High Blood Pressure Stage 2
+640,Bronchitis,103.0,0.0,1.0,1.0,36.0,Female,154.0,100.0,199.0,0,Adult,High Blood Pressure Stage 2
+641,Asthma,100.40495867768595,1.0,1.0,0.0,44.0,Male,125.0,73.0,140.0,1,Middle Aged,Elevated
+642,Tuberculosis,103.0,0.0,1.0,1.0,46.0,Male,139.0,85.0,231.0,1,Middle Aged,Higher Blood Pressure Stage 1
+643,Diabetes,99.0,0.0,0.0,1.0,70.0,Male,140.0,87.0,163.0,1,Old,Wrong reading
+644,Migraine,95.0,0.0,1.0,1.0,69.0,Female,95.0,97.0,185.0,0,Old,Wrong reading
+645,Asthma,100.0,0.0,0.0,1.0,38.0,Male,122.0,73.0,144.0,1,Adult,Elevated
+646,Autism Spectrum Disorder (ASD),101.0,1.0,1.0,1.0,33.0,Male,106.0,78.0,170.0,1,Adult,Normal
+647,Dengue Fever,96.0,0.0,1.0,1.0,51.0,Female,118.0,86.0,146.0,0,Middle Aged,Wrong reading
+648,Chickenpox,99.0,0.0,1.0,1.0,54.0,Male,156.0,86.0,218.0,1,Middle Aged,Wrong reading
+649,Influenza,102.0,0.0,1.0,1.0,20.0,Female,104.0,66.0,229.0,0,Young Adult,Normal
+650,Autism Spectrum Disorder (ASD),97.0,0.0,0.0,1.0,75.0,Female,115.0,77.0,130.0,0,Old,Normal
+651,Cerebral Palsy,96.0,0.0,1.0,0.0,48.0,Female,95.0,93.0,143.0,0,Middle Aged,Wrong reading
+652,Urinary Tract Infection,101.0,0.0,0.0,1.0,34.0,Female,120.0,81.0,122.0,0,Adult,Wrong reading
+653,Stroke,96.0,0.0,0.0,1.0,68.0,Female,150.0,89.0,198.0,0,Old,Wrong reading
+654,Influenza,95.0,0.0,1.0,1.0,43.0,Female,94.0,86.0,226.0,0,Middle Aged,Wrong reading
+655,Diabetes,99.0,1.0,1.0,0.0,19.0,Male,144.0,62.0,194.0,1,Teen,Wrong reading
+656,Migraine,99.0,1.0,0.0,0.0,62.0,Male,143.0,67.0,172.0,1,Old,Wrong reading
+657,Rheumatoid Arthritis,103.0,0.0,1.0,1.0,33.0,Female,136.0,85.0,228.0,0,Adult,Higher Blood Pressure Stage 1
+658,Gastroenteritis,102.0,0.0,1.0,1.0,55.0,Female,102.0,91.0,207.0,0,Middle Aged,Wrong reading
+659,Diabetes,100.40495867768595,1.0,1.0,1.0,45.0,Female,118.0,95.0,128.0,0,Middle Aged,Wrong reading
+660,Psoriasis,98.0,0.0,0.0,1.0,23.0,Female,122.0,75.0,130.0,0,Young Adult,Elevated
+661,Urinary Tract Infection,99.0,1.0,0.0,1.0,35.0,Male,104.0,87.0,155.0,1,Adult,Wrong reading
+662,Hypertensive Heart Disease,95.0,0.0,1.0,1.0,49.0,Male,120.0,67.0,234.0,1,Middle Aged,Elevated
+663,Hyperthyroidism,98.0,0.0,1.0,1.0,72.0,Female,152.0,89.0,176.0,0,Old,Wrong reading
+664,Rheumatoid Arthritis,99.0,0.0,0.0,0.0,53.0,Male,119.0,87.0,146.0,1,Middle Aged,Wrong reading
+665,Hypertensive Heart Disease,100.40495867768595,1.0,1.0,0.0,25.0,Female,151.0,60.0,159.0,0,Young Adult,Wrong reading
+666,"Eating Disorders (Anorexia, Bulimia)",96.0,0.0,0.0,1.0,48.0,Female,100.0,79.47863247863248,169.0,0,Middle Aged,Normal
+667,Autism Spectrum Disorder (ASD),100.0,0.0,0.0,0.0,58.0,Female,131.0,92.0,233.0,0,Middle Aged,Wrong reading
+668,Chickenpox,98.0,0.0,0.0,1.0,79.0,Female,93.0,84.0,211.0,0,Old,Wrong reading
+669,Hypertensive Heart Disease,100.0,0.0,1.0,1.0,24.0,Female,110.0,92.0,209.0,0,Young Adult,Wrong reading
+670,Liver Cancer,104.0,1.0,1.0,1.0,48.0,Female,99.0,99.0,186.0,0,Middle Aged,Wrong reading
+671,Hyperthyroidism,100.0,0.0,0.0,1.0,26.0,Female,112.0,71.0,217.0,0,Young Adult,Normal
+672,Autism Spectrum Disorder (ASD),99.0,0.0,1.0,1.0,21.0,Male,155.0,98.0,142.0,1,Young Adult,High Blood Pressure Stage 2
+673,Gastroenteritis,104.0,1.0,0.0,0.0,63.0,Female,101.0,91.0,165.0,0,Old,Wrong reading
+674,Dengue Fever,96.0,1.0,1.0,1.0,78.0,Male,126.0,68.0,121.0,1,Old,Elevated
+675,Bronchitis,103.0,0.0,1.0,1.0,37.0,Female,153.0,99.0,146.0,0,Adult,High Blood Pressure Stage 2
+676,Asthma,99.0,0.0,0.0,1.0,75.0,Female,96.0,62.0,151.0,0,Old,Normal
+677,Rheumatoid Arthritis,102.0,0.0,0.0,0.0,23.0,Female,91.0,78.0,215.0,0,Young Adult,Normal
+678,Rheumatoid Arthritis,104.0,1.0,0.0,1.0,63.0,Male,143.0,67.0,176.0,1,Old,Wrong reading
+679,Autism Spectrum Disorder (ASD),95.0,0.0,0.0,1.0,57.0,Female,111.0,84.0,206.0,0,Middle Aged,Wrong reading
+680,Urinary Tract Infection,96.0,1.0,1.0,1.0,59.0,Male,105.0,81.0,182.0,1,Middle Aged,Wrong reading
+681,Psoriasis,101.0,0.0,0.0,1.0,43.0,Male,115.0,78.0,178.0,1,Middle Aged,Normal
+682,Cerebral Palsy,97.0,1.0,1.0,0.0,68.0,Female,147.0,72.0,177.0,0,Old,Wrong reading
+683,Cerebral Palsy,102.0,0.0,1.0,1.0,37.0,Female,133.0,67.0,170.0,0,Adult,Wrong reading
+684,Tuberculosis,100.40495867768595,0.0,0.0,0.0,77.0,Female,97.0,78.0,220.0,0,Old,Normal
+685,Dengue Fever,95.0,0.0,1.0,1.0,66.0,Female,160.0,90.0,218.0,0,Old,High Blood Pressure Stage 2
+686,Hyperthyroidism,102.0,0.0,1.0,0.0,64.0,Female,159.0,90.0,224.0,0,Old,High Blood Pressure Stage 2
+687,Psoriasis,99.0,0.0,0.0,1.0,56.0,Female,151.0,75.0,163.0,0,Middle Aged,Wrong reading
+688,"Eating Disorders (Anorexia, Bulimia)",99.0,1.0,1.0,0.0,63.0,Female,136.0,63.0,177.0,0,Old,Wrong reading
+689,Autism Spectrum Disorder (ASD),95.0,1.0,0.0,1.0,20.0,Male,156.0,84.0,144.0,1,Young Adult,Wrong reading
+690,Gastroenteritis,100.0,0.0,1.0,1.0,43.0,Female,91.0,94.0,144.0,0,Middle Aged,Wrong reading
+691,Urinary Tract Infection,97.0,1.0,0.0,0.0,79.0,Female,147.0,72.0,190.0,0,Old,Wrong reading
+692,Diabetes,95.0,0.0,1.0,0.0,52.0,Female,131.0,67.0,213.0,0,Middle Aged,Wrong reading
+693,Chickenpox,99.0,0.0,1.0,0.0,66.0,Female,159.0,87.0,202.0,0,Old,Wrong reading
+694,Bronchitis,99.0,1.0,1.0,1.0,22.0,Female,125.89282700421941,63.0,145.0,0,Young Adult,Elevated
+695,Hypertensive Heart Disease,96.0,0.0,1.0,1.0,61.0,Female,134.0,77.0,166.0,0,Old,Wrong reading
+696,Gastroenteritis,102.0,0.0,1.0,1.0,59.0,Female,133.0,76.0,151.0,0,Middle Aged,Wrong reading
+697,Autism Spectrum Disorder (ASD),96.0,0.0,1.0,0.0,73.0,Male,155.0,68.0,136.0,1,Old,Wrong reading
+698,Stroke,104.0,0.0,1.0,0.0,24.0,Female,119.0,82.0,121.0,0,Young Adult,Wrong reading
+699,Cerebral Palsy,97.0,0.0,1.0,1.0,55.0,Male,146.0,79.47863247863248,214.0,1,Middle Aged,Wrong reading
+700,Hyperthyroidism,104.0,1.0,1.0,1.0,63.0,Female,131.0,76.0,145.0,0,Old,Wrong reading
+701,Cerebral Palsy,100.0,0.0,1.0,1.0,35.0,Male,159.0,79.0,220.0,1,Adult,Wrong reading
+702,Liver Cancer,95.0,0.0,1.0,1.0,57.0,Male,123.0,84.0,159.0,1,Middle Aged,Wrong reading
+703,Urinary Tract Infection,103.0,0.0,1.0,1.0,30.0,Female,114.0,71.0,131.0,0,Adult,Normal
+704,Psoriasis,100.0,1.0,0.0,1.0,28.0,Female,118.0,76.0,176.0,0,Young Adult,Normal
+705,Influenza,100.0,0.0,1.0,1.0,74.0,Female,118.0,66.0,211.0,0,Old,Normal
+706,Diabetes,102.0,0.0,1.0,1.0,64.0,Male,101.0,85.0,199.0,1,Old,Wrong reading
+707,Gastroenteritis,100.40495867768595,1.0,1.0,0.0,45.0,Female,99.0,68.0,238.0,0,Middle Aged,Normal
+708,Diabetes,101.0,0.0,1.0,1.0,57.0,Female,125.0,88.0,134.0,0,Middle Aged,Wrong reading
+709,Gastroenteritis,101.0,0.0,1.0,1.0,75.0,Female,92.0,77.0,222.0,0,Old,Normal
+710,Psoriasis,100.0,1.0,0.0,0.0,60.0,Female,94.0,72.0,195.0,0,Old,Normal
+711,Asthma,96.0,1.0,1.0,1.0,38.0,Female,94.0,83.0,204.0,0,Adult,Wrong reading
+712,Hyperthyroidism,103.0,0.0,0.0,1.0,25.0,Female,124.0,99.0,226.0,0,Young Adult,Wrong reading
+713,Chickenpox,102.0,0.0,0.0,1.0,70.0,Female,98.0,90.0,204.0,0,Old,Wrong reading
+714,Tuberculosis,104.0,1.0,1.0,1.0,53.0,Male,94.0,85.0,131.0,1,Middle Aged,Wrong reading
+715,Tuberculosis,95.0,1.0,0.0,0.0,44.0,Female,113.0,61.0,189.0,0,Middle Aged,Normal
+716,Autism Spectrum Disorder (ASD),97.0,0.0,1.0,0.0,78.0,Male,119.0,82.0,128.0,1,Old,Wrong reading
+717,"Eating Disorders (Anorexia, Bulimia)",99.0,1.0,1.0,1.0,58.0,Female,143.0,79.47863247863248,134.0,0,Middle Aged,Wrong reading
+718,Hypertensive Heart Disease,100.0,0.0,1.0,0.0,49.10808510638298,Male,146.0,82.0,140.0,1,Middle Aged,Wrong reading
+719,Psoriasis,95.0,0.0,0.0,1.0,47.0,Male,157.0,82.0,161.0,1,Middle Aged,Wrong reading
+720,Urinary Tract Infection,96.0,0.0,0.0,1.0,77.0,Female,128.0,98.0,163.0,0,Old,Wrong reading
+721,Cerebral Palsy,98.0,1.0,1.0,1.0,62.0,Male,116.0,83.0,207.0,1,Old,Wrong reading
+722,Eczema,104.0,0.0,1.0,0.0,55.0,Female,122.0,84.0,145.0,0,Middle Aged,Wrong reading
+723,Influenza,97.0,0.0,0.0,0.0,46.0,Female,101.0,95.0,226.0,0,Middle Aged,Wrong reading
+724,Hyperthyroidism,96.0,0.0,1.0,1.0,21.0,Male,110.0,87.0,130.0,1,Young Adult,Wrong reading
+725,Gastroenteritis,99.0,1.0,1.0,0.0,77.0,Male,130.0,90.0,160.0,1,Old,Wrong reading
+726,Bronchitis,99.0,1.0,1.0,1.0,37.0,Male,159.0,81.0,220.0,1,Adult,Wrong reading
+727,Cerebral Palsy,100.0,0.0,0.0,1.0,62.0,Female,131.0,61.0,208.0,0,Old,Wrong reading
+728,Chickenpox,104.0,1.0,1.0,1.0,20.0,Female,94.0,65.0,149.0,0,Young Adult,Normal
+729,Gastroenteritis,103.0,0.0,0.0,0.0,41.0,Female,135.0,94.0,227.0,0,Middle Aged,Wrong reading
+730,Diabetes,102.0,0.0,1.0,1.0,23.0,Female,156.0,69.0,129.0,0,Young Adult,Wrong reading
+731,Rheumatoid Arthritis,101.0,0.0,0.0,0.0,47.0,Female,94.0,95.0,196.0,0,Middle Aged,Wrong reading
+732,Autism Spectrum Disorder (ASD),104.0,0.0,0.0,1.0,72.0,Female,157.0,70.0,217.0,0,Old,Wrong reading
+733,Influenza,95.0,1.0,1.0,1.0,33.0,Male,154.0,86.0,237.0,1,Adult,Wrong reading
+734,Dengue Fever,103.0,1.0,1.0,1.0,52.0,Female,144.0,69.0,144.0,0,Middle Aged,Wrong reading
+735,Urinary Tract Infection,100.40495867768595,0.0,1.0,0.0,30.0,Female,125.89282700421941,79.0,146.0,0,Adult,Elevated
+736,Urinary Tract Infection,104.0,0.0,1.0,1.0,43.0,Female,116.0,91.0,180.0,0,Middle Aged,Wrong reading
+737,Eczema,97.0,0.0,1.0,1.0,43.0,Female,152.0,64.0,230.0,0,Middle Aged,Wrong reading
+738,Psoriasis,99.0,1.0,1.0,0.0,59.0,Female,116.0,86.0,203.0,0,Middle Aged,Wrong reading
+739,Hypertensive Heart Disease,99.0,0.0,1.0,0.0,74.0,Female,147.0,94.0,145.0,0,Old,High Blood Pressure Stage 2
+740,Asthma,95.0,1.0,1.0,1.0,78.0,Female,100.0,72.0,193.0,0,Old,Normal
+741,"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,1.0,1.0,71.0,Female,143.0,100.0,122.0,0,Old,High Blood Pressure Stage 2
+742,Psoriasis,96.0,0.0,0.0,1.0,80.0,Male,119.0,73.0,171.0,1,Old,Normal
+743,Psoriasis,104.0,0.0,0.0,0.0,57.0,Female,104.0,99.0,215.0,0,Middle Aged,Wrong reading
+744,Diabetes,100.40495867768595,0.0,0.0,0.0,72.0,Female,113.0,89.0,161.0,0,Old,Wrong reading
+745,Liver Cancer,95.0,0.0,1.0,0.0,71.0,Male,97.0,65.0,153.0,1,Old,Normal
+746,Autism Spectrum Disorder (ASD),101.0,1.0,1.0,1.0,29.0,Male,137.0,61.0,149.0,1,Young Adult,Wrong reading
+747,Influenza,101.0,0.0,1.0,1.0,24.0,Male,143.0,67.0,204.0,1,Young Adult,Wrong reading
+748,Cerebral Palsy,95.0,0.0,1.0,0.0,55.0,Female,99.0,82.0,175.0,0,Middle Aged,Wrong reading
+749,Stroke,100.40495867768595,1.0,1.0,1.0,65.0,Female,149.0,79.0,146.0,0,Old,Wrong reading
+750,Rheumatoid Arthritis,98.0,0.0,1.0,1.0,39.0,Female,130.0,79.0,208.0,0,Adult,Wrong reading
+751,Hypertensive Heart Disease,100.40495867768595,0.0,1.0,0.0,63.0,Female,133.0,98.0,177.0,0,Old,Wrong reading
+752,Liver Cancer,104.0,1.0,1.0,1.0,47.0,Female,109.0,69.0,165.0,0,Middle Aged,Normal
+753,Diabetes,98.0,0.0,1.0,1.0,80.0,Male,149.0,94.0,185.0,1,Old,High Blood Pressure Stage 2
+754,Dengue Fever,100.0,0.0,1.0,1.0,42.0,Female,100.0,95.0,180.0,0,Middle Aged,Wrong reading
+755,Influenza,98.0,0.0,1.0,0.0,54.0,Female,110.0,72.0,124.0,0,Middle Aged,Normal
+756,Hypertensive Heart Disease,104.0,0.0,1.0,0.0,63.0,Female,130.0,83.0,195.0,0,Old,Higher Blood Pressure Stage 1
+757,Diabetes,100.40495867768595,0.0,0.0,0.0,49.0,Male,131.0,79.0,138.0,1,Middle Aged,Wrong reading
+758,Rheumatoid Arthritis,103.0,0.0,1.0,1.0,40.0,Female,127.0,96.0,190.0,0,Middle Aged,Wrong reading
+759,Eczema,95.0,0.0,0.0,1.0,28.0,Female,155.0,77.0,167.0,0,Young Adult,Wrong reading
+760,Cerebral Palsy,97.0,0.0,1.0,1.0,54.0,Male,96.0,100.0,170.0,1,Middle Aged,Wrong reading
+761,Liver Cancer,98.0,0.0,1.0,0.0,68.0,Female,151.0,76.0,193.0,0,Old,Wrong reading
+762,Asthma,102.0,0.0,1.0,0.0,33.0,Male,107.0,94.0,170.0,1,Adult,Wrong reading
+763,Liver Cancer,100.0,0.0,1.0,0.0,30.0,Male,139.0,87.0,200.0,1,Adult,Higher Blood Pressure Stage 1
+764,Stroke,100.40495867768595,1.0,1.0,0.0,62.0,Female,123.0,76.0,178.0,0,Old,Elevated
+765,Influenza,99.0,0.0,1.0,1.0,54.0,Male,133.0,79.47863247863248,128.0,1,Middle Aged,Wrong reading
+766,"Eating Disorders (Anorexia, Bulimia)",95.0,0.0,0.0,1.0,28.0,Female,118.0,68.0,201.0,0,Young Adult,Normal
+767,Hypertensive Heart Disease,103.0,0.0,1.0,0.0,79.0,Male,120.0,78.0,163.0,1,Old,Elevated
+768,Hypertensive Heart Disease,98.0,0.0,0.0,1.0,41.0,Female,105.0,80.0,172.0,0,Middle Aged,Wrong reading
+769,Autism Spectrum Disorder (ASD),101.0,1.0,1.0,1.0,66.0,Female,158.0,61.0,189.0,0,Old,Wrong reading
+770,Stroke,95.0,1.0,0.0,1.0,45.0,Male,100.0,87.0,132.0,1,Middle Aged,Wrong reading
+771,Autism Spectrum Disorder (ASD),97.0,0.0,1.0,1.0,38.0,Female,150.0,80.0,221.0,0,Adult,Wrong reading
+772,Eczema,101.0,0.0,0.0,0.0,76.0,Female,107.0,66.0,177.0,0,Old,Normal
+773,Cerebral Palsy,95.0,0.0,0.0,1.0,33.0,Female,103.0,96.0,234.0,0,Adult,Wrong reading
+774,Eczema,100.0,1.0,0.0,1.0,20.0,Male,128.0,89.0,211.0,1,Young Adult,Wrong reading
+775,Asthma,95.0,0.0,1.0,1.0,29.0,Female,111.0,62.0,150.0,0,Young Adult,Normal
+776,Autism Spectrum Disorder (ASD),102.0,1.0,1.0,0.0,43.0,Female,137.0,93.0,229.0,0,Middle Aged,Wrong reading
+777,Gastroenteritis,96.0,0.0,0.0,0.0,49.10808510638298,Male,139.0,70.0,158.0,1,Middle Aged,Wrong reading
+778,Liver Cancer,101.0,0.0,1.0,1.0,57.0,Female,94.0,60.0,171.0,0,Middle Aged,Normal
+779,Hyperthyroidism,100.0,0.0,1.0,1.0,21.0,Male,93.0,92.0,181.0,1,Young Adult,Wrong reading
+780,Eczema,102.0,0.0,1.0,1.0,38.0,Female,148.0,61.0,237.0,0,Adult,Wrong reading
+781,Bronchitis,100.40495867768595,0.0,1.0,0.0,53.0,Male,127.0,68.0,154.0,1,Middle Aged,Elevated
+782,Liver Cancer,96.0,0.0,0.0,1.0,48.0,Female,153.0,65.0,210.0,0,Middle Aged,Wrong reading
+783,Tuberculosis,101.0,1.0,0.0,1.0,49.0,Female,142.0,61.0,129.0,0,Middle Aged,Wrong reading
+784,Influenza,95.0,1.0,1.0,1.0,44.0,Male,108.0,66.0,158.0,1,Middle Aged,Normal
+785,Hypertensive Heart Disease,100.0,1.0,0.0,0.0,40.0,Female,135.0,91.0,136.0,0,Middle Aged,Wrong reading
+786,Dengue Fever,101.0,0.0,1.0,1.0,19.0,Female,137.0,61.0,182.0,0,Teen,Wrong reading
+787,Hyperthyroidism,97.0,0.0,1.0,0.0,19.0,Female,150.0,68.0,149.0,0,Teen,Wrong reading
+788,Gastroenteritis,95.0,1.0,0.0,1.0,40.0,Male,90.0,63.0,192.0,1,Middle Aged,Normal
+789,Tuberculosis,102.0,1.0,1.0,1.0,62.0,Male,112.0,70.0,126.0,1,Old,Normal
+790,Hyperthyroidism,100.40495867768595,1.0,1.0,1.0,80.0,Female,159.0,97.0,175.0,0,Old,High Blood Pressure Stage 2
+791,Diabetes,102.0,0.0,1.0,1.0,31.0,Female,112.0,77.0,224.0,0,Adult,Normal
+792,Dengue Fever,102.0,1.0,1.0,1.0,19.0,Female,129.0,81.0,197.0,0,Teen,Wrong reading
+793,Bronchitis,104.0,0.0,1.0,1.0,71.0,Female,99.0,95.0,198.0,0,Old,Wrong reading
+794,Influenza,101.0,0.0,1.0,1.0,37.0,Female,116.0,88.0,236.0,0,Adult,Wrong reading
+795,Rheumatoid Arthritis,95.0,1.0,1.0,1.0,40.0,Female,130.0,100.0,235.0,0,Middle Aged,Wrong reading
+796,Eczema,100.40495867768595,0.0,0.0,0.0,80.0,Female,142.0,78.0,233.0,0,Old,Wrong reading
+797,"Eating Disorders (Anorexia, Bulimia)",98.0,0.0,1.0,0.0,35.0,Male,147.0,81.0,173.0,1,Adult,Wrong reading
+798,Rheumatoid Arthritis,99.0,0.0,1.0,0.0,71.0,Male,112.0,62.0,164.0,1,Old,Normal
+799,Tuberculosis,100.40495867768595,1.0,1.0,1.0,52.0,Male,159.0,92.0,166.0,1,Middle Aged,High Blood Pressure Stage 2
+800,Urinary Tract Infection,102.0,0.0,0.0,1.0,69.0,Male,155.0,67.0,210.0,1,Old,Wrong reading
+801,Influenza,100.40495867768595,0.0,0.0,1.0,79.0,Male,150.0,80.0,193.0,1,Old,Wrong reading
+802,"Eating Disorders (Anorexia, Bulimia)",100.40495867768595,0.0,0.0,0.0,47.0,Female,116.0,84.0,229.0,0,Middle Aged,Wrong reading
+803,Diabetes,104.0,0.0,0.0,1.0,68.0,Male,97.0,95.0,155.0,1,Old,Wrong reading
+804,Asthma,97.0,0.0,0.0,1.0,48.0,Male,117.0,87.0,184.0,1,Middle Aged,Wrong reading
+805,Asthma,97.0,1.0,1.0,1.0,60.0,Female,144.0,90.0,162.0,0,Old,High Blood Pressure Stage 2
+806,Liver Cancer,102.0,1.0,1.0,1.0,49.10808510638298,Female,110.0,90.0,140.0,0,Middle Aged,Wrong reading
+807,Liver Cancer,99.0,1.0,1.0,0.0,67.0,Male,122.0,70.0,184.0,1,Old,Elevated
+808,Influenza,100.40495867768595,0.0,1.0,1.0,36.0,Female,153.0,82.0,206.0,0,Adult,Wrong reading
+809,Urinary Tract Infection,95.0,0.0,0.0,0.0,57.0,Female,154.0,86.0,212.0,0,Middle Aged,Wrong reading
+810,Rheumatoid Arthritis,101.0,0.0,1.0,1.0,67.0,Female,124.0,85.0,169.0,0,Old,Wrong reading
+811,Cerebral Palsy,100.0,0.0,1.0,1.0,78.0,Female,103.0,90.0,224.0,0,Old,Wrong reading
+812,Hypertensive Heart Disease,99.0,0.0,1.0,1.0,53.0,Female,105.0,95.0,169.0,0,Middle Aged,Wrong reading
+813,Hyperthyroidism,99.0,0.0,1.0,1.0,54.0,Female,121.0,79.47863247863248,200.0,0,Middle Aged,Elevated
+814,Gastroenteritis,102.0,1.0,0.0,0.0,45.0,Female,151.0,87.0,229.0,0,Middle Aged,Wrong reading
+815,Autism Spectrum Disorder (ASD),103.0,1.0,1.0,1.0,51.0,Male,153.0,97.0,175.0,1,Middle Aged,High Blood Pressure Stage 2
+816,Rheumatoid Arthritis,99.0,0.0,1.0,1.0,22.0,Female,142.0,83.0,186.0,0,Young Adult,Wrong reading
+817,Dengue Fever,103.0,0.0,0.0,0.0,27.0,Female,139.0,82.0,176.0,0,Young Adult,Higher Blood Pressure Stage 1
+818,Liver Cancer,99.0,0.0,0.0,1.0,45.0,Female,93.0,77.0,184.0,0,Middle Aged,Normal
+819,Bronchitis,100.0,0.0,1.0,1.0,51.0,Female,154.0,67.0,151.0,0,Middle Aged,Wrong reading
+820,Bronchitis,95.0,0.0,0.0,1.0,43.0,Male,144.0,73.0,237.0,1,Middle Aged,Wrong reading
+821,Stroke,103.0,0.0,1.0,0.0,61.0,Female,122.0,91.0,142.0,0,Old,Wrong reading
+822,Hyperthyroidism,95.0,1.0,1.0,1.0,30.0,Male,97.0,99.0,187.0,1,Adult,Wrong reading
+823,Asthma,99.0,0.0,1.0,0.0,48.0,Male,101.0,60.0,218.0,1,Middle Aged,Normal
+824,Migraine,101.0,0.0,0.0,1.0,21.0,Male,145.0,64.0,198.0,1,Young Adult,Wrong reading
+825,Bronchitis,104.0,0.0,1.0,0.0,35.0,Female,106.0,77.0,233.0,0,Adult,Normal
+826,Cerebral Palsy,100.40495867768595,0.0,0.0,1.0,33.0,Female,90.0,63.0,191.0,0,Adult,Normal
+827,Hypertensive Heart Disease,98.0,0.0,1.0,0.0,52.0,Female,94.0,67.0,205.0,0,Middle Aged,Normal
+828,Autism Spectrum Disorder (ASD),95.0,0.0,0.0,0.0,66.0,Male,90.0,84.0,141.0,1,Old,Wrong reading
+829,Stroke,103.0,0.0,0.0,0.0,36.0,Male,126.0,96.0,151.0,1,Adult,Wrong reading
+830,Hyperthyroidism,96.0,0.0,0.0,1.0,38.0,Male,157.0,93.0,175.0,1,Adult,High Blood Pressure Stage 2
+831,Tuberculosis,100.0,0.0,1.0,0.0,45.0,Female,148.0,70.0,238.0,0,Middle Aged,Wrong reading
+832,Migraine,100.40495867768595,0.0,1.0,1.0,66.0,Female,149.0,82.0,139.0,0,Old,Wrong reading
+833,Migraine,96.0,0.0,1.0,1.0,27.0,Male,142.0,60.0,240.0,1,Young Adult,Wrong reading
+834,Influenza,98.0,1.0,1.0,0.0,68.0,Female,100.0,92.0,212.0,0,Old,Wrong reading
+835,Influenza,97.0,0.0,1.0,1.0,58.0,Male,125.89282700421941,93.0,199.0,1,Middle Aged,Wrong reading
+836,Eczema,104.0,1.0,1.0,0.0,57.0,Female,148.0,61.0,158.0,0,Middle Aged,Wrong reading
+837,Asthma,103.0,0.0,0.0,0.0,54.0,Female,105.0,67.0,214.0,0,Middle Aged,Normal
+838,Rheumatoid Arthritis,97.0,0.0,1.0,0.0,41.0,Male,149.0,84.0,124.0,1,Middle Aged,Wrong reading
+839,Tuberculosis,104.0,0.0,0.0,0.0,45.0,Female,157.0,94.0,123.0,0,Middle Aged,High Blood Pressure Stage 2
+840,Hyperthyroidism,95.0,0.0,1.0,0.0,51.0,Female,107.0,75.0,180.0,0,Middle Aged,Normal
+841,Cerebral Palsy,103.0,0.0,1.0,1.0,47.0,Male,112.0,70.0,213.0,1,Middle Aged,Normal
+842,Influenza,103.0,1.0,0.0,0.0,41.0,Female,128.0,86.0,190.0,0,Middle Aged,Wrong reading
+843,Eczema,102.0,0.0,1.0,1.0,26.0,Female,152.0,63.0,222.0,0,Young Adult,Wrong reading
+844,Autism Spectrum Disorder (ASD),98.0,0.0,1.0,0.0,23.0,Male,139.0,66.0,154.0,1,Young Adult,Wrong reading
+845,Tuberculosis,97.0,0.0,1.0,1.0,33.0,Male,159.0,70.0,229.0,1,Adult,Wrong reading
+846,Diabetes,95.0,0.0,1.0,1.0,68.0,Female,118.0,64.0,159.0,0,Old,Normal
+847,Hypertensive Heart Disease,95.0,0.0,1.0,1.0,53.0,Female,142.0,79.47863247863248,188.0,0,Middle Aged,Wrong reading
+848,"Eating Disorders (Anorexia, Bulimia)",101.0,1.0,0.0,0.0,77.0,Female,133.0,93.0,164.0,0,Old,Wrong reading
+849,Urinary Tract Infection,97.0,1.0,0.0,1.0,60.0,Female,157.0,83.0,223.0,0,Old,Wrong reading
+850,Diabetes,101.0,0.0,0.0,0.0,57.0,Male,95.0,63.0,177.0,1,Middle Aged,Normal
+851,Hypertensive Heart Disease,103.0,0.0,1.0,1.0,49.10808510638298,Female,151.0,61.0,188.0,0,Middle Aged,Wrong reading
+852,Eczema,103.0,0.0,0.0,1.0,49.0,Female,118.0,93.0,225.0,0,Middle Aged,Wrong reading
+853,Rheumatoid Arthritis,100.0,0.0,1.0,0.0,60.0,Female,119.0,94.0,192.0,0,Old,Wrong reading
+854,Bronchitis,102.0,1.0,1.0,0.0,60.0,Female,154.0,78.0,123.0,0,Old,Wrong reading
+855,Hypertensive Heart Disease,95.0,0.0,1.0,1.0,35.0,Female,130.0,98.0,199.0,0,Adult,Wrong reading
+856,Dengue Fever,104.0,1.0,1.0,1.0,75.0,Male,145.0,92.0,135.0,1,Old,High Blood Pressure Stage 2
+857,Hypertensive Heart Disease,95.0,1.0,1.0,1.0,75.0,Female,115.0,94.0,178.0,0,Old,Wrong reading
+858,Influenza,103.0,0.0,1.0,1.0,65.0,Female,106.0,84.0,120.0,0,Old,Wrong reading
+859,Dengue Fever,99.0,0.0,0.0,1.0,48.0,Female,127.0,87.0,212.0,0,Middle Aged,Wrong reading
+860,Dengue Fever,104.0,1.0,1.0,1.0,27.0,Female,157.0,84.0,239.0,0,Young Adult,Wrong reading
+861,Liver Cancer,99.0,0.0,1.0,1.0,70.0,Female,136.0,84.0,139.0,0,Old,Higher Blood Pressure Stage 1
+862,"Eating Disorders (Anorexia, Bulimia)",101.0,0.0,1.0,1.0,74.0,Female,104.0,70.0,127.0,0,Old,Normal
+863,Psoriasis,102.0,0.0,0.0,0.0,49.0,Female,137.0,79.0,187.0,0,Middle Aged,Wrong reading
+864,Gastroenteritis,104.0,0.0,0.0,1.0,78.0,Female,114.0,85.0,228.0,0,Old,Wrong reading
+865,Rheumatoid Arthritis,104.0,0.0,1.0,1.0,31.0,Male,154.0,68.0,150.0,1,Adult,Wrong reading
+866,Migraine,100.40495867768595,0.0,1.0,1.0,71.0,Female,145.0,65.0,213.0,0,Old,Wrong reading
+867,Eczema,98.0,0.0,1.0,0.0,24.0,Female,157.0,98.0,163.0,0,Young Adult,High Blood Pressure Stage 2
+868,Hyperthyroidism,101.0,0.0,1.0,0.0,69.0,Female,110.0,64.0,172.0,0,Old,Normal
+869,Psoriasis,98.0,1.0,1.0,1.0,49.10808510638298,Female,127.0,76.0,215.0,0,Middle Aged,Elevated
+870,Influenza,100.40495867768595,0.0,1.0,0.0,53.0,Male,106.0,90.0,199.0,1,Middle Aged,Wrong reading
+871,Eczema,103.0,0.0,1.0,1.0,57.0,Male,128.0,81.0,201.0,1,Middle Aged,Wrong reading
+872,Hypertensive Heart Disease,95.0,1.0,1.0,1.0,40.0,Female,108.0,84.0,171.0,0,Middle Aged,Wrong reading
+873,Urinary Tract Infection,98.0,0.0,1.0,1.0,29.0,Female,139.0,62.0,136.0,0,Young Adult,Wrong reading
+874,Bronchitis,101.0,1.0,0.0,1.0,33.0,Female,96.0,80.0,129.0,0,Adult,Wrong reading
+875,Asthma,99.0,0.0,0.0,0.0,19.0,Female,145.0,63.0,234.0,0,Teen,Wrong reading
+876,Autism Spectrum Disorder (ASD),101.0,1.0,1.0,0.0,57.0,Female,110.0,71.0,231.0,0,Middle Aged,Normal
+877,Asthma,100.40495867768595,1.0,1.0,1.0,63.0,Female,151.0,82.0,134.0,0,Old,Wrong reading
+878,Eczema,102.0,1.0,0.0,1.0,77.0,Female,156.0,82.0,151.0,0,Old,Wrong reading
+879,Gastroenteritis,101.0,1.0,1.0,0.0,55.0,Female,90.0,72.0,150.0,0,Middle Aged,Normal
+880,Urinary Tract Infection,101.0,0.0,1.0,0.0,43.0,Female,119.0,87.0,169.0,0,Middle Aged,Wrong reading
+881,"Eating Disorders (Anorexia, Bulimia)",99.0,1.0,0.0,1.0,66.0,Male,150.0,79.0,205.0,1,Old,Wrong reading
+882,Cerebral Palsy,102.0,0.0,0.0,1.0,41.0,Male,126.0,99.0,136.0,1,Middle Aged,Wrong reading
+883,Rheumatoid Arthritis,95.0,0.0,1.0,0.0,35.0,Female,150.0,83.0,177.0,0,Adult,Wrong reading
+884,Bronchitis,103.0,0.0,1.0,1.0,61.0,Female,152.0,69.0,217.0,0,Old,Wrong reading
+885,Gastroenteritis,100.0,1.0,0.0,1.0,45.0,Female,112.0,79.47863247863248,141.0,0,Middle Aged,Normal
+886,Dengue Fever,100.0,1.0,0.0,0.0,47.0,Female,122.0,77.0,209.0,0,Middle Aged,Elevated
+887,Liver Cancer,100.0,0.0,1.0,1.0,76.0,Female,135.0,97.0,167.0,0,Old,Wrong reading
+888,Dengue Fever,103.0,0.0,1.0,0.0,45.0,Male,140.0,71.0,236.0,1,Middle Aged,Wrong reading
+889,Stroke,95.0,0.0,1.0,1.0,37.0,Male,100.0,85.0,237.0,1,Adult,Wrong reading
+890,Gastroenteritis,104.0,1.0,1.0,1.0,30.0,Male,151.0,67.0,148.0,1,Adult,Wrong reading
+891,Eczema,101.0,0.0,1.0,0.0,74.0,Male,125.89282700421941,74.0,138.0,1,Old,Elevated
+892,Bronchitis,99.0,0.0,1.0,1.0,70.0,Female,104.0,77.0,163.0,0,Old,Normal
+893,Chickenpox,101.0,0.0,0.0,1.0,80.0,Female,147.0,85.0,191.0,0,Old,Wrong reading
+894,Cerebral Palsy,102.0,0.0,0.0,0.0,79.0,Male,156.0,79.0,199.0,1,Old,Wrong reading
+895,Urinary Tract Infection,96.0,0.0,0.0,1.0,62.0,Female,152.0,84.0,214.0,0,Old,Wrong reading
+896,Psoriasis,100.0,0.0,1.0,1.0,53.0,Female,124.0,95.0,203.0,0,Middle Aged,Wrong reading
+897,Hyperthyroidism,103.0,1.0,0.0,0.0,55.0,Female,111.0,79.47863247863248,231.0,0,Middle Aged,Normal
+898,"Eating Disorders (Anorexia, Bulimia)",101.0,0.0,1.0,0.0,78.0,Female,135.0,74.0,193.0,0,Old,Wrong reading
+899,Tuberculosis,95.0,1.0,0.0,0.0,19.0,Female,124.0,90.0,211.0,0,Teen,Wrong reading
+900,Gastroenteritis,101.0,0.0,1.0,0.0,35.0,Female,146.0,84.0,185.0,0,Adult,Wrong reading
+901,Autism Spectrum Disorder (ASD),95.0,0.0,0.0,1.0,76.0,Female,142.0,83.0,214.0,0,Old,Wrong reading
+902,Asthma,96.0,0.0,1.0,1.0,57.0,Male,126.0,82.0,164.0,1,Middle Aged,Wrong reading
+903,Dengue Fever,99.0,0.0,0.0,1.0,77.0,Male,123.0,90.0,221.0,1,Old,Wrong reading
+904,Stroke,99.0,0.0,0.0,0.0,65.0,Female,129.0,60.0,236.0,0,Old,Elevated
+905,Hypertensive Heart Disease,96.0,0.0,1.0,1.0,63.0,Male,137.0,73.0,233.0,1,Old,Wrong reading
+906,Bronchitis,96.0,1.0,0.0,0.0,36.0,Female,150.0,93.0,219.0,0,Adult,High Blood Pressure Stage 2
+907,Diabetes,100.0,1.0,1.0,0.0,49.0,Female,141.0,61.0,209.0,0,Middle Aged,Wrong reading
+908,Dengue Fever,100.40495867768595,0.0,1.0,1.0,66.0,Male,143.0,81.0,165.0,1,Old,Wrong reading
+909,Gastroenteritis,100.40495867768595,1.0,0.0,1.0,33.0,Female,134.0,93.0,149.0,0,Adult,Wrong reading
+910,"Eating Disorders (Anorexia, Bulimia)",97.0,1.0,1.0,0.0,57.0,Female,95.0,98.0,198.0,0,Middle Aged,Wrong reading
+911,Migraine,98.0,0.0,1.0,1.0,75.0,Female,103.0,93.0,135.0,0,Old,Wrong reading
+912,Tuberculosis,102.0,0.0,1.0,0.0,56.0,Male,152.0,65.0,161.0,1,Middle Aged,Wrong reading
+913,Migraine,101.0,1.0,0.0,1.0,36.0,Male,117.0,79.0,134.0,1,Adult,Normal
+914,Dengue Fever,100.0,1.0,1.0,1.0,45.0,Female,96.0,77.0,221.0,0,Middle Aged,Normal
+915,Hyperthyroidism,100.40495867768595,0.0,0.0,1.0,36.0,Female,94.0,98.0,133.0,0,Adult,Wrong reading
+916,Eczema,97.0,0.0,1.0,0.0,62.0,Male,154.0,76.0,181.0,1,Old,Wrong reading
+917,Cerebral Palsy,104.0,0.0,1.0,1.0,39.0,Female,142.0,69.0,132.0,0,Adult,Wrong reading
+918,Autism Spectrum Disorder (ASD),96.0,0.0,1.0,1.0,51.0,Female,110.0,82.0,141.0,0,Middle Aged,Wrong reading
+919,Tuberculosis,100.40495867768595,1.0,1.0,1.0,53.0,Male,135.0,70.0,168.0,1,Middle Aged,Wrong reading
+920,Bronchitis,99.0,1.0,1.0,1.0,60.0,Female,143.0,90.0,212.0,0,Old,High Blood Pressure Stage 2
+921,Asthma,104.0,0.0,1.0,1.0,46.0,Male,156.0,62.0,144.0,1,Middle Aged,Wrong reading
+922,"Eating Disorders (Anorexia, Bulimia)",100.40495867768595,0.0,1.0,1.0,77.0,Female,103.0,82.0,151.0,0,Old,Wrong reading
+923,Asthma,104.0,1.0,1.0,0.0,66.0,Female,145.0,68.0,237.0,0,Old,Wrong reading
+924,Chickenpox,100.0,0.0,1.0,1.0,54.0,Male,147.0,68.0,192.0,1,Middle Aged,Wrong reading
+925,Bronchitis,104.0,0.0,1.0,1.0,20.0,Female,127.0,99.0,120.0,0,Young Adult,Wrong reading
+926,Chickenpox,97.0,1.0,1.0,0.0,36.0,Female,121.0,84.0,238.0,0,Adult,Wrong reading
+927,Rheumatoid Arthritis,100.40495867768595,0.0,1.0,1.0,55.0,Female,151.0,63.0,155.0,0,Middle Aged,Wrong reading
+928,Stroke,100.40495867768595,0.0,1.0,0.0,33.0,Female,152.0,68.0,170.0,0,Adult,Wrong reading
+929,Eczema,101.0,0.0,1.0,1.0,42.0,Male,101.0,86.0,199.0,1,Middle Aged,Wrong reading
+930,Influenza,97.0,0.0,1.0,1.0,42.0,Female,120.0,89.0,180.0,0,Middle Aged,Wrong reading
+931,Tuberculosis,97.0,0.0,1.0,1.0,21.0,Male,118.0,90.0,180.0,1,Young Adult,Wrong reading
+932,Rheumatoid Arthritis,96.0,0.0,1.0,1.0,31.0,Female,120.0,70.0,193.0,0,Adult,Elevated
+933,Migraine,100.0,0.0,0.0,0.0,24.0,Female,123.0,86.0,201.0,0,Young Adult,Wrong reading
+934,Stroke,104.0,0.0,1.0,1.0,48.0,Female,98.0,79.47863247863248,150.0,0,Middle Aged,Normal
+935,Cerebral Palsy,104.0,0.0,1.0,0.0,67.0,Female,142.0,92.0,233.0,0,Old,High Blood Pressure Stage 2
+936,Liver Cancer,96.0,0.0,1.0,1.0,44.0,Female,99.0,62.0,142.0,0,Middle Aged,Normal
+937,"Eating Disorders (Anorexia, Bulimia)",100.0,0.0,1.0,1.0,36.0,Female,101.0,81.0,185.0,0,Adult,Wrong reading
+938,Stroke,104.0,0.0,1.0,0.0,50.0,Female,141.0,69.0,183.0,0,Middle Aged,Wrong reading
+939,Hyperthyroidism,100.0,1.0,1.0,0.0,20.0,Female,101.0,99.0,223.0,0,Young Adult,Wrong reading
+940,Liver Cancer,102.0,0.0,0.0,1.0,43.0,Male,154.0,95.0,198.0,1,Middle Aged,High Blood Pressure Stage 2
+941,Cerebral Palsy,97.0,1.0,0.0,1.0,53.0,Female,141.0,61.0,191.0,0,Middle Aged,Wrong reading
+942,Diabetes,104.0,1.0,0.0,1.0,73.0,Male,138.0,69.0,164.0,1,Old,Wrong reading
+943,Chickenpox,103.0,0.0,0.0,1.0,64.0,Male,105.0,66.0,224.0,1,Old,Normal
+944,Stroke,97.0,0.0,0.0,1.0,77.0,Male,158.0,72.0,175.0,1,Old,Wrong reading
+945,Dengue Fever,97.0,0.0,1.0,1.0,49.0,Female,122.0,82.0,162.0,0,Middle Aged,Wrong reading
+946,Liver Cancer,96.0,0.0,1.0,0.0,74.0,Female,93.0,73.0,180.0,0,Old,Normal
+947,Autism Spectrum Disorder (ASD),102.0,0.0,1.0,1.0,72.0,Female,113.0,66.0,211.0,0,Old,Normal
+948,Chickenpox,99.0,0.0,0.0,1.0,41.0,Female,94.0,95.0,136.0,0,Middle Aged,Wrong reading
+949,Bronchitis,100.0,1.0,0.0,1.0,45.0,Female,159.0,68.0,127.0,0,Middle Aged,Wrong reading
+950,Cerebral Palsy,100.40495867768595,0.0,1.0,1.0,21.0,Female,112.0,71.0,216.0,0,Young Adult,Normal
+951,Dengue Fever,98.0,0.0,1.0,1.0,24.0,Male,101.0,82.0,239.0,1,Young Adult,Wrong reading
+952,Tuberculosis,95.0,1.0,0.0,1.0,23.0,Female,91.0,76.0,131.0,0,Young Adult,Normal
+953,Asthma,103.0,0.0,0.0,1.0,47.0,Female,139.0,62.0,185.0,0,Middle Aged,Wrong reading
+954,Psoriasis,95.0,1.0,1.0,0.0,48.0,Female,157.0,75.0,224.0,0,Middle Aged,Wrong reading
+955,Eczema,100.0,0.0,1.0,1.0,37.0,Female,149.0,63.0,178.0,0,Adult,Wrong reading
+956,Autism Spectrum Disorder (ASD),99.0,1.0,0.0,1.0,33.0,Male,154.0,81.0,238.0,1,Adult,Wrong reading
+957,Tuberculosis,101.0,0.0,1.0,1.0,32.0,Female,121.0,92.0,226.0,0,Adult,Wrong reading
+958,Bronchitis,102.0,1.0,0.0,0.0,55.0,Female,90.0,96.0,209.0,0,Middle Aged,Wrong reading
+959,Psoriasis,100.40495867768595,0.0,1.0,1.0,76.0,Male,142.0,82.0,146.0,1,Old,Wrong reading
+960,Tuberculosis,101.0,1.0,1.0,1.0,69.0,Male,113.0,88.0,194.0,1,Old,Wrong reading
+961,Bronchitis,103.0,1.0,1.0,0.0,48.0,Female,115.0,82.0,126.0,0,Middle Aged,Wrong reading
+962,Asthma,98.0,0.0,1.0,1.0,69.0,Female,111.0,99.0,194.0,0,Old,Wrong reading
+963,Cerebral Palsy,98.0,0.0,0.0,1.0,48.0,Female,123.0,81.0,147.0,0,Middle Aged,Wrong reading
+964,Influenza,103.0,0.0,1.0,0.0,54.0,Female,108.0,96.0,157.0,0,Middle Aged,Wrong reading
+965,Chickenpox,99.0,1.0,1.0,1.0,45.0,Female,90.0,66.0,231.0,0,Middle Aged,Normal
+966,Asthma,100.40495867768595,1.0,1.0,1.0,57.0,Female,151.0,69.0,193.0,0,Middle Aged,Wrong reading
+967,Liver Cancer,95.0,0.0,1.0,0.0,22.0,Female,113.0,64.0,130.0,0,Young Adult,Normal
+968,"Eating Disorders (Anorexia, Bulimia)",100.0,0.0,0.0,0.0,49.0,Female,93.0,79.47863247863248,125.0,0,Middle Aged,Normal
+969,Urinary Tract Infection,104.0,1.0,1.0,1.0,36.0,Female,122.0,63.0,191.0,0,Adult,Elevated
+970,Tuberculosis,104.0,0.0,1.0,1.0,45.0,Female,114.0,80.0,148.0,0,Middle Aged,Wrong reading
+971,Dengue Fever,102.0,0.0,1.0,1.0,50.0,Female,103.0,68.0,153.0,0,Middle Aged,Normal
+972,Stroke,96.0,0.0,0.0,0.0,27.0,Female,136.0,78.0,220.0,0,Young Adult,Wrong reading
+973,Diabetes,95.0,0.0,1.0,1.0,53.0,Female,159.0,82.0,176.0,0,Middle Aged,Wrong reading
+974,Hyperthyroidism,98.0,0.0,1.0,1.0,72.0,Female,158.0,100.0,175.0,0,Old,High Blood Pressure Stage 2
+975,Migraine,103.0,0.0,1.0,0.0,71.0,Female,149.0,62.0,207.0,0,Old,Wrong reading
+976,Rheumatoid Arthritis,99.0,0.0,1.0,1.0,65.0,Female,126.0,98.0,129.0,0,Old,Wrong reading
+977,Rheumatoid Arthritis,97.0,0.0,0.0,1.0,37.0,Female,91.0,95.0,179.0,0,Adult,Wrong reading
+978,Hypertensive Heart Disease,96.0,0.0,0.0,1.0,58.0,Female,126.0,68.0,216.0,0,Middle Aged,Elevated
+979,Gastroenteritis,96.0,0.0,1.0,1.0,18.0,Female,143.0,92.0,164.0,0,Teen,High Blood Pressure Stage 2
+980,Stroke,100.0,0.0,1.0,0.0,44.0,Female,109.0,89.0,190.0,0,Middle Aged,Wrong reading
+981,Chickenpox,104.0,0.0,1.0,1.0,74.0,Female,155.0,85.0,182.0,0,Old,Wrong reading
+982,Influenza,97.0,0.0,1.0,1.0,53.0,Female,140.0,81.0,154.0,0,Middle Aged,Wrong reading
+983,Rheumatoid Arthritis,100.40495867768595,0.0,0.0,1.0,42.0,Female,136.0,85.0,125.0,0,Middle Aged,Higher Blood Pressure Stage 1
+984,Hyperthyroidism,104.0,1.0,1.0,1.0,27.0,Male,105.0,78.0,239.0,1,Young Adult,Normal
+985,Autism Spectrum Disorder (ASD),104.0,1.0,1.0,1.0,31.0,Female,153.0,96.0,225.0,0,Adult,High Blood Pressure Stage 2
+986,Dengue Fever,104.0,0.0,1.0,1.0,49.10808510638298,Female,156.0,61.0,178.18776194467728,0,Middle Aged,Wrong reading
+987,Eczema,100.40495867768595,0.0,1.0,1.0,61.0,Male,154.0,100.0,151.0,1,Old,High Blood Pressure Stage 2
+988,Hyperthyroidism,103.0,0.0,0.0,1.0,77.0,Female,155.0,87.0,182.0,0,Old,Wrong reading
+989,Stroke,104.0,1.0,0.0,0.0,64.0,Male,155.0,76.0,141.0,1,Old,Wrong reading
+990,Psoriasis,96.0,0.0,1.0,0.0,69.0,Female,91.0,99.0,190.0,0,Old,Wrong reading
+991,Eczema,104.0,0.0,1.0,0.0,74.0,Female,95.0,61.0,124.0,0,Old,Normal
+992,Chickenpox,98.0,1.0,1.0,1.0,75.0,Female,131.0,79.0,147.0,0,Old,Wrong reading
+993,Liver Cancer,98.0,1.0,1.0,1.0,56.0,Female,159.0,76.0,137.0,0,Middle Aged,Wrong reading
+994,Stroke,100.40495867768595,0.0,0.0,1.0,42.0,Male,133.0,67.0,189.0,1,Middle Aged,Wrong reading
+995,Hypertensive Heart Disease,100.40495867768595,1.0,1.0,1.0,48.0,Male,105.0,91.0,148.0,1,Middle Aged,Wrong reading
+996,Chickenpox,100.40495867768595,1.0,1.0,1.0,61.0,Female,118.0,64.0,187.0,0,Old,Normal
+997,Chickenpox,100.40495867768595,1.0,1.0,1.0,70.0,Male,111.0,88.0,226.0,1,Old,Wrong reading
+998,Autism Spectrum Disorder (ASD),103.0,0.0,1.0,0.0,41.0,Female,148.0,96.0,205.0,0,Middle Aged,High Blood Pressure Stage 2
+999,Autism Spectrum Disorder (ASD),100.40495867768595,1.0,1.0,1.0,57.0,Female,158.0,72.0,231.0,0,Middle Aged,Wrong reading
+1000,Eczema,99.0,0.0,1.0,1.0,48.0,Female,134.0,87.0,125.0,0,Middle Aged,Higher Blood Pressure Stage 1
+1001,Stroke,96.0,1.0,1.0,0.0,78.0,Male,124.0,80.0,229.0,1,Old,Wrong reading
+1002,Rheumatoid Arthritis,103.0,0.0,0.0,1.0,62.0,Female,158.0,97.0,178.18776194467728,0,Old,High Blood Pressure Stage 2
+1003,Autism Spectrum Disorder (ASD),100.40495867768595,1.0,1.0,0.0,58.0,Female,100.0,66.0,218.0,0,Middle Aged,Normal
+1004,Liver Cancer,98.0,0.0,0.0,1.0,49.10808510638298,Female,124.0,66.0,219.0,0,Middle Aged,Elevated
+1005,Urinary Tract Infection,103.0,0.0,0.0,0.0,72.0,Female,131.0,70.0,147.0,0,Old,Wrong reading
+1006,Psoriasis,104.0,0.0,1.0,1.0,71.0,Male,114.0,63.0,208.0,1,Old,Normal
+1007,Cerebral Palsy,95.0,0.0,1.0,1.0,48.0,Male,118.0,61.0,215.0,1,Middle Aged,Normal
+1008,Diabetes,104.0,1.0,1.0,1.0,64.0,Male,123.0,91.0,240.0,1,Old,Wrong reading
+1009,Autism Spectrum Disorder (ASD),104.0,0.0,1.0,1.0,40.0,Male,98.0,73.0,202.0,1,Middle Aged,Normal
+1010,Chickenpox,101.0,0.0,1.0,1.0,54.0,Female,160.0,84.0,136.0,0,Middle Aged,Wrong reading
+1011,Dengue Fever,99.0,0.0,0.0,1.0,68.0,Female,150.0,86.0,145.0,0,Old,Wrong reading
+1012,Rheumatoid Arthritis,99.0,0.0,0.0,1.0,45.0,Female,113.0,90.0,175.0,0,Middle Aged,Wrong reading
+1013,Hypertensive Heart Disease,102.0,0.0,0.0,0.0,70.0,Female,160.0,80.0,180.0,0,Old,Wrong reading
+1014,Rheumatoid Arthritis,96.0,0.0,1.0,1.0,48.0,Female,115.0,81.0,131.0,0,Middle Aged,Wrong reading
+1015,Dengue Fever,98.0,0.0,1.0,1.0,41.0,Male,90.0,88.0,125.0,1,Middle Aged,Wrong reading
+1016,Autism Spectrum Disorder (ASD),99.0,1.0,1.0,1.0,25.0,Female,136.0,86.0,234.0,0,Young Adult,Higher Blood Pressure Stage 1
+1017,Hyperthyroidism,101.0,0.0,1.0,1.0,43.0,Female,96.0,87.0,163.0,0,Middle Aged,Wrong reading
+1018,Bronchitis,104.0,0.0,1.0,1.0,48.0,Female,101.0,93.0,173.0,0,Middle Aged,Wrong reading
+1019,Hyperthyroidism,101.0,0.0,0.0,0.0,56.0,Female,95.0,60.0,182.0,0,Middle Aged,Normal
+1020,Stroke,98.0,0.0,1.0,1.0,32.0,Female,130.0,68.0,194.0,0,Adult,Wrong reading
+1021,Tuberculosis,100.40495867768595,1.0,0.0,1.0,46.0,Male,97.0,69.0,219.0,1,Middle Aged,Normal
+1022,Dengue Fever,97.0,1.0,0.0,0.0,71.0,Female,117.0,63.0,121.0,0,Old,Normal
+1023,Chickenpox,101.0,0.0,1.0,0.0,78.0,Female,155.0,61.0,127.0,0,Old,Wrong reading
+1024,Chickenpox,96.0,0.0,0.0,0.0,67.0,Male,150.0,80.0,141.0,1,Old,Wrong reading
+1025,Migraine,104.0,1.0,0.0,0.0,71.0,Female,158.0,100.0,129.0,0,Old,High Blood Pressure Stage 2
+1026,Chickenpox,95.0,0.0,1.0,1.0,40.0,Female,157.0,68.0,218.0,0,Middle Aged,Wrong reading
+1027,Influenza,100.40495867768595,0.0,1.0,1.0,19.0,Female,154.0,92.0,158.0,0,Teen,High Blood Pressure Stage 2
+1028,Liver Cancer,97.0,0.0,1.0,1.0,27.0,Female,104.0,99.0,145.0,0,Young Adult,Wrong reading
+1029,Hypertensive Heart Disease,97.0,0.0,1.0,0.0,48.0,Female,115.0,83.0,173.0,0,Middle Aged,Wrong reading
+1030,Diabetes,100.0,0.0,1.0,1.0,76.0,Female,125.0,94.0,164.0,0,Old,Wrong reading
+1031,Eczema,100.40495867768595,1.0,1.0,1.0,62.0,Female,119.0,92.0,229.0,0,Old,Wrong reading
+1032,Rheumatoid Arthritis,97.0,0.0,0.0,0.0,41.0,Female,97.0,97.0,148.0,0,Middle Aged,Wrong reading
+1033,Gastroenteritis,97.0,0.0,1.0,1.0,77.0,Female,159.0,63.0,181.0,0,Old,Wrong reading
+1034,Hyperthyroidism,95.0,0.0,1.0,1.0,67.0,Male,93.0,77.0,224.0,1,Old,Normal
+1035,Chickenpox,101.0,1.0,0.0,0.0,78.0,Female,146.0,82.0,134.0,0,Old,Wrong reading
+1036,Psoriasis,98.0,0.0,1.0,0.0,73.0,Female,109.0,74.0,150.0,0,Old,Normal
+1037,Asthma,100.40495867768595,1.0,0.0,1.0,54.0,Male,140.0,62.0,222.0,1,Middle Aged,Wrong reading
+1038,Dengue Fever,98.0,0.0,0.0,1.0,22.0,Female,143.0,66.0,183.0,0,Young Adult,Wrong reading
+1039,Influenza,99.0,0.0,0.0,1.0,57.0,Female,153.0,96.0,192.0,0,Middle Aged,High Blood Pressure Stage 2
+1040,Influenza,102.0,0.0,1.0,1.0,44.0,Male,155.0,63.0,152.0,1,Middle Aged,Wrong reading
+1041,Autism Spectrum Disorder (ASD),102.0,0.0,1.0,0.0,68.0,Male,145.0,89.0,172.0,1,Old,Wrong reading
+1042,"Eating Disorders (Anorexia, Bulimia)",97.0,0.0,1.0,0.0,54.0,Female,106.0,60.0,206.0,0,Middle Aged,Normal
+1043,"Eating Disorders (Anorexia, Bulimia)",95.0,0.0,0.0,1.0,24.0,Male,90.0,60.0,137.0,1,Young Adult,Normal
+1044,Hypertensive Heart Disease,103.0,1.0,1.0,0.0,21.0,Male,132.0,89.0,143.0,1,Young Adult,Higher Blood Pressure Stage 1
+1045,Liver Cancer,100.0,0.0,1.0,0.0,41.0,Female,96.0,85.0,143.0,0,Middle Aged,Wrong reading
+1046,Influenza,98.0,1.0,1.0,1.0,48.0,Male,129.0,79.47863247863248,159.0,1,Middle Aged,Elevated
+1047,Urinary Tract Infection,104.0,0.0,0.0,1.0,49.10808510638298,Female,160.0,96.0,192.0,0,Middle Aged,High Blood Pressure Stage 2
+1048,Liver Cancer,102.0,0.0,1.0,1.0,57.0,Male,98.0,75.0,184.0,1,Middle Aged,Normal
+1049,Cerebral Palsy,102.0,1.0,1.0,1.0,79.0,Female,133.0,76.0,160.0,0,Old,Wrong reading
+1050,Hypertensive Heart Disease,104.0,0.0,0.0,0.0,49.10808510638298,Female,132.0,60.0,156.0,0,Middle Aged,Wrong reading
+1051,Hyperthyroidism,97.0,1.0,1.0,1.0,72.0,Female,127.0,77.0,120.0,0,Old,Elevated
+1052,Tuberculosis,95.0,0.0,0.0,1.0,71.0,Female,147.0,92.0,128.0,0,Old,High Blood Pressure Stage 2
+1053,Psoriasis,100.0,0.0,0.0,1.0,29.0,Female,125.89282700421941,92.0,204.0,0,Young Adult,Wrong reading
+1054,Influenza,98.0,0.0,1.0,1.0,35.0,Female,134.0,95.0,217.0,0,Adult,Wrong reading
+1055,Autism Spectrum Disorder (ASD),95.0,0.0,0.0,0.0,44.0,Female,128.0,65.0,181.0,0,Middle Aged,Elevated
+1056,Gastroenteritis,102.0,1.0,1.0,0.0,36.0,Female,146.0,79.0,171.0,0,Adult,Wrong reading
+1057,Psoriasis,102.0,1.0,0.0,1.0,65.0,Male,131.0,71.0,153.0,1,Old,Wrong reading
+1058,Asthma,95.0,0.0,1.0,1.0,80.0,Male,124.0,90.0,215.0,1,Old,Wrong reading
+1059,Hypertensive Heart Disease,102.0,0.0,0.0,0.0,28.0,Female,108.0,83.0,197.0,0,Young Adult,Wrong reading
+1060,"Eating Disorders (Anorexia, Bulimia)",101.0,0.0,1.0,1.0,46.0,Male,125.89282700421941,71.0,236.0,1,Middle Aged,Elevated
+1061,Dengue Fever,100.0,0.0,0.0,1.0,18.0,Female,130.0,79.47863247863248,209.0,0,Teen,Wrong reading
+1062,Rheumatoid Arthritis,104.0,0.0,0.0,1.0,77.0,Female,141.0,60.0,227.0,0,Old,Wrong reading
+1063,Rheumatoid Arthritis,98.0,0.0,1.0,0.0,23.0,Male,120.0,74.0,160.0,1,Young Adult,Elevated
+1064,Diabetes,104.0,0.0,0.0,1.0,77.0,Male,154.0,80.0,121.0,1,Old,Wrong reading
+1065,Rheumatoid Arthritis,95.0,1.0,1.0,1.0,59.0,Male,115.0,92.0,200.0,1,Middle Aged,Wrong reading
+1066,Chickenpox,98.0,0.0,0.0,1.0,42.0,Female,92.0,79.0,167.0,0,Middle Aged,Normal
+1067,Diabetes,99.0,1.0,0.0,1.0,48.0,Male,129.0,91.0,171.0,1,Middle Aged,Wrong reading
+1068,Bronchitis,96.0,0.0,1.0,1.0,38.0,Male,158.0,74.0,198.0,1,Adult,Wrong reading
+1069,Rheumatoid Arthritis,103.0,1.0,0.0,0.0,28.0,Female,159.0,85.0,150.0,0,Young Adult,Wrong reading
+1070,Hyperthyroidism,102.0,0.0,1.0,0.0,63.0,Female,143.0,67.0,186.0,0,Old,Wrong reading
+1071,Rheumatoid Arthritis,101.0,1.0,1.0,1.0,65.0,Male,148.0,65.0,230.0,1,Old,Wrong reading
+1072,Dengue Fever,96.0,0.0,1.0,1.0,62.0,Female,151.0,82.0,165.0,0,Old,Wrong reading
+1073,Asthma,100.40495867768595,1.0,1.0,1.0,38.0,Female,113.0,61.0,219.0,0,Adult,Normal
+1074,Urinary Tract Infection,97.0,1.0,1.0,1.0,38.0,Female,97.0,84.0,190.0,0,Adult,Wrong reading
+1075,Cerebral Palsy,97.0,0.0,0.0,1.0,20.0,Male,139.0,83.0,161.0,1,Young Adult,Higher Blood Pressure Stage 1
+1076,Bronchitis,98.0,1.0,0.0,1.0,62.0,Female,124.0,94.0,126.0,0,Old,Wrong reading
+1077,Chickenpox,101.0,0.0,1.0,1.0,25.0,Male,140.0,97.0,150.0,1,Young Adult,High Blood Pressure Stage 2
+1078,Eczema,95.0,0.0,1.0,1.0,39.0,Male,121.0,70.0,132.0,1,Adult,Elevated
+1079,Migraine,96.0,0.0,1.0,1.0,22.0,Male,149.0,89.0,199.0,1,Young Adult,Wrong reading
+1080,Cerebral Palsy,97.0,1.0,1.0,0.0,32.0,Female,153.0,89.0,132.0,0,Adult,Wrong reading
+1081,Stroke,101.0,0.0,0.0,1.0,35.0,Female,115.0,89.0,184.0,0,Adult,Wrong reading
+1082,Psoriasis,95.0,1.0,1.0,1.0,43.0,Female,150.0,97.0,196.0,0,Middle Aged,High Blood Pressure Stage 2
+1083,Tuberculosis,101.0,0.0,1.0,0.0,18.0,Female,93.0,99.0,140.0,0,Teen,Wrong reading
+1084,Diabetes,99.0,0.0,1.0,0.0,43.0,Female,112.0,70.0,169.0,0,Middle Aged,Normal
+1085,Cerebral Palsy,97.0,0.0,1.0,1.0,67.0,Male,106.0,68.0,136.0,1,Old,Normal
+1086,Rheumatoid Arthritis,104.0,0.0,0.0,0.0,50.0,Female,144.0,93.0,153.0,0,Middle Aged,High Blood Pressure Stage 2
+1087,Autism Spectrum Disorder (ASD),96.0,0.0,0.0,0.0,49.0,Female,131.0,100.0,148.0,0,Middle Aged,Wrong reading
+1088,Influenza,97.0,0.0,1.0,0.0,22.0,Female,146.0,87.0,185.0,0,Young Adult,Wrong reading
+1089,Hypertensive Heart Disease,100.40495867768595,0.0,1.0,1.0,24.0,Female,153.0,73.0,202.0,0,Young Adult,Wrong reading
+1090,Bronchitis,104.0,0.0,1.0,0.0,20.0,Female,155.0,69.0,202.0,0,Young Adult,Wrong reading
+1091,Eczema,101.0,0.0,0.0,1.0,22.0,Female,144.0,77.0,131.0,0,Young Adult,Wrong reading
+1092,Eczema,104.0,1.0,1.0,0.0,26.0,Male,139.0,96.0,132.0,1,Young Adult,Wrong reading
+1093,Diabetes,100.40495867768595,0.0,1.0,0.0,72.0,Male,137.0,100.0,218.0,1,Old,Wrong reading
+1094,Eczema,97.0,0.0,1.0,0.0,74.0,Male,97.0,68.0,231.0,1,Old,Normal
+1095,Psoriasis,102.0,1.0,0.0,0.0,54.0,Male,142.0,92.0,140.0,1,Middle Aged,High Blood Pressure Stage 2
+1096,Hypertensive Heart Disease,102.0,1.0,1.0,1.0,59.0,Female,95.0,72.0,121.0,0,Middle Aged,Normal
+1097,Urinary Tract Infection,100.0,0.0,1.0,1.0,58.0,Male,149.0,84.0,198.0,1,Middle Aged,Wrong reading
+1098,Rheumatoid Arthritis,102.0,0.0,1.0,0.0,60.0,Female,134.0,75.0,138.0,0,Old,Wrong reading
+1099,Hypertensive Heart Disease,98.0,1.0,1.0,1.0,46.0,Female,101.0,78.0,230.0,0,Middle Aged,Normal
+1100,"Eating Disorders (Anorexia, Bulimia)",97.0,1.0,0.0,1.0,29.0,Female,103.0,68.0,171.0,0,Young Adult,Normal
+1101,Rheumatoid Arthritis,97.0,1.0,1.0,0.0,69.0,Female,143.0,68.0,216.0,0,Old,Wrong reading
+1102,Chickenpox,103.0,0.0,0.0,0.0,49.10808510638298,Male,101.0,69.0,215.0,1,Middle Aged,Normal
+1103,Liver Cancer,100.0,1.0,0.0,0.0,59.0,Male,156.0,79.47863247863248,185.0,1,Middle Aged,Wrong reading
+1104,Tuberculosis,100.0,1.0,1.0,1.0,59.0,Male,129.0,81.0,220.0,1,Middle Aged,Wrong reading
+1105,"Eating Disorders (Anorexia, Bulimia)",95.0,0.0,1.0,1.0,30.0,Female,157.0,79.0,188.0,0,Adult,Wrong reading
+1106,Liver Cancer,96.0,1.0,1.0,0.0,44.0,Male,104.0,71.0,193.0,1,Middle Aged,Normal
+1107,Influenza,103.0,0.0,1.0,0.0,44.0,Male,129.0,60.0,230.0,1,Middle Aged,Elevated
+1108,Hyperthyroidism,103.0,1.0,0.0,0.0,18.0,Male,119.0,63.0,219.0,1,Teen,Normal
+1109,Urinary Tract Infection,99.0,0.0,1.0,1.0,51.0,Female,149.0,88.0,192.0,0,Middle Aged,Wrong reading
+1110,Hypertensive Heart Disease,100.0,0.0,0.0,0.0,74.0,Female,137.0,92.0,160.0,0,Old,Wrong reading
+1111,Stroke,102.0,1.0,0.0,1.0,37.0,Male,119.0,78.0,188.0,1,Adult,Normal
+1112,Autism Spectrum Disorder (ASD),100.0,1.0,0.0,0.0,75.0,Male,152.0,99.0,165.0,1,Old,High Blood Pressure Stage 2
+1113,Liver Cancer,99.0,0.0,1.0,0.0,49.0,Male,144.0,74.0,188.0,1,Middle Aged,Wrong reading
+1114,Urinary Tract Infection,100.0,0.0,0.0,1.0,32.0,Male,100.0,90.0,188.0,1,Adult,Wrong reading
+1115,Chickenpox,103.0,1.0,1.0,1.0,58.0,Female,147.0,83.0,163.0,0,Middle Aged,Wrong reading
+1116,Migraine,96.0,1.0,0.0,1.0,60.0,Female,107.0,66.0,129.0,0,Old,Normal
+1117,Rheumatoid Arthritis,102.0,1.0,1.0,1.0,22.0,Female,156.0,74.0,180.0,0,Young Adult,Wrong reading
+1118,Chickenpox,96.0,1.0,1.0,0.0,50.0,Male,149.0,63.0,150.0,1,Middle Aged,Wrong reading
+1119,Asthma,97.0,0.0,0.0,1.0,54.0,Female,122.0,83.0,156.0,0,Middle Aged,Wrong reading
+1120,Eczema,100.40495867768595,1.0,1.0,0.0,79.0,Male,92.0,93.0,131.0,1,Old,Wrong reading
+1121,Hypertensive Heart Disease,96.0,0.0,1.0,1.0,49.0,Male,158.0,90.0,171.0,1,Middle Aged,High Blood Pressure Stage 2
+1122,Chickenpox,95.0,0.0,1.0,1.0,56.0,Female,126.0,89.0,141.0,0,Middle Aged,Wrong reading
+1123,"Eating Disorders (Anorexia, Bulimia)",100.40495867768595,0.0,1.0,0.0,21.0,Female,158.0,89.0,180.0,0,Young Adult,Wrong reading
+1124,Diabetes,98.0,0.0,0.0,1.0,75.0,Male,113.0,66.0,130.0,1,Old,Normal
+1125,Cerebral Palsy,97.0,0.0,0.0,1.0,36.0,Female,98.0,84.0,219.0,0,Adult,Wrong reading
+1126,Migraine,99.0,1.0,1.0,0.0,31.0,Female,136.0,73.0,198.0,0,Adult,Wrong reading
+1127,Asthma,101.0,0.0,1.0,1.0,30.0,Female,151.0,95.0,180.0,0,Adult,High Blood Pressure Stage 2
+1128,Bronchitis,95.0,0.0,0.0,0.0,72.0,Male,130.0,75.0,134.0,1,Old,Wrong reading
+1129,Cerebral Palsy,104.0,0.0,1.0,0.0,58.0,Female,111.0,88.0,219.0,0,Middle Aged,Wrong reading
+1130,Cerebral Palsy,101.0,0.0,1.0,1.0,23.0,Female,150.0,64.0,193.0,0,Young Adult,Wrong reading
+1131,Urinary Tract Infection,95.0,0.0,0.0,1.0,76.0,Female,152.0,90.0,228.0,0,Old,High Blood Pressure Stage 2
+1132,Urinary Tract Infection,101.0,1.0,1.0,1.0,49.10808510638298,Female,157.0,81.0,195.0,0,Middle Aged,Wrong reading
+1133,Dengue Fever,102.0,0.0,0.0,1.0,39.0,Male,120.0,64.0,175.0,1,Adult,Elevated
+1134,Chickenpox,100.40495867768595,0.0,0.0,1.0,78.0,Male,127.0,81.0,134.0,1,Old,Wrong reading
+1135,Psoriasis,104.0,0.0,0.0,1.0,31.0,Female,110.0,61.0,142.0,0,Adult,Normal
+1136,"Eating Disorders (Anorexia, Bulimia)",100.0,0.0,0.0,1.0,18.0,Female,160.0,89.0,230.0,0,Teen,Wrong reading
+1137,Influenza,100.40495867768595,0.0,1.0,0.0,39.0,Female,101.0,90.0,228.0,0,Adult,Wrong reading
+1138,Autism Spectrum Disorder (ASD),100.0,0.0,1.0,1.0,78.0,Female,122.0,62.0,161.0,0,Old,Elevated
+1139,Autism Spectrum Disorder (ASD),99.0,0.0,1.0,0.0,54.0,Female,139.0,77.0,151.0,0,Middle Aged,Wrong reading
+1140,Asthma,100.40495867768595,0.0,1.0,1.0,49.10808510638298,Female,94.0,65.0,202.0,0,Middle Aged,Normal
+1141,Stroke,102.0,0.0,0.0,1.0,60.0,Male,144.0,93.0,147.0,1,Old,High Blood Pressure Stage 2
+1142,Psoriasis,96.0,1.0,1.0,0.0,68.0,Female,117.0,79.0,178.0,0,Old,Normal
+1143,Bronchitis,102.0,0.0,0.0,1.0,55.0,Female,145.0,79.0,228.0,0,Middle Aged,Wrong reading
+1144,Chickenpox,101.0,0.0,1.0,1.0,34.0,Female,131.0,73.0,122.0,0,Adult,Wrong reading
+1145,Cerebral Palsy,103.0,0.0,1.0,0.0,65.0,Female,144.0,78.0,219.0,0,Old,Wrong reading
+1146,Cerebral Palsy,101.0,1.0,1.0,1.0,24.0,Female,125.0,76.0,158.0,0,Young Adult,Elevated
+1147,Hyperthyroidism,101.0,0.0,1.0,1.0,22.0,Male,126.0,83.0,222.0,1,Young Adult,Wrong reading
+1148,Cerebral Palsy,97.0,0.0,1.0,1.0,23.0,Female,109.0,69.0,183.0,0,Young Adult,Normal
+1149,Tuberculosis,99.0,0.0,1.0,1.0,63.0,Female,140.0,90.0,231.0,0,Old,High Blood Pressure Stage 2
+1150,Stroke,100.40495867768595,0.0,0.0,0.0,24.0,Female,126.0,77.0,167.0,0,Young Adult,Elevated
+1151,Gastroenteritis,103.0,0.0,1.0,1.0,69.0,Male,145.0,75.0,142.0,1,Old,Wrong reading
+1152,"Eating Disorders (Anorexia, Bulimia)",98.0,0.0,0.0,1.0,70.0,Male,111.0,91.0,235.0,1,Old,Wrong reading
+1153,Gastroenteritis,103.0,1.0,0.0,1.0,33.0,Female,96.0,83.0,233.0,0,Adult,Wrong reading
+1154,"Eating Disorders (Anorexia, Bulimia)",102.0,0.0,1.0,1.0,72.0,Female,153.0,97.0,166.0,0,Old,High Blood Pressure Stage 2
+1155,Bronchitis,96.0,1.0,0.0,1.0,38.0,Female,90.0,72.0,120.0,0,Adult,Normal
+1156,Urinary Tract Infection,100.40495867768595,0.0,1.0,1.0,53.0,Female,128.0,86.0,219.0,0,Middle Aged,Wrong reading
+1157,Stroke,95.0,1.0,0.0,1.0,43.0,Female,137.0,65.0,140.0,0,Middle Aged,Wrong reading
+1158,Liver Cancer,99.0,1.0,1.0,1.0,72.0,Female,145.0,90.0,176.0,0,Old,High Blood Pressure Stage 2
+1159,Autism Spectrum Disorder (ASD),103.0,0.0,0.0,1.0,37.0,Female,152.0,60.0,165.0,0,Adult,Wrong reading
+1160,Migraine,104.0,0.0,1.0,1.0,72.0,Female,99.0,80.0,186.0,0,Old,Wrong reading
+1161,Migraine,104.0,0.0,1.0,1.0,55.0,Female,101.0,67.0,230.0,0,Middle Aged,Normal
+1162,Tuberculosis,100.40495867768595,0.0,1.0,1.0,37.0,Female,146.0,88.0,173.0,0,Adult,Wrong reading
+1163,Rheumatoid Arthritis,104.0,0.0,0.0,1.0,78.0,Male,130.0,85.0,198.0,1,Old,Higher Blood Pressure Stage 1
+1164,"Eating Disorders (Anorexia, Bulimia)",101.0,1.0,0.0,1.0,53.0,Female,109.0,94.0,152.0,0,Middle Aged,Wrong reading
+1165,Psoriasis,96.0,0.0,1.0,1.0,65.0,Female,150.0,100.0,150.0,0,Old,High Blood Pressure Stage 2
+1166,Hyperthyroidism,95.0,0.0,1.0,1.0,27.0,Female,99.0,67.0,121.0,0,Young Adult,Normal
+1167,Diabetes,99.0,0.0,1.0,1.0,39.0,Female,96.0,91.0,193.0,0,Adult,Wrong reading
+1168,Migraine,97.0,1.0,1.0,0.0,70.0,Female,148.0,77.0,200.0,0,Old,Wrong reading
+1169,Influenza,99.0,0.0,1.0,0.0,49.10808510638298,Female,143.0,97.0,238.0,0,Middle Aged,High Blood Pressure Stage 2
+1170,Psoriasis,97.0,0.0,1.0,1.0,58.0,Female,158.0,73.0,201.0,0,Middle Aged,Wrong reading
+1171,Diabetes,102.0,0.0,1.0,1.0,29.0,Female,154.0,67.0,195.0,0,Young Adult,Wrong reading
+1172,Asthma,100.40495867768595,0.0,0.0,1.0,54.0,Female,159.0,74.0,146.0,0,Middle Aged,Wrong reading
+1173,Rheumatoid Arthritis,100.40495867768595,0.0,1.0,1.0,48.0,Female,147.0,83.0,141.0,0,Middle Aged,Wrong reading
+1174,Bronchitis,98.0,1.0,1.0,1.0,25.0,Male,140.0,92.0,201.0,1,Young Adult,High Blood Pressure Stage 2
+1175,Hyperthyroidism,100.0,0.0,1.0,1.0,28.0,Male,135.0,80.0,212.0,1,Young Adult,Higher Blood Pressure Stage 1
+1176,Influenza,97.0,0.0,1.0,0.0,33.0,Female,113.0,91.0,176.0,0,Adult,Wrong reading
+1177,Bronchitis,97.0,1.0,1.0,0.0,72.0,Female,100.0,91.0,235.0,0,Old,Wrong reading
+1178,Dengue Fever,98.0,0.0,1.0,0.0,74.0,Male,96.0,90.0,204.0,1,Old,Wrong reading
+1179,Stroke,100.0,0.0,1.0,1.0,21.0,Male,159.0,78.0,121.0,1,Young Adult,Wrong reading
+1180,Dengue Fever,103.0,0.0,1.0,1.0,52.0,Male,140.0,89.0,172.0,1,Middle Aged,Wrong reading
+1181,Gastroenteritis,103.0,0.0,1.0,1.0,48.0,Female,130.0,79.47863247863248,188.0,0,Middle Aged,Wrong reading
+1182,Stroke,104.0,1.0,0.0,1.0,32.0,Female,127.0,66.0,132.0,0,Adult,Elevated
+1183,Urinary Tract Infection,101.0,1.0,1.0,1.0,56.0,Male,157.0,91.0,225.0,1,Middle Aged,High Blood Pressure Stage 2
+1184,Migraine,100.40495867768595,0.0,1.0,1.0,31.0,Female,100.0,69.0,224.0,0,Adult,Normal
+1185,Liver Cancer,103.0,1.0,1.0,1.0,47.0,Female,96.0,73.0,145.0,0,Middle Aged,Normal
+1186,Dengue Fever,103.0,0.0,1.0,1.0,48.0,Male,144.0,63.0,226.0,1,Middle Aged,Wrong reading
+1187,Chickenpox,99.0,0.0,1.0,1.0,29.0,Male,133.0,80.0,205.0,1,Young Adult,Higher Blood Pressure Stage 1
+1188,Cerebral Palsy,95.0,0.0,1.0,0.0,30.0,Female,116.0,68.0,227.0,0,Adult,Normal
+1189,Liver Cancer,101.0,1.0,1.0,1.0,43.0,Male,91.0,81.0,147.0,1,Middle Aged,Wrong reading
+1190,Autism Spectrum Disorder (ASD),99.0,0.0,1.0,1.0,75.0,Female,96.0,97.0,134.0,0,Old,Wrong reading
+1191,"Eating Disorders (Anorexia, Bulimia)",103.0,0.0,1.0,1.0,80.0,Female,105.0,83.0,143.0,0,Old,Wrong reading
+1192,Diabetes,96.0,1.0,0.0,1.0,38.0,Male,110.0,97.0,218.0,1,Adult,Wrong reading
+1193,Gastroenteritis,97.0,0.0,1.0,0.0,68.0,Female,159.0,98.0,130.0,0,Old,High Blood Pressure Stage 2
+1194,Tuberculosis,102.0,0.0,1.0,0.0,67.0,Female,109.0,69.0,169.0,0,Old,Normal
+1195,Bronchitis,99.0,0.0,1.0,1.0,32.0,Female,149.0,82.0,145.0,0,Adult,Wrong reading
+1196,Urinary Tract Infection,103.0,0.0,1.0,1.0,28.0,Female,121.0,65.0,179.0,0,Young Adult,Elevated
+1197,Diabetes,100.0,1.0,0.0,0.0,64.0,Female,110.0,85.0,142.0,0,Old,Wrong reading
+1198,Cerebral Palsy,102.0,0.0,1.0,1.0,53.0,Male,126.0,67.0,215.0,1,Middle Aged,Elevated
+1199,Bronchitis,100.40495867768595,0.0,1.0,1.0,58.0,Female,146.0,60.0,198.0,0,Middle Aged,Wrong reading
